@@ -1,0 +1,1201 @@
+CandidateID,Department,Education,YearsExperience,Age,AgeGroup,Gender,Ethnicity,InterviewScore,TechnicalAssessmentScore,AlgorithmicScore,Selected
+CAND-0001,Data & AI,Bachelors,2,24,<40,Male,Hispanic or Latino,76.7,87.9,0.741,1
+CAND-0002,Data & AI,Bachelors,7,34,<40,Female,Asian,80.9,72.2,0.662,0
+CAND-0003,Sales,Bachelors,6,37,<40,Male,Hispanic or Latino,69.0,76.9,0.597,0
+CAND-0004,Data & AI,PhD,4,28,<40,Male,White,70.4,85.5,0.705,1
+CAND-0005,Sales,Bachelors,7,23,<40,Female,Hispanic or Latino,90.7,56.6,0.63,0
+CAND-0006,Engineering,Bachelors,10,44,>=40,Female,Black or African American,66.6,58.8,0.621,0
+CAND-0007,Engineering,Bachelors,8,30,<40,Female,Hispanic or Latino,89.3,80.3,0.761,1
+CAND-0008,Sales,Masters,12,30,<40,Female,White,61.9,62.8,0.69,0
+CAND-0009,Data & AI,Bachelors,6,43,>=40,Female,White,100.0,59.7,0.642,0
+CAND-0010,Sales,Bachelors,8,51,>=40,Female,Hispanic or Latino,57.6,49.0,0.559,0
+CAND-0011,Engineering,Bachelors,7,36,<40,Female,White,86.6,81.4,0.741,1
+CAND-0012,Sales,Bachelors,14,41,>=40,Male,Asian,56.5,59.8,0.674,0
+CAND-0013,Operations,Masters,2,24,<40,Female,Hispanic or Latino,81.0,81.2,0.56,0
+CAND-0014,Engineering,Bachelors,4,39,<40,Female,White,69.9,75.4,0.663,0
+CAND-0015,Sales,Bachelors,15,40,>=40,Female,Hispanic or Latino,73.9,88.9,0.82,1
+CAND-0016,Operations,Associate,6,26,<40,Male,White,79.3,42.6,0.574,0
+CAND-0017,Engineering,Bachelors,0,29,<40,Male,White,73.4,25.0,0.353,0
+CAND-0018,Operations,Bachelors,14,43,>=40,Male,White,72.2,94.3,0.921,1
+CAND-0019,Operations,Masters,3,31,<40,Non-Binary,White,44.0,83.2,0.58,0
+CAND-0020,Engineering,Masters,7,45,>=40,Male,White,89.3,52.6,0.65,0
+CAND-0021,Engineering,Bachelors,11,34,<40,Male,White,91.4,55.7,0.812,1
+CAND-0022,Engineering,Masters,10,33,<40,Female,White,68.5,68.7,0.528,0
+CAND-0023,Engineering,Bachelors,3,41,>=40,Female,White,77.8,65.0,0.554,0
+CAND-0024,Operations,Associate,16,50,>=40,Female,Hispanic or Latino,89.1,58.0,0.735,1
+CAND-0025,Engineering,Masters,9,39,<40,Female,White,78.4,55.3,0.572,0
+CAND-0026,Operations,Bachelors,6,35,<40,Female,White,62.6,60.8,0.559,0
+CAND-0027,Engineering,Bachelors,3,44,>=40,Female,White,53.2,75.4,0.469,0
+CAND-0028,Operations,Bachelors,8,44,>=40,Male,White,78.9,68.2,0.625,0
+CAND-0029,Engineering,Masters,13,38,<40,Male,Other,71.9,60.6,0.72,1
+CAND-0030,Sales,Masters,5,37,<40,Female,Black or African American,69.9,58.0,0.457,0
+CAND-0031,Engineering,PhD,0,39,<40,Male,Hispanic or Latino,59.3,100.0,0.683,0
+CAND-0032,Engineering,Bachelors,4,22,<40,Female,White,65.2,59.3,0.488,0
+CAND-0033,Engineering,Masters,5,25,<40,Male,Hispanic or Latino,74.7,75.8,0.627,0
+CAND-0034,Engineering,Bachelors,0,35,<40,Male,Other,65.9,100.0,0.631,0
+CAND-0035,Engineering,Bachelors,9,27,<40,Male,White,70.5,78.4,0.672,0
+CAND-0036,Sales,Masters,9,34,<40,Female,Black or African American,69.6,75.1,0.61,0
+CAND-0037,Engineering,Bachelors,4,35,<40,Male,Black or African American,79.2,86.5,0.64,0
+CAND-0038,Data & AI,Bachelors,10,26,<40,Male,Other,49.9,88.9,0.702,1
+CAND-0039,Data & AI,Masters,3,38,<40,Female,White,65.0,67.6,0.449,0
+CAND-0040,Data & AI,Bachelors,1,20,<40,Female,Black or African American,54.6,48.1,0.309,0
+CAND-0041,Operations,PhD,2,31,<40,Male,White,72.2,65.7,0.637,0
+CAND-0042,Data & AI,Bachelors,3,21,<40,Female,Asian,58.7,76.7,0.498,0
+CAND-0043,Sales,Bachelors,10,31,<40,Female,Black or African American,83.2,62.8,0.604,0
+CAND-0044,Engineering,Bachelors,9,41,>=40,Male,Hispanic or Latino,64.2,64.5,0.697,1
+CAND-0045,Sales,Bachelors,3,28,<40,Female,Asian,61.9,92.3,0.64,0
+CAND-0046,Sales,Associate,4,20,<40,Male,Black or African American,58.3,79.8,0.49,0
+CAND-0047,Engineering,Bachelors,14,32,<40,Male,Hispanic or Latino,73.5,76.9,0.82,1
+CAND-0048,Sales,Bachelors,10,27,<40,Female,Hispanic or Latino,52.2,52.5,0.582,0
+CAND-0049,Engineering,Bachelors,1,34,<40,Female,White,68.7,64.3,0.512,0
+CAND-0050,Engineering,Masters,12,32,<40,Male,White,68.4,73.7,0.703,1
+CAND-0051,Data & AI,Bachelors,16,35,<40,Female,White,62.7,77.8,0.652,0
+CAND-0052,Engineering,Masters,6,43,>=40,Female,White,73.1,91.8,0.695,1
+CAND-0053,Engineering,Masters,5,30,<40,Female,Other,63.5,78.0,0.548,0
+CAND-0054,Engineering,Bachelors,5,34,<40,Female,White,74.0,59.9,0.565,0
+CAND-0055,Engineering,Associate,5,31,<40,Female,Hispanic or Latino,62.4,96.2,0.729,1
+CAND-0056,Engineering,Masters,10,42,>=40,Male,White,59.6,63.8,0.58,0
+CAND-0057,Engineering,Bachelors,4,35,<40,Male,White,73.6,81.7,0.713,1
+CAND-0058,Engineering,Masters,10,38,<40,Female,White,81.3,59.4,0.568,0
+CAND-0059,Engineering,Masters,7,40,>=40,Female,White,100.0,56.3,0.654,0
+CAND-0060,Engineering,Masters,4,20,<40,Male,White,65.2,47.7,0.396,0
+CAND-0061,Sales,Bachelors,8,40,>=40,Male,Black or African American,80.8,48.7,0.578,0
+CAND-0062,Engineering,Masters,6,37,<40,Female,Black or African American,63.8,60.9,0.564,0
+CAND-0063,Data & AI,Bachelors,4,28,<40,Male,Hispanic or Latino,80.6,87.6,0.708,1
+CAND-0064,Sales,Bachelors,6,44,>=40,Male,Black or African American,88.2,71.9,0.68,0
+CAND-0065,Sales,Masters,6,41,>=40,Male,Asian,71.8,41.3,0.492,0
+CAND-0066,Sales,Masters,5,32,<40,Male,Hispanic or Latino,80.0,80.5,0.727,1
+CAND-0067,Engineering,Bachelors,3,20,<40,Male,White,76.2,67.9,0.653,0
+CAND-0068,Operations,Bachelors,7,33,<40,Male,White,70.2,90.7,0.747,1
+CAND-0069,Engineering,Masters,7,26,<40,Female,White,64.0,60.6,0.533,0
+CAND-0070,Engineering,PhD,8,20,<40,Male,White,65.1,54.4,0.594,0
+CAND-0071,Engineering,Bachelors,8,38,<40,Female,Black or African American,51.5,94.0,0.731,1
+CAND-0072,Operations,Bachelors,12,46,>=40,Female,Asian,84.5,83.1,0.815,1
+CAND-0073,Operations,Masters,2,33,<40,Male,Black or African American,96.2,42.4,0.451,0
+CAND-0074,Data & AI,Bachelors,13,36,<40,Male,Hispanic or Latino,50.3,73.4,0.774,1
+CAND-0075,Sales,Bachelors,1,44,>=40,Female,White,84.5,42.4,0.429,0
+CAND-0076,Operations,Masters,11,35,<40,Male,White,69.4,82.3,0.721,1
+CAND-0077,Engineering,Bachelors,9,29,<40,Male,Hispanic or Latino,61.0,51.3,0.615,0
+CAND-0078,Data & AI,Bachelors,4,20,<40,Male,White,72.0,49.2,0.506,0
+CAND-0079,Operations,Masters,0,40,>=40,Male,Asian,58.8,88.8,0.63,0
+CAND-0080,Data & AI,Bachelors,1,37,<40,Female,White,73.3,74.2,0.595,0
+CAND-0081,Engineering,Bachelors,4,41,>=40,Female,Hispanic or Latino,65.9,79.0,0.631,0
+CAND-0082,Data & AI,Bachelors,8,20,<40,Male,Hispanic or Latino,65.2,60.7,0.68,0
+CAND-0083,Engineering,Bachelors,4,50,>=40,Non-Binary,Black or African American,86.5,66.8,0.603,0
+CAND-0084,Engineering,Bachelors,6,27,<40,Male,Hispanic or Latino,45.5,91.5,0.653,0
+CAND-0085,Data & AI,Bachelors,5,42,>=40,Female,White,62.1,72.8,0.536,0
+CAND-0086,Engineering,Masters,7,20,<40,Female,White,42.3,100.0,0.699,1
+CAND-0087,Engineering,Masters,1,27,<40,Female,White,71.8,65.1,0.538,0
+CAND-0088,Sales,Bachelors,5,29,<40,Male,White,63.1,82.4,0.721,1
+CAND-0089,Sales,Bachelors,9,25,<40,Female,White,59.9,84.6,0.699,1
+CAND-0090,Engineering,Bachelors,17,27,<40,Male,Asian,74.0,71.0,0.865,1
+CAND-0091,Engineering,Masters,10,46,>=40,Male,White,78.6,88.4,0.8,1
+CAND-0092,Operations,Bachelors,6,31,<40,Male,Asian,86.6,60.0,0.665,0
+CAND-0093,Engineering,Masters,4,51,>=40,Female,Asian,100.0,80.9,0.741,1
+CAND-0094,Sales,Bachelors,8,42,>=40,Male,Hispanic or Latino,62.0,52.4,0.525,0
+CAND-0095,Operations,PhD,3,20,<40,Male,Asian,60.6,49.0,0.375,0
+CAND-0096,Sales,Bachelors,7,31,<40,Male,Hispanic or Latino,70.1,68.6,0.659,0
+CAND-0097,Engineering,Masters,8,30,<40,Male,Black or African American,71.2,66.1,0.533,0
+CAND-0098,Engineering,Masters,6,26,<40,Male,Black or African American,94.3,51.4,0.625,0
+CAND-0099,Sales,Bachelors,10,43,>=40,Female,Black or African American,77.3,79.5,0.749,1
+CAND-0100,Data & AI,Masters,6,40,>=40,Male,White,56.8,91.4,0.687,0
+CAND-0101,Sales,Masters,5,51,>=40,Male,White,56.0,63.1,0.566,0
+CAND-0102,Engineering,Masters,4,30,<40,Female,Black or African American,79.5,83.6,0.659,0
+CAND-0103,Engineering,Masters,1,37,<40,Female,White,67.1,58.5,0.529,0
+CAND-0104,Engineering,Bachelors,1,31,<40,Female,Other,89.8,65.0,0.585,0
+CAND-0105,Data & AI,Bachelors,9,30,<40,Female,Black or African American,77.2,67.3,0.563,0
+CAND-0106,Sales,Bachelors,12,40,>=40,Male,White,55.4,80.5,0.629,0
+CAND-0107,Engineering,Masters,15,51,>=40,Female,White,53.5,66.8,0.641,0
+CAND-0108,Data & AI,Bachelors,11,41,>=40,Male,White,74.8,38.0,0.498,0
+CAND-0109,Sales,Masters,9,41,>=40,Female,White,65.2,86.0,0.707,1
+CAND-0110,Operations,Bachelors,8,33,<40,Female,White,86.0,69.7,0.704,1
+CAND-0111,Sales,Bachelors,12,40,>=40,Female,Other,74.8,33.5,0.516,0
+CAND-0112,Sales,Bachelors,5,43,>=40,Female,White,74.5,89.3,0.736,1
+CAND-0113,Sales,Bachelors,14,27,<40,Male,Hispanic or Latino,52.8,90.1,0.785,1
+CAND-0114,Data & AI,Bachelors,6,34,<40,Male,White,63.3,51.8,0.502,0
+CAND-0115,Data & AI,Bachelors,8,31,<40,Female,Asian,69.3,46.7,0.507,0
+CAND-0116,Data & AI,Bachelors,7,28,<40,Female,Black or African American,43.8,85.1,0.627,0
+CAND-0117,Engineering,Masters,11,41,>=40,Male,Black or African American,78.7,85.2,0.68,0
+CAND-0118,Sales,Bachelors,6,32,<40,Female,Hispanic or Latino,82.0,75.2,0.663,0
+CAND-0119,Engineering,Bachelors,8,37,<40,Male,Black or African American,62.6,61.3,0.572,0
+CAND-0120,Data & AI,Masters,2,37,<40,Female,White,87.8,56.1,0.526,0
+CAND-0121,Engineering,Bachelors,6,31,<40,Female,White,87.1,77.0,0.665,0
+CAND-0122,Engineering,Bachelors,11,22,<40,Male,White,77.3,58.4,0.735,1
+CAND-0123,Engineering,Bachelors,3,31,<40,Male,White,69.1,58.5,0.647,0
+CAND-0124,Engineering,Bachelors,6,38,<40,Male,White,83.9,79.8,0.716,1
+CAND-0125,Engineering,Bachelors,6,36,<40,Female,Hispanic or Latino,49.1,82.7,0.595,0
+CAND-0126,Engineering,Bachelors,4,20,<40,Female,White,71.0,90.5,0.708,1
+CAND-0127,Engineering,Bachelors,11,40,>=40,Female,White,58.2,40.7,0.453,0
+CAND-0128,Engineering,Bachelors,8,29,<40,Female,Asian,60.7,60.5,0.565,0
+CAND-0129,Data & AI,Bachelors,10,38,<40,Male,Asian,76.3,62.9,0.76,1
+CAND-0130,Engineering,Bachelors,11,40,>=40,Male,Other,58.7,67.7,0.776,1
+CAND-0131,Operations,Bachelors,7,37,<40,Female,Black or African American,48.6,48.9,0.351,0
+CAND-0132,Operations,Bachelors,13,49,>=40,Non-Binary,White,100.0,76.5,0.823,1
+CAND-0133,Engineering,Masters,2,41,>=40,Male,Asian,61.5,96.3,0.654,0
+CAND-0134,Engineering,Masters,6,30,<40,Male,White,58.2,50.1,0.491,0
+CAND-0135,Engineering,Masters,7,31,<40,Male,White,86.7,70.8,0.77,1
+CAND-0136,Sales,Masters,0,33,<40,Female,White,61.6,86.8,0.578,0
+CAND-0137,Sales,Masters,12,31,<40,Male,Black or African American,52.2,64.4,0.643,0
+CAND-0138,Engineering,Bachelors,3,36,<40,Non-Binary,White,57.2,57.0,0.509,0
+CAND-0139,Engineering,Bachelors,7,24,<40,Male,Hispanic or Latino,64.0,70.7,0.63,0
+CAND-0140,Sales,Bachelors,10,45,>=40,Male,White,55.0,79.0,0.704,1
+CAND-0141,Engineering,Bachelors,16,34,<40,Male,White,58.3,49.0,0.511,0
+CAND-0142,Operations,Bachelors,0,44,>=40,Female,White,63.7,83.5,0.552,0
+CAND-0143,Engineering,PhD,9,24,<40,Male,White,83.6,64.8,0.69,0
+CAND-0144,Engineering,PhD,5,24,<40,Male,Other,99.0,58.0,0.605,0
+CAND-0145,Engineering,Bachelors,9,42,>=40,Male,Other,85.5,45.0,0.689,0
+CAND-0146,Sales,Bachelors,10,28,<40,Female,White,66.8,58.2,0.587,0
+CAND-0147,Engineering,Bachelors,8,26,<40,Male,Asian,50.3,58.9,0.566,0
+CAND-0148,Engineering,Masters,7,43,>=40,Female,Hispanic or Latino,79.8,50.1,0.611,0
+CAND-0149,Engineering,Masters,2,27,<40,Male,White,55.7,75.1,0.518,0
+CAND-0150,Engineering,Bachelors,3,33,<40,Female,Hispanic or Latino,64.8,70.2,0.567,0
+CAND-0151,Sales,Masters,10,29,<40,Female,Asian,92.6,82.7,0.718,1
+CAND-0152,Engineering,Masters,3,40,>=40,Male,White,93.9,78.7,0.75,1
+CAND-0153,Data & AI,Bachelors,8,35,<40,Non-Binary,White,72.5,58.4,0.596,0
+CAND-0154,Engineering,Bachelors,12,41,>=40,Male,White,87.2,63.3,0.736,1
+CAND-0155,Sales,Associate,1,24,<40,Female,White,86.7,56.8,0.598,0
+CAND-0156,Data & AI,Masters,12,35,<40,Male,White,79.2,44.1,0.727,1
+CAND-0157,Sales,Bachelors,12,34,<40,Male,Black or African American,66.2,73.8,0.648,0
+CAND-0158,Data & AI,Bachelors,8,28,<40,Male,Hispanic or Latino,62.2,70.5,0.599,0
+CAND-0159,Engineering,Bachelors,4,25,<40,Male,White,70.6,58.9,0.6,0
+CAND-0160,Operations,Masters,9,33,<40,Male,White,52.0,80.1,0.695,1
+CAND-0161,Sales,Bachelors,6,31,<40,Female,Hispanic or Latino,63.3,62.9,0.495,0
+CAND-0162,Engineering,Bachelors,4,43,>=40,Male,White,78.4,86.5,0.716,1
+CAND-0163,Engineering,Bachelors,7,40,>=40,Female,Hispanic or Latino,61.2,65.7,0.572,0
+CAND-0164,Engineering,Bachelors,3,28,<40,Female,Other,91.6,48.6,0.547,0
+CAND-0165,Data & AI,Bachelors,2,31,<40,Female,Other,73.4,90.8,0.695,1
+CAND-0166,Engineering,Bachelors,4,38,<40,Female,Black or African American,81.0,73.5,0.673,0
+CAND-0167,Operations,Bachelors,0,39,<40,Male,White,67.0,53.8,0.465,0
+CAND-0168,Engineering,PhD,11,43,>=40,Male,White,78.8,62.0,0.791,1
+CAND-0169,Sales,Bachelors,9,33,<40,Male,Hispanic or Latino,54.2,55.6,0.554,0
+CAND-0170,Data & AI,Bachelors,3,35,<40,Female,Other,75.9,82.9,0.73,1
+CAND-0171,Operations,Masters,4,20,<40,Female,White,77.2,36.8,0.48,0
+CAND-0172,Engineering,Bachelors,10,25,<40,Female,White,88.0,72.2,0.791,1
+CAND-0173,Operations,Bachelors,12,41,>=40,Female,Hispanic or Latino,41.9,42.2,0.514,0
+CAND-0174,Operations,Bachelors,7,25,<40,Female,White,60.6,39.7,0.413,0
+CAND-0175,Operations,Masters,5,20,<40,Female,White,45.1,74.2,0.547,0
+CAND-0176,Operations,Masters,0,40,>=40,Female,Asian,58.2,49.8,0.352,0
+CAND-0177,Operations,Bachelors,5,30,<40,Female,White,68.5,78.5,0.625,0
+CAND-0178,Sales,Masters,2,27,<40,Female,White,78.3,82.5,0.585,0
+CAND-0179,Data & AI,PhD,2,22,<40,Female,Black or African American,100.0,61.3,0.572,0
+CAND-0180,Sales,Bachelors,11,22,<40,Female,Hispanic or Latino,88.9,75.3,0.77,1
+CAND-0181,Sales,Masters,6,30,<40,Female,White,63.2,90.1,0.634,0
+CAND-0182,Sales,Bachelors,7,32,<40,Male,White,80.1,53.6,0.615,0
+CAND-0183,Operations,Bachelors,8,43,>=40,Female,Black or African American,87.2,80.9,0.746,1
+CAND-0184,Engineering,Bachelors,6,32,<40,Female,Black or African American,68.6,56.3,0.454,0
+CAND-0185,Data & AI,Masters,7,31,<40,Male,White,69.1,68.1,0.686,0
+CAND-0186,Engineering,Bachelors,7,31,<40,Male,White,66.8,58.7,0.638,0
+CAND-0187,Engineering,Bachelors,5,20,<40,Female,Black or African American,76.8,59.2,0.484,0
+CAND-0188,Engineering,Bachelors,8,30,<40,Female,Hispanic or Latino,75.8,62.6,0.493,0
+CAND-0189,Engineering,Bachelors,6,39,<40,Male,Hispanic or Latino,72.0,59.0,0.652,0
+CAND-0190,Operations,Masters,7,34,<40,Male,Hispanic or Latino,94.3,66.0,0.708,1
+CAND-0191,Engineering,Bachelors,7,40,>=40,Female,Hispanic or Latino,84.0,85.5,0.742,1
+CAND-0192,Data & AI,Bachelors,14,42,>=40,Male,White,47.3,47.3,0.666,0
+CAND-0193,Engineering,Bachelors,10,20,<40,Male,Asian,44.8,74.4,0.646,0
+CAND-0194,Operations,Bachelors,10,28,<40,Female,Asian,75.8,51.8,0.625,0
+CAND-0195,Data & AI,Bachelors,8,42,>=40,Female,Black or African American,68.6,52.7,0.514,0
+CAND-0196,Engineering,Masters,8,34,<40,Female,White,45.5,40.2,0.407,0
+CAND-0197,Engineering,Bachelors,5,32,<40,Male,Black or African American,43.4,84.1,0.554,0
+CAND-0198,Sales,Bachelors,11,42,>=40,Male,Black or African American,66.5,64.4,0.622,0
+CAND-0199,Sales,Bachelors,8,27,<40,Male,White,73.6,54.5,0.525,0
+CAND-0200,Engineering,Masters,9,28,<40,Male,Black or African American,74.1,69.9,0.604,0
+CAND-0201,Operations,Bachelors,5,27,<40,Male,Hispanic or Latino,61.5,62.8,0.562,0
+CAND-0202,Data & AI,Masters,3,23,<40,Female,Hispanic or Latino,62.2,84.5,0.71,1
+CAND-0203,Engineering,Bachelors,11,32,<40,Male,White,63.0,52.7,0.535,0
+CAND-0204,Operations,Masters,7,35,<40,Female,White,76.9,65.9,0.603,0
+CAND-0205,Engineering,Bachelors,5,25,<40,Male,Black or African American,48.6,80.8,0.534,0
+CAND-0206,Sales,Masters,8,33,<40,Female,Hispanic or Latino,70.3,52.0,0.591,0
+CAND-0207,Sales,Bachelors,6,29,<40,Non-Binary,Black or African American,84.3,61.1,0.615,0
+CAND-0208,Engineering,Bachelors,13,33,<40,Male,Hispanic or Latino,65.1,48.8,0.589,0
+CAND-0209,Engineering,Bachelors,5,45,>=40,Male,White,72.2,55.0,0.625,0
+CAND-0210,Engineering,Masters,8,34,<40,Female,Black or African American,75.8,44.7,0.453,0
+CAND-0211,Data & AI,Bachelors,11,34,<40,Female,Other,60.8,52.1,0.539,0
+CAND-0212,Operations,Masters,9,50,>=40,Female,Black or African American,68.6,48.4,0.452,0
+CAND-0213,Sales,Associate,9,29,<40,Male,Asian,51.8,58.0,0.612,0
+CAND-0214,Sales,Bachelors,4,38,<40,Female,Black or African American,76.8,82.6,0.621,0
+CAND-0215,Sales,Associate,7,29,<40,Female,Hispanic or Latino,72.3,72.2,0.606,0
+CAND-0216,Engineering,Bachelors,8,40,>=40,Male,White,86.3,87.5,0.825,1
+CAND-0217,Data & AI,Masters,7,26,<40,Non-Binary,White,82.3,62.2,0.74,1
+CAND-0218,Sales,Associate,12,31,<40,Female,White,86.5,54.5,0.565,0
+CAND-0219,Engineering,Associate,6,29,<40,Female,White,87.2,66.1,0.683,0
+CAND-0220,Engineering,Bachelors,7,25,<40,Female,White,59.9,58.9,0.625,0
+CAND-0221,Operations,Masters,17,20,<40,Female,Hispanic or Latino,76.7,74.2,0.85,1
+CAND-0222,Engineering,Bachelors,10,37,<40,Male,Asian,79.4,45.4,0.603,0
+CAND-0223,Operations,Bachelors,3,28,<40,Male,Black or African American,61.3,66.9,0.52,0
+CAND-0224,Engineering,Bachelors,8,31,<40,Female,White,87.3,90.6,0.8,1
+CAND-0225,Data & AI,Bachelors,10,32,<40,Female,Asian,68.5,54.2,0.574,0
+CAND-0226,Engineering,Masters,3,22,<40,Non-Binary,Black or African American,79.0,61.4,0.599,0
+CAND-0227,Operations,Bachelors,5,30,<40,Male,Hispanic or Latino,85.4,42.1,0.475,0
+CAND-0228,Sales,Associate,2,20,<40,Male,Asian,76.0,84.6,0.702,1
+CAND-0229,Engineering,Masters,8,30,<40,Female,Other,95.4,66.5,0.706,1
+CAND-0230,Engineering,Masters,0,45,>=40,Female,Black or African American,100.0,60.2,0.601,0
+CAND-0231,Engineering,Masters,3,29,<40,Male,Hispanic or Latino,70.3,68.7,0.651,0
+CAND-0232,Operations,Masters,1,24,<40,Female,Black or African American,83.4,66.9,0.542,0
+CAND-0233,Data & AI,Bachelors,8,30,<40,Male,White,100.0,57.5,0.684,0
+CAND-0234,Data & AI,Bachelors,5,46,>=40,Male,Black or African American,61.4,46.9,0.505,0
+CAND-0235,Engineering,Bachelors,8,30,<40,Female,White,31.0,70.3,0.438,0
+CAND-0236,Sales,Bachelors,0,21,<40,Male,White,83.5,68.2,0.547,0
+CAND-0237,Operations,Bachelors,3,20,<40,Female,Hispanic or Latino,64.6,62.2,0.512,0
+CAND-0238,Data & AI,Masters,10,30,<40,Male,White,53.2,63.4,0.579,0
+CAND-0239,Engineering,Bachelors,2,40,>=40,Male,Black or African American,60.0,84.2,0.565,0
+CAND-0240,Data & AI,Bachelors,11,37,<40,Female,Hispanic or Latino,48.2,72.4,0.596,0
+CAND-0241,Data & AI,Bachelors,6,42,>=40,Female,Asian,93.8,48.1,0.593,0
+CAND-0242,Sales,Bachelors,3,39,<40,Male,White,90.4,87.3,0.824,1
+CAND-0243,Engineering,Masters,3,34,<40,Male,Asian,66.8,78.2,0.568,0
+CAND-0244,Engineering,Masters,7,20,<40,Female,Asian,68.0,77.1,0.625,0
+CAND-0245,Operations,Associate,15,45,>=40,Male,Black or African American,72.7,56.1,0.708,1
+CAND-0246,Engineering,Bachelors,17,22,<40,Female,Hispanic or Latino,93.4,80.8,0.862,1
+CAND-0247,Engineering,Bachelors,1,52,>=40,Male,White,55.2,70.7,0.476,0
+CAND-0248,Data & AI,Bachelors,9,27,<40,Female,Asian,67.7,50.6,0.55,0
+CAND-0249,Data & AI,PhD,13,28,<40,Male,Black or African American,87.5,72.3,0.69,0
+CAND-0250,Operations,Bachelors,2,29,<40,Female,White,65.3,82.3,0.647,0
+CAND-0251,Engineering,Bachelors,4,34,<40,Female,White,58.3,76.5,0.578,0
+CAND-0252,Data & AI,Bachelors,8,23,<40,Male,Black or African American,72.3,41.0,0.614,0
+CAND-0253,Engineering,Bachelors,7,26,<40,Female,White,45.0,74.0,0.498,0
+CAND-0254,Engineering,Bachelors,1,41,>=40,Male,Hispanic or Latino,75.2,62.5,0.525,0
+CAND-0255,Engineering,Masters,9,44,>=40,Male,White,66.5,39.7,0.54,0
+CAND-0256,Sales,Masters,8,25,<40,Male,Black or African American,78.9,77.7,0.758,1
+CAND-0257,Data & AI,Bachelors,10,36,<40,Female,Hispanic or Latino,60.3,78.2,0.642,0
+CAND-0258,Sales,Bachelors,9,29,<40,Male,Hispanic or Latino,76.3,67.5,0.656,0
+CAND-0259,Engineering,Bachelors,9,38,<40,Female,Hispanic or Latino,73.0,52.7,0.586,0
+CAND-0260,Sales,Masters,7,26,<40,Female,Hispanic or Latino,53.5,88.9,0.617,0
+CAND-0261,Engineering,Masters,11,39,<40,Male,Asian,56.8,76.2,0.712,1
+CAND-0262,Engineering,PhD,1,32,<40,Male,Black or African American,87.2,77.1,0.629,0
+CAND-0263,Sales,Bachelors,2,30,<40,Male,Hispanic or Latino,83.4,81.8,0.722,1
+CAND-0264,Engineering,Masters,11,33,<40,Male,White,45.8,86.2,0.74,1
+CAND-0265,Sales,Associate,5,45,>=40,Male,Hispanic or Latino,63.9,72.8,0.636,0
+CAND-0266,Sales,Masters,3,33,<40,Female,White,74.4,50.9,0.557,0
+CAND-0267,Engineering,Bachelors,10,36,<40,Female,Asian,77.5,57.7,0.617,0
+CAND-0268,Operations,Masters,9,34,<40,Male,White,73.8,60.2,0.577,0
+CAND-0269,Sales,Masters,0,34,<40,Female,White,75.3,86.2,0.568,0
+CAND-0270,Engineering,Bachelors,9,43,>=40,Male,White,65.0,71.2,0.664,0
+CAND-0271,Sales,Bachelors,4,40,>=40,Female,White,72.4,57.7,0.557,0
+CAND-0272,Sales,Masters,8,23,<40,Non-Binary,White,56.3,65.0,0.625,0
+CAND-0273,Data & AI,Masters,6,38,<40,Male,Black or African American,64.9,87.8,0.63,0
+CAND-0274,Data & AI,Associate,9,46,>=40,Female,Asian,40.8,77.2,0.623,0
+CAND-0275,Operations,Bachelors,6,32,<40,Female,White,55.2,83.6,0.503,0
+CAND-0276,Operations,Masters,2,40,>=40,Female,White,57.7,51.3,0.402,0
+CAND-0277,Sales,Bachelors,0,20,<40,Male,Hispanic or Latino,58.4,64.9,0.521,0
+CAND-0278,Sales,Associate,1,26,<40,Male,White,80.2,58.4,0.602,0
+CAND-0279,Engineering,Bachelors,2,53,>=40,Male,Asian,48.0,90.5,0.64,0
+CAND-0280,Operations,Bachelors,8,40,>=40,Male,White,61.1,65.9,0.664,0
+CAND-0281,Engineering,Bachelors,10,35,<40,Female,Black or African American,79.0,59.4,0.616,0
+CAND-0282,Sales,Masters,5,48,>=40,Male,White,51.5,37.9,0.411,0
+CAND-0283,Engineering,Bachelors,3,25,<40,Female,White,87.8,89.2,0.625,0
+CAND-0284,Engineering,Masters,7,44,>=40,Male,Hispanic or Latino,72.5,89.9,0.74,1
+CAND-0285,Engineering,Bachelors,0,27,<40,Male,White,79.6,37.2,0.389,0
+CAND-0286,Engineering,Bachelors,9,34,<40,Female,Other,56.8,71.2,0.64,0
+CAND-0287,Engineering,Bachelors,6,21,<40,Male,Black or African American,59.4,82.2,0.549,0
+CAND-0288,Engineering,Bachelors,7,30,<40,Female,Hispanic or Latino,68.0,75.2,0.632,0
+CAND-0289,Sales,Bachelors,4,44,>=40,Male,Other,81.4,61.5,0.555,0
+CAND-0290,Sales,Masters,4,29,<40,Male,White,80.9,53.8,0.578,0
+CAND-0291,Sales,Bachelors,0,37,<40,Male,Hispanic or Latino,75.6,85.5,0.643,0
+CAND-0292,Sales,Bachelors,10,30,<40,Male,White,66.9,79.6,0.638,0
+CAND-0293,Operations,Bachelors,1,37,<40,Female,Black or African American,59.2,77.6,0.517,0
+CAND-0294,Sales,Bachelors,4,39,<40,Male,Hispanic or Latino,84.7,85.6,0.721,1
+CAND-0295,Engineering,Bachelors,3,28,<40,Female,White,65.0,100.0,0.689,0
+CAND-0296,Engineering,Associate,10,27,<40,Male,White,48.4,63.1,0.566,0
+CAND-0297,Engineering,Bachelors,4,30,<40,Female,Black or African American,56.5,63.1,0.429,0
+CAND-0298,Operations,Masters,10,30,<40,Male,Asian,60.1,61.9,0.66,0
+CAND-0299,Engineering,Masters,9,20,<40,Female,Asian,65.2,54.2,0.614,0
+CAND-0300,Data & AI,Bachelors,3,36,<40,Female,Hispanic or Latino,69.0,85.9,0.687,0
+CAND-0301,Engineering,Bachelors,6,37,<40,Non-Binary,White,50.8,88.2,0.586,0
+CAND-0302,Engineering,Bachelors,0,20,<40,Female,Asian,63.2,84.0,0.639,0
+CAND-0303,Data & AI,Bachelors,8,40,>=40,Male,Asian,65.0,93.0,0.781,1
+CAND-0304,Engineering,Masters,4,30,<40,Non-Binary,White,67.2,69.5,0.664,0
+CAND-0305,Sales,Masters,2,36,<40,Non-Binary,White,59.1,73.6,0.626,0
+CAND-0306,Operations,PhD,5,32,<40,Male,Asian,100.0,77.8,0.784,1
+CAND-0307,Engineering,Masters,5,36,<40,Female,Asian,65.0,61.7,0.502,0
+CAND-0308,Sales,Bachelors,8,34,<40,Female,White,61.7,51.9,0.488,0
+CAND-0309,Engineering,Masters,14,41,>=40,Female,Other,54.6,70.2,0.63,0
+CAND-0310,Operations,Masters,12,34,<40,Female,Black or African American,80.7,61.0,0.638,0
+CAND-0311,Data & AI,Masters,2,40,>=40,Female,Other,44.0,100.0,0.551,0
+CAND-0312,Engineering,Masters,13,45,>=40,Female,White,45.1,45.7,0.421,0
+CAND-0313,Operations,PhD,7,33,<40,Male,Black or African American,69.5,67.1,0.514,0
+CAND-0314,Engineering,Bachelors,0,31,<40,Male,White,76.5,72.3,0.591,0
+CAND-0315,Engineering,Bachelors,6,38,<40,Male,Asian,68.8,55.6,0.558,0
+CAND-0316,Sales,Masters,0,20,<40,Male,White,98.4,61.1,0.645,0
+CAND-0317,Data & AI,Bachelors,5,27,<40,Male,Hispanic or Latino,62.7,68.9,0.587,0
+CAND-0318,Data & AI,Masters,14,26,<40,Female,White,65.8,50.6,0.672,0
+CAND-0319,Sales,Bachelors,1,38,<40,Male,Hispanic or Latino,69.4,74.1,0.56,0
+CAND-0320,Sales,Bachelors,1,35,<40,Female,White,70.6,91.7,0.66,0
+CAND-0321,Operations,Bachelors,6,44,>=40,Female,White,68.3,62.3,0.597,0
+CAND-0322,Data & AI,Masters,3,43,>=40,Female,White,67.6,79.5,0.607,0
+CAND-0323,Data & AI,Bachelors,5,20,<40,Male,White,51.7,93.6,0.72,1
+CAND-0324,Engineering,Masters,7,20,<40,Male,Hispanic or Latino,79.6,83.1,0.772,1
+CAND-0325,Data & AI,Associate,1,34,<40,Male,White,83.7,57.1,0.604,0
+CAND-0326,Data & AI,Bachelors,7,21,<40,Male,White,63.4,44.9,0.485,0
+CAND-0327,Operations,Bachelors,3,20,<40,Female,White,69.4,63.3,0.527,0
+CAND-0328,Engineering,Bachelors,11,28,<40,Female,Black or African American,91.8,68.9,0.599,0
+CAND-0329,Data & AI,Bachelors,3,20,<40,Female,White,59.5,37.0,0.382,0
+CAND-0330,Operations,Bachelors,4,25,<40,Male,White,72.9,68.4,0.548,0
+CAND-0331,Sales,Bachelors,3,39,<40,Male,Black or African American,71.4,55.6,0.617,0
+CAND-0332,Data & AI,Bachelors,5,30,<40,Female,Black or African American,92.5,66.2,0.633,0
+CAND-0333,Operations,Bachelors,1,45,>=40,Male,Black or African American,96.0,63.3,0.574,0
+CAND-0334,Sales,Masters,9,29,<40,Female,White,81.1,64.9,0.704,1
+CAND-0335,Data & AI,PhD,4,38,<40,Female,White,100.0,79.3,0.661,0
+CAND-0336,Engineering,Bachelors,10,29,<40,Male,Hispanic or Latino,70.4,53.0,0.594,0
+CAND-0337,Sales,Masters,7,32,<40,Female,Asian,20.0,40.6,0.299,0
+CAND-0338,Engineering,Bachelors,13,30,<40,Female,Black or African American,62.8,80.4,0.717,1
+CAND-0339,Engineering,Bachelors,5,38,<40,Female,White,63.7,77.7,0.56,0
+CAND-0340,Data & AI,Bachelors,5,39,<40,Male,Black or African American,91.7,76.1,0.655,0
+CAND-0341,Engineering,Bachelors,9,50,>=40,Female,Asian,67.4,54.7,0.578,0
+CAND-0342,Operations,Bachelors,0,34,<40,Male,Hispanic or Latino,88.6,77.2,0.689,0
+CAND-0343,Sales,Bachelors,5,38,<40,Male,Hispanic or Latino,81.3,48.8,0.581,0
+CAND-0344,Sales,PhD,6,25,<40,Male,White,74.1,63.5,0.58,0
+CAND-0345,Engineering,Bachelors,9,39,<40,Male,Hispanic or Latino,75.6,90.8,0.799,1
+CAND-0346,Engineering,Masters,10,34,<40,Male,Black or African American,74.0,77.0,0.665,0
+CAND-0347,Engineering,Masters,11,20,<40,Male,Black or African American,85.9,66.9,0.661,0
+CAND-0348,Engineering,Bachelors,5,27,<40,Male,Black or African American,66.5,65.8,0.576,0
+CAND-0349,Operations,Bachelors,4,20,<40,Male,Black or African American,64.7,51.5,0.499,0
+CAND-0350,Data & AI,Bachelors,7,28,<40,Female,Hispanic or Latino,75.7,92.3,0.743,1
+CAND-0351,Operations,Bachelors,5,36,<40,Male,Asian,72.7,83.2,0.721,1
+CAND-0352,Data & AI,Bachelors,0,31,<40,Female,White,67.1,80.0,0.603,0
+CAND-0353,Sales,Bachelors,7,38,<40,Female,Black or African American,100.0,66.6,0.551,0
+CAND-0354,Sales,Bachelors,3,20,<40,Male,Asian,80.0,62.5,0.622,0
+CAND-0355,Engineering,Bachelors,6,41,>=40,Male,White,62.2,56.6,0.63,0
+CAND-0356,Data & AI,Bachelors,5,35,<40,Male,White,78.4,89.5,0.73,1
+CAND-0357,Engineering,Bachelors,15,23,<40,Non-Binary,White,56.8,40.8,0.659,0
+CAND-0358,Sales,PhD,10,33,<40,Female,White,54.0,76.5,0.652,0
+CAND-0359,Engineering,Bachelors,9,51,>=40,Female,Asian,81.2,44.4,0.578,0
+CAND-0360,Sales,Masters,10,45,>=40,Male,White,58.0,65.0,0.642,0
+CAND-0361,Engineering,PhD,5,47,>=40,Female,Hispanic or Latino,70.6,67.6,0.512,0
+CAND-0362,Engineering,Bachelors,2,32,<40,Male,White,55.4,48.8,0.524,0
+CAND-0363,Sales,Bachelors,0,43,>=40,Female,White,65.9,55.2,0.424,0
+CAND-0364,Engineering,Bachelors,9,44,>=40,Male,Asian,64.0,78.9,0.639,0
+CAND-0365,Engineering,PhD,9,25,<40,Female,Black or African American,68.7,90.2,0.67,0
+CAND-0366,Engineering,Masters,3,44,>=40,Female,White,100.0,72.7,0.688,0
+CAND-0367,Engineering,Bachelors,4,42,>=40,Female,Other,87.9,57.7,0.647,0
+CAND-0368,Operations,Masters,3,28,<40,Male,White,68.4,53.5,0.516,0
+CAND-0369,Sales,Bachelors,3,34,<40,Female,White,67.1,56.9,0.485,0
+CAND-0370,Operations,Bachelors,4,44,>=40,Male,Black or African American,60.1,67.7,0.513,0
+CAND-0371,Engineering,Masters,8,33,<40,Female,White,55.5,71.9,0.527,0
+CAND-0372,Engineering,Masters,11,41,>=40,Female,Black or African American,67.9,86.4,0.677,0
+CAND-0373,Sales,Bachelors,6,30,<40,Male,Black or African American,88.7,66.9,0.622,0
+CAND-0374,Engineering,Masters,12,25,<40,Female,White,25.8,58.1,0.494,0
+CAND-0375,Engineering,Bachelors,16,24,<40,Male,Hispanic or Latino,84.3,51.1,0.639,0
+CAND-0376,Data & AI,Masters,8,31,<40,Male,White,86.1,64.9,0.678,0
+CAND-0377,Data & AI,Bachelors,6,37,<40,Male,Hispanic or Latino,40.1,43.3,0.481,0
+CAND-0378,Engineering,PhD,0,20,<40,Female,White,70.5,58.9,0.503,0
+CAND-0379,Engineering,Masters,9,49,>=40,Female,Asian,63.9,49.1,0.582,0
+CAND-0380,Data & AI,Bachelors,7,42,>=40,Female,Asian,67.7,64.1,0.569,0
+CAND-0381,Engineering,Associate,7,38,<40,Male,White,73.0,74.8,0.769,1
+CAND-0382,Operations,Bachelors,6,40,>=40,Female,Asian,74.5,73.7,0.682,0
+CAND-0383,Operations,Bachelors,5,28,<40,Male,Black or African American,50.8,78.3,0.56,0
+CAND-0384,Operations,Bachelors,3,22,<40,Female,Hispanic or Latino,92.8,54.1,0.611,0
+CAND-0385,Engineering,Bachelors,10,37,<40,Male,Hispanic or Latino,63.3,89.3,0.695,1
+CAND-0386,Engineering,Bachelors,0,42,>=40,Female,White,100.0,78.0,0.608,0
+CAND-0387,Operations,Masters,8,30,<40,Male,White,56.8,77.4,0.694,1
+CAND-0388,Engineering,Masters,0,26,<40,Female,White,55.2,84.9,0.602,0
+CAND-0389,Engineering,Bachelors,12,29,<40,Female,White,74.5,70.6,0.662,0
+CAND-0390,Engineering,Masters,5,37,<40,Female,White,82.6,66.3,0.667,0
+CAND-0391,Engineering,Masters,9,38,<40,Male,Black or African American,87.8,88.2,0.811,1
+CAND-0392,Data & AI,PhD,7,48,>=40,Male,White,56.2,55.5,0.5,0
+CAND-0393,Operations,PhD,11,37,<40,Male,Hispanic or Latino,65.3,64.8,0.617,0
+CAND-0394,Data & AI,Bachelors,14,27,<40,Male,White,96.1,85.4,0.871,1
+CAND-0395,Data & AI,Masters,11,31,<40,Female,White,64.8,64.9,0.611,0
+CAND-0396,Engineering,Bachelors,9,25,<40,Male,White,82.5,59.2,0.655,0
+CAND-0397,Sales,Masters,5,42,>=40,Male,Hispanic or Latino,43.5,53.8,0.381,0
+CAND-0398,Engineering,Masters,8,25,<40,Male,Asian,47.4,71.6,0.57,0
+CAND-0399,Engineering,Bachelors,11,29,<40,Female,White,83.5,61.6,0.702,1
+CAND-0400,Engineering,PhD,5,37,<40,Male,Hispanic or Latino,67.9,75.3,0.676,0
+CAND-0401,Sales,Masters,7,46,>=40,Non-Binary,Asian,80.6,92.6,0.763,1
+CAND-0402,Engineering,PhD,3,56,>=40,Male,Other,61.2,84.1,0.707,1
+CAND-0403,Operations,Bachelors,10,23,<40,Female,Black or African American,46.8,33.1,0.377,0
+CAND-0404,Operations,Masters,9,39,<40,Female,White,71.3,78.8,0.821,1
+CAND-0405,Engineering,Masters,1,33,<40,Male,White,50.4,79.8,0.511,0
+CAND-0406,Sales,Bachelors,8,32,<40,Female,White,71.8,63.5,0.632,0
+CAND-0407,Data & AI,Masters,6,31,<40,Male,Black or African American,56.5,86.7,0.624,0
+CAND-0408,Operations,Masters,7,24,<40,Female,White,79.1,72.4,0.633,0
+CAND-0409,Operations,Masters,4,47,>=40,Female,Black or African American,66.2,38.8,0.433,0
+CAND-0410,Engineering,Bachelors,12,20,<40,Male,White,65.8,70.1,0.744,1
+CAND-0411,Engineering,Masters,4,32,<40,Female,White,74.8,63.9,0.56,0
+CAND-0412,Engineering,Masters,15,45,>=40,Female,Other,83.0,58.6,0.74,1
+CAND-0413,Sales,Masters,7,35,<40,Female,Other,72.6,73.4,0.661,0
+CAND-0414,Engineering,Bachelors,5,28,<40,Male,Hispanic or Latino,95.0,77.8,0.736,1
+CAND-0415,Data & AI,Bachelors,8,28,<40,Male,White,94.4,78.0,0.75,1
+CAND-0416,Engineering,Bachelors,8,41,>=40,Male,Asian,60.2,78.5,0.671,0
+CAND-0417,Operations,Masters,14,31,<40,Female,White,54.4,50.7,0.566,0
+CAND-0418,Engineering,Bachelors,8,33,<40,Female,Hispanic or Latino,52.9,52.1,0.443,0
+CAND-0419,Engineering,Bachelors,0,38,<40,Male,White,95.2,72.0,0.69,0
+CAND-0420,Sales,Masters,4,41,>=40,Male,Black or African American,52.9,84.2,0.58,0
+CAND-0421,Engineering,Bachelors,10,29,<40,Female,Hispanic or Latino,64.6,73.3,0.652,0
+CAND-0422,Data & AI,PhD,6,23,<40,Female,Hispanic or Latino,70.2,36.4,0.385,0
+CAND-0423,Sales,Bachelors,4,25,<40,Female,Hispanic or Latino,94.8,76.2,0.714,1
+CAND-0424,Operations,Associate,4,45,>=40,Male,Asian,51.7,44.6,0.361,0
+CAND-0425,Operations,Bachelors,3,34,<40,Male,Black or African American,85.2,78.3,0.658,0
+CAND-0426,Operations,Bachelors,8,24,<40,Male,Black or African American,70.2,59.6,0.623,0
+CAND-0427,Sales,Bachelors,4,26,<40,Male,White,68.2,72.5,0.701,1
+CAND-0428,Sales,Masters,12,43,>=40,Female,White,69.6,99.6,0.825,1
+CAND-0429,Engineering,Bachelors,3,34,<40,Female,Hispanic or Latino,60.1,62.7,0.59,0
+CAND-0430,Sales,Bachelors,1,20,<40,Female,Asian,64.2,56.7,0.5,0
+CAND-0431,Operations,PhD,6,25,<40,Male,White,59.9,61.5,0.59,0
+CAND-0432,Engineering,Bachelors,0,43,>=40,Female,White,51.6,45.5,0.411,0
+CAND-0433,Data & AI,Masters,0,29,<40,Female,White,53.5,52.9,0.462,0
+CAND-0434,Operations,Masters,9,50,>=40,Male,Asian,86.6,84.0,0.842,1
+CAND-0435,Operations,Bachelors,7,49,>=40,Male,White,65.1,38.4,0.487,0
+CAND-0436,Engineering,Masters,0,45,>=40,Female,White,79.4,58.6,0.485,0
+CAND-0437,Engineering,Bachelors,7,37,<40,Female,White,67.5,71.6,0.557,0
+CAND-0438,Engineering,Bachelors,5,42,>=40,Male,White,67.3,61.9,0.589,0
+CAND-0439,Data & AI,Bachelors,0,33,<40,Female,Hispanic or Latino,68.9,88.2,0.667,0
+CAND-0440,Engineering,Masters,9,33,<40,Non-Binary,Asian,80.2,65.5,0.647,0
+CAND-0441,Engineering,Bachelors,13,24,<40,Female,White,60.4,62.9,0.584,0
+CAND-0442,Engineering,Bachelors,14,33,<40,Female,White,67.8,70.2,0.8,1
+CAND-0443,Engineering,Masters,8,23,<40,Male,Asian,82.7,72.1,0.708,1
+CAND-0444,Sales,Bachelors,7,34,<40,Female,Hispanic or Latino,85.2,68.0,0.582,0
+CAND-0445,Sales,PhD,14,24,<40,Female,White,90.8,66.9,0.703,1
+CAND-0446,Operations,Bachelors,8,27,<40,Female,White,56.5,38.7,0.471,0
+CAND-0447,Engineering,Bachelors,5,20,<40,Male,Other,61.0,51.0,0.486,0
+CAND-0448,Data & AI,Masters,4,27,<40,Female,Hispanic or Latino,67.2,76.7,0.628,0
+CAND-0449,Data & AI,Bachelors,9,28,<40,Male,Asian,51.6,83.1,0.663,0
+CAND-0450,Engineering,Masters,0,31,<40,Non-Binary,White,82.2,87.2,0.691,0
+CAND-0451,Data & AI,PhD,11,43,>=40,Female,Black or African American,74.0,46.3,0.632,0
+CAND-0452,Engineering,Bachelors,1,33,<40,Female,Black or African American,67.8,55.4,0.421,0
+CAND-0453,Data & AI,Bachelors,3,41,>=40,Female,Asian,84.4,90.4,0.771,1
+CAND-0454,Data & AI,Bachelors,8,41,>=40,Female,Other,59.4,62.3,0.571,0
+CAND-0455,Data & AI,Masters,13,45,>=40,Male,White,85.8,77.3,0.764,1
+CAND-0456,Engineering,Bachelors,5,26,<40,Male,Black or African American,94.4,100.0,0.906,1
+CAND-0457,Sales,Bachelors,2,24,<40,Female,White,74.3,83.7,0.739,1
+CAND-0458,Data & AI,Masters,11,33,<40,Female,Hispanic or Latino,69.9,64.8,0.645,0
+CAND-0459,Sales,Bachelors,5,25,<40,Female,Hispanic or Latino,72.4,65.9,0.594,0
+CAND-0460,Data & AI,Bachelors,0,32,<40,Male,Asian,50.6,75.9,0.581,0
+CAND-0461,Data & AI,PhD,9,26,<40,Male,White,67.2,39.2,0.522,0
+CAND-0462,Engineering,Bachelors,6,24,<40,Female,White,98.8,74.6,0.78,1
+CAND-0463,Engineering,Bachelors,6,36,<40,Female,White,99.7,63.8,0.645,0
+CAND-0464,Sales,Bachelors,9,48,>=40,Female,White,71.3,66.8,0.732,1
+CAND-0465,Data & AI,Masters,10,31,<40,Female,White,62.4,69.6,0.653,0
+CAND-0466,Engineering,Bachelors,3,36,<40,Male,Asian,84.4,91.5,0.785,1
+CAND-0467,Engineering,Bachelors,7,34,<40,Female,White,69.5,71.8,0.698,1
+CAND-0468,Engineering,Bachelors,0,33,<40,Female,Black or African American,83.2,71.5,0.584,0
+CAND-0469,Sales,Associate,5,45,>=40,Female,Asian,59.6,78.7,0.597,0
+CAND-0470,Sales,Bachelors,3,31,<40,Male,Asian,74.3,69.1,0.697,1
+CAND-0471,Sales,Bachelors,6,20,<40,Male,Black or African American,64.9,77.9,0.659,0
+CAND-0472,Engineering,Bachelors,5,26,<40,Female,White,69.9,66.3,0.571,0
+CAND-0473,Sales,Bachelors,6,34,<40,Male,White,62.0,85.5,0.607,0
+CAND-0474,Data & AI,Masters,0,33,<40,Male,White,68.0,87.2,0.63,0
+CAND-0475,Engineering,Masters,1,32,<40,Male,Hispanic or Latino,74.2,78.1,0.598,0
+CAND-0476,Engineering,Bachelors,6,29,<40,Female,Hispanic or Latino,79.7,33.6,0.481,0
+CAND-0477,Data & AI,Bachelors,12,34,<40,Male,Black or African American,67.8,70.6,0.643,0
+CAND-0478,Operations,Bachelors,9,50,>=40,Female,Asian,90.3,39.1,0.601,0
+CAND-0479,Engineering,Bachelors,8,31,<40,Female,Hispanic or Latino,52.0,73.7,0.568,0
+CAND-0480,Operations,Masters,4,51,>=40,Female,Other,49.1,92.0,0.681,0
+CAND-0481,Engineering,Bachelors,3,37,<40,Female,Asian,61.7,85.1,0.64,0
+CAND-0482,Engineering,Bachelors,9,28,<40,Male,White,70.1,64.0,0.63,0
+CAND-0483,Sales,Bachelors,2,40,>=40,Male,White,92.7,65.6,0.647,0
+CAND-0484,Data & AI,Masters,13,20,<40,Male,White,67.4,40.4,0.616,0
+CAND-0485,Engineering,PhD,6,33,<40,Female,Black or African American,56.8,68.2,0.441,0
+CAND-0486,Sales,Bachelors,15,38,<40,Female,Black or African American,61.0,64.9,0.659,0
+CAND-0487,Engineering,Bachelors,13,38,<40,Female,White,71.1,49.2,0.528,0
+CAND-0488,Sales,Associate,8,39,<40,Female,Hispanic or Latino,54.9,53.3,0.585,0
+CAND-0489,Engineering,Bachelors,8,39,<40,Female,White,97.0,50.0,0.623,0
+CAND-0490,Sales,Bachelors,4,36,<40,Non-Binary,Asian,37.2,100.0,0.686,0
+CAND-0491,Sales,Masters,12,39,<40,Female,White,59.3,69.8,0.594,0
+CAND-0492,Data & AI,Bachelors,5,29,<40,Male,White,62.1,79.3,0.67,0
+CAND-0493,Sales,Bachelors,0,43,>=40,Male,White,56.4,81.7,0.506,0
+CAND-0494,Sales,PhD,11,30,<40,Female,White,79.4,92.2,0.795,1
+CAND-0495,Sales,Bachelors,9,43,>=40,Female,White,60.8,91.7,0.764,1
+CAND-0496,Operations,Masters,4,33,<40,Female,Hispanic or Latino,78.7,82.2,0.7,1
+CAND-0497,Data & AI,Bachelors,8,35,<40,Male,White,92.1,45.2,0.661,0
+CAND-0498,Data & AI,Associate,7,41,>=40,Male,Hispanic or Latino,87.3,82.3,0.752,1
+CAND-0499,Sales,Bachelors,12,46,>=40,Male,White,72.2,62.0,0.639,0
+CAND-0500,Sales,Masters,2,34,<40,Male,White,70.0,49.1,0.532,0
+CAND-0501,Engineering,Bachelors,12,35,<40,Female,Hispanic or Latino,82.4,62.4,0.653,0
+CAND-0502,Data & AI,Bachelors,12,20,<40,Male,White,66.0,70.3,0.676,0
+CAND-0503,Engineering,Bachelors,4,27,<40,Female,Black or African American,63.2,29.5,0.409,0
+CAND-0504,Engineering,Masters,8,21,<40,Male,White,56.1,74.0,0.665,0
+CAND-0505,Data & AI,Bachelors,9,30,<40,Male,White,74.3,85.1,0.695,1
+CAND-0506,Engineering,Masters,18,28,<40,Male,White,55.2,69.3,0.705,1
+CAND-0507,Operations,Bachelors,3,27,<40,Non-Binary,Black or African American,60.1,51.8,0.436,0
+CAND-0508,Data & AI,Masters,0,25,<40,Female,White,99.5,77.1,0.646,0
+CAND-0509,Sales,Bachelors,0,38,<40,Female,Black or African American,79.4,67.6,0.495,0
+CAND-0510,Engineering,Bachelors,7,20,<40,Female,Asian,75.6,94.1,0.817,1
+CAND-0511,Sales,Bachelors,11,25,<40,Female,White,59.9,33.5,0.577,0
+CAND-0512,Sales,Bachelors,3,34,<40,Male,Asian,80.8,29.4,0.453,0
+CAND-0513,Engineering,Bachelors,6,41,>=40,Male,White,55.8,66.5,0.583,0
+CAND-0514,Operations,Masters,5,26,<40,Male,Hispanic or Latino,48.6,61.1,0.444,0
+CAND-0515,Engineering,Bachelors,2,42,>=40,Male,Hispanic or Latino,62.3,72.0,0.653,0
+CAND-0516,Data & AI,Masters,9,20,<40,Male,White,53.5,74.3,0.609,0
+CAND-0517,Data & AI,Bachelors,0,34,<40,Male,Asian,76.5,90.8,0.655,0
+CAND-0518,Operations,Bachelors,9,36,<40,Male,White,75.1,64.4,0.712,1
+CAND-0519,Sales,PhD,5,26,<40,Female,White,73.2,74.7,0.643,0
+CAND-0520,Sales,Bachelors,10,23,<40,Female,Black or African American,78.2,48.3,0.582,0
+CAND-0521,Operations,Masters,7,35,<40,Male,Other,77.6,100.0,0.849,1
+CAND-0522,Data & AI,Bachelors,0,33,<40,Female,Asian,60.5,84.6,0.562,0
+CAND-0523,Data & AI,Bachelors,8,27,<40,Female,White,76.7,81.2,0.755,1
+CAND-0524,Data & AI,Bachelors,5,31,<40,Male,Black or African American,74.4,55.9,0.453,0
+CAND-0525,Sales,Bachelors,11,29,<40,Female,White,61.4,88.4,0.811,1
+CAND-0526,Engineering,Bachelors,9,44,>=40,Male,White,65.0,83.2,0.713,1
+CAND-0527,Engineering,Bachelors,11,39,<40,Male,Black or African American,81.9,77.6,0.786,1
+CAND-0528,Sales,Bachelors,5,35,<40,Male,White,51.6,66.5,0.571,0
+CAND-0529,Engineering,Bachelors,3,49,>=40,Male,White,74.7,52.2,0.436,0
+CAND-0530,Sales,Masters,6,42,>=40,Male,Asian,68.5,67.2,0.633,0
+CAND-0531,Sales,Bachelors,9,43,>=40,Male,Black or African American,69.6,56.2,0.471,0
+CAND-0532,Sales,Masters,3,46,>=40,Female,Hispanic or Latino,66.0,73.7,0.597,0
+CAND-0533,Engineering,Bachelors,8,32,<40,Female,White,75.9,51.5,0.585,0
+CAND-0534,Data & AI,Masters,8,24,<40,Female,Other,47.9,57.2,0.438,0
+CAND-0535,Operations,Bachelors,12,20,<40,Female,White,73.5,36.7,0.562,0
+CAND-0536,Data & AI,Bachelors,2,39,<40,Female,Black or African American,55.3,76.0,0.468,0
+CAND-0537,Engineering,Bachelors,8,26,<40,Male,Hispanic or Latino,84.4,74.5,0.729,1
+CAND-0538,Sales,Bachelors,5,60,>=40,Female,Hispanic or Latino,51.9,60.4,0.361,0
+CAND-0539,Data & AI,Masters,3,27,<40,Female,White,36.5,31.4,0.217,0
+CAND-0540,Sales,Bachelors,14,25,<40,Male,White,46.2,42.7,0.501,0
+CAND-0541,Sales,PhD,8,40,>=40,Female,Black or African American,69.2,69.5,0.535,0
+CAND-0542,Engineering,Masters,13,40,>=40,Female,White,48.3,83.0,0.66,0
+CAND-0543,Engineering,Bachelors,4,48,>=40,Male,Black or African American,51.7,53.1,0.4,0
+CAND-0544,Engineering,Bachelors,13,32,<40,Male,White,60.2,86.1,0.787,1
+CAND-0545,Engineering,PhD,5,43,>=40,Male,White,77.4,93.2,0.62,0
+CAND-0546,Sales,Bachelors,10,32,<40,Female,White,59.3,74.8,0.747,1
+CAND-0547,Sales,Masters,3,38,<40,Male,White,67.1,83.6,0.62,0
+CAND-0548,Data & AI,PhD,2,32,<40,Male,Hispanic or Latino,66.8,51.1,0.475,0
+CAND-0549,Engineering,Masters,6,49,>=40,Male,White,49.8,41.3,0.47,0
+CAND-0550,Sales,Masters,13,52,>=40,Female,Black or African American,75.7,95.9,0.887,1
+CAND-0551,Data & AI,Masters,12,24,<40,Female,White,100.0,53.1,0.689,0
+CAND-0552,Operations,Masters,7,44,>=40,Female,White,45.8,85.3,0.642,0
+CAND-0553,Engineering,Bachelors,5,26,<40,Male,White,57.6,74.3,0.569,0
+CAND-0554,Engineering,Bachelors,8,43,>=40,Female,White,52.2,94.4,0.731,1
+CAND-0555,Sales,Masters,2,47,>=40,Female,Hispanic or Latino,67.2,79.6,0.625,0
+CAND-0556,Data & AI,PhD,7,26,<40,Female,Other,49.7,50.4,0.411,0
+CAND-0557,Operations,Bachelors,7,24,<40,Female,Asian,87.5,62.8,0.681,0
+CAND-0558,Sales,Bachelors,7,30,<40,Male,Black or African American,89.8,78.5,0.65,0
+CAND-0559,Data & AI,Bachelors,8,43,>=40,Male,Black or African American,79.7,59.8,0.578,0
+CAND-0560,Sales,Masters,10,37,<40,Male,Asian,83.1,83.7,0.734,1
+CAND-0561,Engineering,Bachelors,0,32,<40,Female,Black or African American,71.6,69.4,0.493,0
+CAND-0562,Operations,Masters,3,39,<40,Female,Black or African American,85.1,84.0,0.696,1
+CAND-0563,Engineering,PhD,4,31,<40,Female,Black or African American,65.8,84.9,0.534,0
+CAND-0564,Engineering,Bachelors,6,35,<40,Female,Hispanic or Latino,62.5,72.7,0.616,0
+CAND-0565,Operations,Associate,6,38,<40,Female,Black or African American,79.3,66.0,0.572,0
+CAND-0566,Engineering,Associate,9,37,<40,Male,Black or African American,64.6,60.0,0.525,0
+CAND-0567,Engineering,PhD,8,47,>=40,Male,Hispanic or Latino,99.9,50.8,0.664,0
+CAND-0568,Engineering,Bachelors,11,24,<40,Female,Hispanic or Latino,84.8,93.8,0.865,1
+CAND-0569,Sales,Bachelors,5,41,>=40,Non-Binary,White,62.2,69.2,0.643,0
+CAND-0570,Engineering,Masters,4,26,<40,Female,Hispanic or Latino,67.6,64.3,0.565,0
+CAND-0571,Engineering,Bachelors,6,30,<40,Female,White,68.0,64.5,0.576,0
+CAND-0572,Data & AI,Bachelors,7,32,<40,Male,Asian,59.5,67.2,0.605,0
+CAND-0573,Operations,PhD,7,30,<40,Male,White,82.4,60.7,0.618,0
+CAND-0574,Engineering,Masters,5,23,<40,Male,White,57.8,59.4,0.541,0
+CAND-0575,Sales,Bachelors,11,30,<40,Female,Hispanic or Latino,68.7,47.5,0.497,0
+CAND-0576,Sales,Bachelors,10,36,<40,Female,Black or African American,59.2,68.7,0.574,0
+CAND-0577,Engineering,Masters,11,32,<40,Female,White,62.3,87.6,0.814,1
+CAND-0578,Engineering,Masters,3,45,>=40,Male,White,80.8,57.2,0.558,0
+CAND-0579,Data & AI,Bachelors,9,33,<40,Male,Asian,79.5,76.3,0.798,1
+CAND-0580,Data & AI,Bachelors,13,34,<40,Female,White,65.1,76.6,0.749,1
+CAND-0581,Engineering,Masters,11,35,<40,Male,White,85.9,74.0,0.852,1
+CAND-0582,Engineering,Bachelors,4,32,<40,Female,Black or African American,78.0,96.1,0.532,0
+CAND-0583,Engineering,Bachelors,5,37,<40,Female,Black or African American,71.6,77.0,0.603,0
+CAND-0584,Sales,Bachelors,0,29,<40,Female,Hispanic or Latino,82.7,69.0,0.599,0
+CAND-0585,Sales,Bachelors,12,24,<40,Non-Binary,Hispanic or Latino,89.9,73.0,0.843,1
+CAND-0586,Sales,Bachelors,3,33,<40,Male,Asian,76.2,80.7,0.73,1
+CAND-0587,Data & AI,Masters,5,37,<40,Female,Asian,73.8,94.1,0.753,1
+CAND-0588,Operations,Bachelors,9,35,<40,Male,Hispanic or Latino,43.1,64.4,0.572,0
+CAND-0589,Operations,PhD,7,26,<40,Male,White,73.7,70.7,0.621,0
+CAND-0590,Data & AI,Masters,8,35,<40,Male,White,76.5,100.0,0.729,1
+CAND-0591,Sales,Masters,4,39,<40,Male,Black or African American,74.4,67.3,0.644,0
+CAND-0592,Engineering,Bachelors,1,35,<40,Female,Black or African American,57.4,66.6,0.414,0
+CAND-0593,Engineering,Masters,7,28,<40,Female,White,60.4,55.4,0.507,0
+CAND-0594,Sales,PhD,3,34,<40,Male,Black or African American,80.1,69.3,0.637,0
+CAND-0595,Operations,Bachelors,9,47,>=40,Male,Asian,64.6,66.9,0.646,0
+CAND-0596,Engineering,Bachelors,3,25,<40,Male,White,72.5,73.9,0.568,0
+CAND-0597,Data & AI,Bachelors,6,42,>=40,Female,Black or African American,40.6,72.1,0.391,0
+CAND-0598,Operations,Bachelors,13,20,<40,Female,Black or African American,69.8,38.4,0.503,0
+CAND-0599,Data & AI,Bachelors,7,29,<40,Male,White,81.3,48.4,0.6,0
+CAND-0600,Data & AI,Bachelors,3,30,<40,Male,Black or African American,74.2,65.6,0.595,0
+CAND-0601,Engineering,Bachelors,8,42,>=40,Male,White,68.1,61.6,0.616,0
+CAND-0602,Engineering,Bachelors,6,48,>=40,Male,Black or African American,55.3,52.5,0.471,0
+CAND-0603,Engineering,Masters,3,42,>=40,Female,Hispanic or Latino,44.9,40.4,0.283,0
+CAND-0604,Data & AI,Masters,7,38,<40,Male,Hispanic or Latino,59.1,92.4,0.768,1
+CAND-0605,Engineering,Associate,11,42,>=40,Male,White,84.6,92.1,1.0,1
+CAND-0606,Engineering,Bachelors,9,23,<40,Male,White,69.2,79.4,0.785,1
+CAND-0607,Sales,Bachelors,6,41,>=40,Female,Hispanic or Latino,79.7,59.2,0.656,0
+CAND-0608,Sales,Masters,2,25,<40,Male,White,90.1,90.0,0.764,1
+CAND-0609,Sales,Masters,9,28,<40,Female,White,71.7,57.2,0.546,0
+CAND-0610,Operations,Bachelors,8,37,<40,Female,White,81.8,74.5,0.655,0
+CAND-0611,Engineering,Bachelors,0,24,<40,Female,Hispanic or Latino,85.9,56.1,0.556,0
+CAND-0612,Sales,PhD,1,43,>=40,Male,Hispanic or Latino,50.4,68.4,0.542,0
+CAND-0613,Sales,Bachelors,13,34,<40,Male,Other,59.3,75.3,0.673,0
+CAND-0614,Engineering,Bachelors,8,23,<40,Male,White,46.4,45.5,0.497,0
+CAND-0615,Sales,Bachelors,1,46,>=40,Male,White,44.5,61.7,0.452,0
+CAND-0616,Data & AI,PhD,11,31,<40,Male,Black or African American,63.0,71.8,0.675,0
+CAND-0617,Data & AI,Bachelors,11,32,<40,Male,Hispanic or Latino,66.4,49.2,0.618,0
+CAND-0618,Engineering,Masters,4,32,<40,Male,White,43.8,53.9,0.47,0
+CAND-0619,Data & AI,Bachelors,3,20,<40,Male,White,76.4,71.8,0.533,0
+CAND-0620,Operations,Bachelors,7,44,>=40,Female,White,63.2,60.0,0.646,0
+CAND-0621,Engineering,Bachelors,7,34,<40,Male,Hispanic or Latino,90.1,49.6,0.703,1
+CAND-0622,Sales,Bachelors,6,35,<40,Male,White,72.6,68.4,0.641,0
+CAND-0623,Sales,Associate,2,39,<40,Male,Other,72.5,74.5,0.557,0
+CAND-0624,Engineering,Masters,5,31,<40,Female,Black or African American,67.1,100.0,0.71,1
+CAND-0625,Sales,Bachelors,5,25,<40,Female,White,68.3,69.3,0.514,0
+CAND-0626,Engineering,Bachelors,1,26,<40,Male,White,75.2,68.2,0.667,0
+CAND-0627,Operations,Bachelors,10,40,>=40,Female,White,82.7,63.7,0.671,0
+CAND-0628,Sales,PhD,2,33,<40,Male,Hispanic or Latino,51.3,85.2,0.56,0
+CAND-0629,Operations,Bachelors,12,42,>=40,Female,Hispanic or Latino,58.3,72.9,0.691,0
+CAND-0630,Engineering,Bachelors,7,43,>=40,Female,White,74.1,80.5,0.661,0
+CAND-0631,Engineering,Bachelors,4,41,>=40,Female,Black or African American,69.5,71.3,0.533,0
+CAND-0632,Sales,Bachelors,8,44,>=40,Female,Hispanic or Latino,81.1,81.7,0.688,0
+CAND-0633,Operations,Bachelors,6,28,<40,Male,White,60.6,73.7,0.655,0
+CAND-0634,Sales,Bachelors,12,38,<40,Male,White,87.7,46.9,0.693,1
+CAND-0635,Data & AI,Bachelors,15,30,<40,Male,White,62.8,63.7,0.759,1
+CAND-0636,Sales,Masters,8,25,<40,Non-Binary,White,65.6,64.1,0.543,0
+CAND-0637,Engineering,PhD,6,37,<40,Male,White,85.3,74.7,0.654,0
+CAND-0638,Sales,Bachelors,13,40,>=40,Male,White,78.0,70.3,0.737,1
+CAND-0639,Sales,Bachelors,6,31,<40,Male,White,97.7,88.0,0.874,1
+CAND-0640,Engineering,Masters,4,34,<40,Male,Asian,83.3,74.0,0.607,0
+CAND-0641,Engineering,Masters,11,39,<40,Female,White,88.1,75.1,0.72,1
+CAND-0642,Sales,Bachelors,10,29,<40,Male,White,65.8,52.8,0.672,0
+CAND-0643,Sales,Bachelors,4,40,>=40,Male,Hispanic or Latino,88.2,70.3,0.705,1
+CAND-0644,Data & AI,Masters,8,26,<40,Male,White,71.0,64.8,0.701,1
+CAND-0645,Engineering,Bachelors,5,37,<40,Female,White,38.9,37.0,0.335,0
+CAND-0646,Data & AI,Bachelors,9,24,<40,Male,White,76.6,48.3,0.694,1
+CAND-0647,Data & AI,Masters,9,44,>=40,Male,Asian,77.8,78.8,0.674,0
+CAND-0648,Sales,Bachelors,1,39,<40,Female,White,54.7,77.8,0.514,0
+CAND-0649,Sales,Masters,7,50,>=40,Male,Asian,75.0,59.2,0.607,0
+CAND-0650,Data & AI,Masters,1,26,<40,Male,Hispanic or Latino,71.6,59.6,0.518,0
+CAND-0651,Data & AI,Bachelors,1,39,<40,Female,Black or African American,87.0,51.0,0.415,0
+CAND-0652,Data & AI,Masters,5,33,<40,Male,Hispanic or Latino,76.1,82.8,0.733,1
+CAND-0653,Sales,Bachelors,4,22,<40,Male,White,70.0,55.9,0.489,0
+CAND-0654,Engineering,Masters,0,34,<40,Female,White,51.4,59.4,0.351,0
+CAND-0655,Engineering,Masters,2,38,<40,Male,White,42.5,83.2,0.42,0
+CAND-0656,Engineering,Bachelors,0,49,>=40,Male,White,87.7,82.9,0.643,0
+CAND-0657,Engineering,Bachelors,4,29,<40,Female,Other,75.5,65.3,0.589,0
+CAND-0658,Data & AI,Bachelors,9,37,<40,Female,Black or African American,66.6,68.2,0.604,0
+CAND-0659,Sales,PhD,12,36,<40,Female,White,77.8,75.1,0.729,1
+CAND-0660,Sales,Bachelors,11,32,<40,Male,Hispanic or Latino,66.7,61.9,0.625,0
+CAND-0661,Sales,Bachelors,8,33,<40,Male,Other,42.0,66.5,0.533,0
+CAND-0662,Sales,PhD,8,39,<40,Female,Asian,84.2,65.1,0.631,0
+CAND-0663,Engineering,Bachelors,6,33,<40,Male,Hispanic or Latino,86.0,78.3,0.836,1
+CAND-0664,Engineering,Bachelors,6,32,<40,Male,White,65.4,89.3,0.649,0
+CAND-0665,Data & AI,PhD,12,29,<40,Female,White,69.4,85.2,0.718,1
+CAND-0666,Engineering,PhD,9,21,<40,Male,White,61.4,83.2,0.709,1
+CAND-0667,Engineering,Bachelors,7,41,>=40,Male,White,95.8,51.6,0.606,0
+CAND-0668,Engineering,Bachelors,0,29,<40,Male,White,86.9,87.4,0.7,1
+CAND-0669,Engineering,Associate,9,43,>=40,Female,Asian,58.6,57.9,0.474,0
+CAND-0670,Engineering,Bachelors,9,44,>=40,Male,Asian,78.5,41.3,0.587,0
+CAND-0671,Sales,Bachelors,4,53,>=40,Male,Black or African American,57.7,55.3,0.442,0
+CAND-0672,Engineering,Bachelors,7,37,<40,Male,Hispanic or Latino,58.6,66.6,0.561,0
+CAND-0673,Engineering,Bachelors,6,38,<40,Female,Black or African American,63.8,37.4,0.387,0
+CAND-0674,Data & AI,Bachelors,4,38,<40,Male,White,61.5,78.7,0.596,0
+CAND-0675,Engineering,Masters,8,36,<40,Male,Asian,48.2,80.5,0.617,0
+CAND-0676,Sales,Bachelors,2,43,>=40,Female,White,88.6,62.3,0.625,0
+CAND-0677,Engineering,PhD,15,33,<40,Male,Hispanic or Latino,73.0,50.5,0.773,1
+CAND-0678,Operations,Bachelors,9,38,<40,Male,White,91.8,81.8,0.674,0
+CAND-0679,Data & AI,Bachelors,6,33,<40,Female,Asian,67.7,54.1,0.519,0
+CAND-0680,Engineering,Bachelors,10,23,<40,Female,Black or African American,49.5,43.7,0.369,0
+CAND-0681,Engineering,Masters,10,39,<40,Male,Black or African American,84.4,67.0,0.673,0
+CAND-0682,Engineering,Bachelors,4,20,<40,Female,White,73.7,68.4,0.609,0
+CAND-0683,Data & AI,Bachelors,4,38,<40,Male,White,66.3,72.7,0.732,1
+CAND-0684,Sales,Associate,0,42,>=40,Non-Binary,Black or African American,86.9,79.5,0.606,0
+CAND-0685,Engineering,Associate,2,38,<40,Female,White,51.2,81.3,0.548,0
+CAND-0686,Operations,Bachelors,9,27,<40,Non-Binary,Asian,83.7,49.0,0.588,0
+CAND-0687,Engineering,Bachelors,7,46,>=40,Male,Hispanic or Latino,80.1,37.4,0.494,0
+CAND-0688,Sales,Masters,5,48,>=40,Male,White,73.2,74.9,0.609,0
+CAND-0689,Operations,Masters,8,39,<40,Female,White,49.3,68.7,0.522,0
+CAND-0690,Data & AI,PhD,4,48,>=40,Female,Hispanic or Latino,83.1,61.1,0.565,0
+CAND-0691,Sales,Bachelors,1,50,>=40,Female,White,80.4,65.8,0.632,0
+CAND-0692,Operations,Bachelors,3,28,<40,Male,White,73.7,55.5,0.53,0
+CAND-0693,Operations,Masters,16,26,<40,Male,White,69.2,93.9,0.893,1
+CAND-0694,Operations,Bachelors,6,39,<40,Female,White,54.2,37.8,0.425,0
+CAND-0695,Engineering,Masters,6,20,<40,Female,White,54.3,74.3,0.622,0
+CAND-0696,Engineering,PhD,9,32,<40,Male,White,59.1,48.7,0.451,0
+CAND-0697,Engineering,Bachelors,10,28,<40,Female,Hispanic or Latino,47.9,58.1,0.55,0
+CAND-0698,Data & AI,Bachelors,6,32,<40,Female,Black or African American,48.4,61.4,0.467,0
+CAND-0699,Engineering,Bachelors,11,24,<40,Male,Black or African American,63.8,53.3,0.565,0
+CAND-0700,Engineering,Bachelors,6,32,<40,Female,White,51.3,64.6,0.574,0
+CAND-0701,Engineering,Bachelors,6,38,<40,Male,Hispanic or Latino,66.7,28.6,0.436,0
+CAND-0702,Sales,Associate,5,47,>=40,Female,Hispanic or Latino,70.9,45.0,0.531,0
+CAND-0703,Data & AI,Bachelors,10,37,<40,Female,White,49.7,40.2,0.467,0
+CAND-0704,Engineering,Bachelors,1,20,<40,Male,Black or African American,81.6,49.7,0.495,0
+CAND-0705,Data & AI,Bachelors,7,34,<40,Female,White,84.2,56.1,0.626,0
+CAND-0706,Engineering,Bachelors,9,45,>=40,Female,White,39.4,67.9,0.523,0
+CAND-0707,Engineering,Bachelors,11,32,<40,Female,Other,88.9,58.3,0.768,1
+CAND-0708,Operations,Masters,9,39,<40,Male,White,77.8,55.0,0.694,1
+CAND-0709,Sales,Masters,3,43,>=40,Male,Hispanic or Latino,71.3,60.1,0.557,0
+CAND-0710,Engineering,Bachelors,9,35,<40,Female,White,90.5,57.5,0.674,0
+CAND-0711,Operations,Bachelors,9,36,<40,Male,Asian,71.5,62.4,0.675,0
+CAND-0712,Engineering,Bachelors,9,38,<40,Male,White,59.1,63.0,0.651,0
+CAND-0713,Sales,Bachelors,6,30,<40,Male,White,49.1,56.3,0.586,0
+CAND-0714,Data & AI,Bachelors,6,32,<40,Male,Black or African American,68.4,44.4,0.525,0
+CAND-0715,Sales,Masters,10,26,<40,Female,Black or African American,68.3,67.3,0.597,0
+CAND-0716,Sales,Masters,7,30,<40,Female,Black or African American,46.1,80.5,0.506,0
+CAND-0717,Engineering,Associate,3,40,>=40,Female,Black or African American,65.0,52.1,0.482,0
+CAND-0718,Sales,Masters,5,38,<40,Female,White,91.5,66.4,0.67,0
+CAND-0719,Engineering,Bachelors,12,24,<40,Female,White,77.1,61.3,0.627,0
+CAND-0720,Sales,Bachelors,1,26,<40,Male,Black or African American,51.1,76.7,0.54,0
+CAND-0721,Data & AI,Bachelors,12,29,<40,Female,Black or African American,74.3,55.0,0.673,0
+CAND-0722,Sales,Masters,7,22,<40,Male,White,79.8,64.8,0.665,0
+CAND-0723,Data & AI,Bachelors,1,36,<40,Female,Hispanic or Latino,84.4,66.1,0.655,0
+CAND-0724,Engineering,Masters,10,28,<40,Male,Asian,78.2,71.8,0.768,1
+CAND-0725,Engineering,Bachelors,4,38,<40,Male,Hispanic or Latino,86.3,51.5,0.529,0
+CAND-0726,Engineering,Associate,7,42,>=40,Male,White,80.6,72.6,0.723,1
+CAND-0727,Operations,Bachelors,0,20,<40,Male,White,66.6,60.0,0.415,0
+CAND-0728,Data & AI,Bachelors,12,29,<40,Male,White,74.6,75.7,0.779,1
+CAND-0729,Operations,Masters,5,21,<40,Male,White,66.8,62.0,0.528,0
+CAND-0730,Engineering,Bachelors,4,20,<40,Male,White,75.6,86.8,0.718,1
+CAND-0731,Sales,Masters,7,38,<40,Male,White,80.3,43.9,0.606,0
+CAND-0732,Sales,Bachelors,10,35,<40,Male,White,68.9,76.2,0.688,0
+CAND-0733,Sales,Masters,6,29,<40,Male,White,74.2,72.7,0.751,1
+CAND-0734,Data & AI,Bachelors,10,26,<40,Female,White,63.2,74.9,0.616,0
+CAND-0735,Engineering,Bachelors,6,25,<40,Female,White,65.7,83.8,0.55,0
+CAND-0736,Data & AI,Masters,7,35,<40,Female,White,69.0,41.0,0.488,0
+CAND-0737,Data & AI,Bachelors,3,32,<40,Female,White,62.2,100.0,0.746,1
+CAND-0738,Engineering,Bachelors,11,26,<40,Female,White,88.6,75.8,0.767,1
+CAND-0739,Operations,Masters,9,37,<40,Female,Hispanic or Latino,78.4,96.9,0.771,1
+CAND-0740,Sales,PhD,9,36,<40,Male,Hispanic or Latino,80.4,96.0,0.751,1
+CAND-0741,Data & AI,Bachelors,11,26,<40,Female,White,77.8,74.4,0.695,1
+CAND-0742,Data & AI,Bachelors,2,30,<40,Male,Asian,72.4,71.9,0.547,0
+CAND-0743,Sales,Masters,7,40,>=40,Female,White,53.0,79.2,0.617,0
+CAND-0744,Engineering,Masters,11,39,<40,Female,Black or African American,85.7,33.8,0.545,0
+CAND-0745,Data & AI,Associate,6,28,<40,Female,White,99.1,66.7,0.65,0
+CAND-0746,Engineering,Bachelors,7,47,>=40,Male,Hispanic or Latino,79.3,82.5,0.726,1
+CAND-0747,Operations,Bachelors,7,32,<40,Female,White,59.0,90.9,0.751,1
+CAND-0748,Engineering,Bachelors,8,40,>=40,Non-Binary,White,78.3,63.3,0.644,0
+CAND-0749,Engineering,Bachelors,0,25,<40,Male,White,58.8,73.4,0.514,0
+CAND-0750,Operations,Bachelors,7,32,<40,Female,Asian,63.3,76.6,0.639,0
+CAND-0751,Engineering,Bachelors,8,26,<40,Male,White,36.1,66.8,0.463,0
+CAND-0752,Engineering,Bachelors,8,20,<40,Male,White,89.2,54.0,0.709,1
+CAND-0753,Data & AI,Bachelors,13,33,<40,Male,White,74.4,58.1,0.675,0
+CAND-0754,Engineering,PhD,4,31,<40,Female,Hispanic or Latino,78.0,52.3,0.474,0
+CAND-0755,Engineering,Masters,13,42,>=40,Male,White,81.1,45.3,0.688,0
+CAND-0756,Engineering,Bachelors,5,29,<40,Male,Black or African American,76.7,65.5,0.565,0
+CAND-0757,Operations,Masters,1,36,<40,Male,White,83.7,100.0,0.712,1
+CAND-0758,Engineering,Associate,13,30,<40,Male,Black or African American,89.1,71.7,0.771,1
+CAND-0759,Data & AI,Bachelors,11,26,<40,Male,White,69.5,63.7,0.729,1
+CAND-0760,Engineering,Bachelors,7,40,>=40,Male,White,46.7,73.6,0.567,0
+CAND-0761,Engineering,Bachelors,4,29,<40,Male,Hispanic or Latino,58.2,55.6,0.459,0
+CAND-0762,Engineering,Bachelors,6,30,<40,Male,Hispanic or Latino,78.7,43.1,0.437,0
+CAND-0763,Operations,Bachelors,8,24,<40,Male,Other,55.6,57.7,0.488,0
+CAND-0764,Sales,Bachelors,12,20,<40,Female,Hispanic or Latino,69.1,51.0,0.577,0
+CAND-0765,Engineering,Bachelors,1,37,<40,Non-Binary,White,100.0,40.3,0.479,0
+CAND-0766,Engineering,Bachelors,6,33,<40,Male,Black or African American,84.6,59.7,0.57,0
+CAND-0767,Sales,Bachelors,5,41,>=40,Male,Hispanic or Latino,41.8,75.3,0.648,0
+CAND-0768,Sales,Bachelors,5,38,<40,Female,White,100.0,73.9,0.781,1
+CAND-0769,Engineering,Bachelors,4,24,<40,Male,White,89.1,72.1,0.649,0
+CAND-0770,Engineering,Bachelors,13,34,<40,Female,White,79.3,93.0,0.846,1
+CAND-0771,Data & AI,Bachelors,3,33,<40,Male,White,71.9,59.7,0.506,0
+CAND-0772,Sales,Masters,7,42,>=40,Male,White,50.7,74.5,0.684,0
+CAND-0773,Engineering,Masters,2,43,>=40,Female,Asian,64.8,62.2,0.507,0
+CAND-0774,Engineering,Bachelors,10,20,<40,Female,Hispanic or Latino,42.2,89.3,0.705,1
+CAND-0775,Sales,PhD,5,42,>=40,Male,Black or African American,83.3,55.9,0.53,0
+CAND-0776,Engineering,Masters,0,41,>=40,Male,White,72.6,79.2,0.691,0
+CAND-0777,Engineering,Bachelors,10,27,<40,Female,White,59.6,71.7,0.613,0
+CAND-0778,Data & AI,Bachelors,4,33,<40,Male,Black or African American,84.1,86.3,0.608,0
+CAND-0779,Sales,Bachelors,12,20,<40,Female,Black or African American,74.7,68.1,0.649,0
+CAND-0780,Sales,Bachelors,11,33,<40,Male,Hispanic or Latino,92.9,64.5,0.728,1
+CAND-0781,Sales,Bachelors,6,25,<40,Male,Asian,63.8,62.6,0.635,0
+CAND-0782,Data & AI,Bachelors,8,38,<40,Male,White,89.5,65.7,0.685,0
+CAND-0783,Engineering,Masters,7,37,<40,Female,White,73.1,40.0,0.526,0
+CAND-0784,Engineering,Bachelors,1,33,<40,Male,White,59.2,60.2,0.457,0
+CAND-0785,Engineering,Bachelors,12,35,<40,Male,White,78.3,59.3,0.659,0
+CAND-0786,Operations,Bachelors,5,27,<40,Male,White,71.0,50.9,0.544,0
+CAND-0787,Sales,PhD,7,24,<40,Non-Binary,Asian,76.4,59.6,0.656,0
+CAND-0788,Engineering,Bachelors,7,50,>=40,Non-Binary,Other,56.2,54.5,0.457,0
+CAND-0789,Engineering,Bachelors,6,42,>=40,Female,Asian,37.7,60.3,0.499,0
+CAND-0790,Data & AI,Bachelors,9,35,<40,Non-Binary,Asian,63.1,77.4,0.736,1
+CAND-0791,Engineering,Bachelors,6,32,<40,Male,Other,78.0,77.4,0.686,0
+CAND-0792,Data & AI,Bachelors,4,53,>=40,Non-Binary,Asian,77.6,91.7,0.728,1
+CAND-0793,Operations,Masters,5,47,>=40,Male,Hispanic or Latino,63.6,72.6,0.484,0
+CAND-0794,Engineering,Bachelors,13,31,<40,Male,White,73.3,45.2,0.723,1
+CAND-0795,Engineering,Bachelors,7,26,<40,Male,White,64.5,63.1,0.587,0
+CAND-0796,Engineering,Bachelors,13,34,<40,Female,White,68.1,58.4,0.699,1
+CAND-0797,Engineering,PhD,3,30,<40,Female,White,87.7,53.3,0.527,0
+CAND-0798,Sales,Bachelors,4,26,<40,Female,Hispanic or Latino,51.3,84.1,0.581,0
+CAND-0799,Engineering,Masters,5,44,>=40,Non-Binary,White,96.4,74.8,0.767,1
+CAND-0800,Sales,Bachelors,6,38,<40,Female,White,72.4,69.1,0.591,0
+CAND-0801,Sales,Bachelors,4,30,<40,Female,White,98.3,45.7,0.495,0
+CAND-0802,Operations,Masters,6,30,<40,Male,White,96.1,66.8,0.711,1
+CAND-0803,Sales,Bachelors,7,34,<40,Female,White,38.2,100.0,0.576,0
+CAND-0804,Engineering,Bachelors,11,30,<40,Non-Binary,White,72.6,55.4,0.607,0
+CAND-0805,Engineering,Bachelors,1,29,<40,Non-Binary,White,56.3,64.7,0.47,0
+CAND-0806,Data & AI,Bachelors,10,50,>=40,Male,White,68.1,88.8,0.775,1
+CAND-0807,Engineering,Bachelors,9,26,<40,Male,Black or African American,76.4,61.4,0.592,0
+CAND-0808,Engineering,Bachelors,3,20,<40,Male,White,90.4,61.1,0.57,0
+CAND-0809,Operations,Bachelors,3,39,<40,Male,Hispanic or Latino,54.8,64.6,0.532,0
+CAND-0810,Engineering,Bachelors,8,42,>=40,Male,White,100.0,73.2,0.819,1
+CAND-0811,Engineering,Bachelors,4,35,<40,Female,White,61.9,54.0,0.414,0
+CAND-0812,Data & AI,Bachelors,12,21,<40,Female,Black or African American,51.2,81.8,0.638,0
+CAND-0813,Engineering,Masters,6,32,<40,Female,White,85.3,62.1,0.666,0
+CAND-0814,Engineering,Bachelors,2,29,<40,Male,White,71.8,71.1,0.603,0
+CAND-0815,Engineering,Masters,2,44,>=40,Male,Asian,100.0,61.7,0.594,0
+CAND-0816,Data & AI,Bachelors,1,27,<40,Male,Black or African American,56.2,48.0,0.398,0
+CAND-0817,Operations,Bachelors,6,35,<40,Male,White,72.6,35.1,0.492,0
+CAND-0818,Sales,Masters,6,38,<40,Male,Hispanic or Latino,87.8,71.4,0.716,1
+CAND-0819,Engineering,Bachelors,9,27,<40,Male,Asian,58.2,40.8,0.509,0
+CAND-0820,Engineering,Bachelors,12,29,<40,Female,White,87.9,79.5,0.694,1
+CAND-0821,Sales,Bachelors,7,37,<40,Male,Hispanic or Latino,75.6,69.9,0.664,0
+CAND-0822,Data & AI,Bachelors,12,20,<40,Female,Hispanic or Latino,55.9,98.4,0.816,1
+CAND-0823,Data & AI,Bachelors,4,44,>=40,Female,White,87.7,59.2,0.669,0
+CAND-0824,Sales,Bachelors,1,25,<40,Female,Hispanic or Latino,67.3,94.0,0.692,0
+CAND-0825,Operations,Bachelors,10,34,<40,Female,White,86.6,63.6,0.694,1
+CAND-0826,Engineering,Masters,9,23,<40,Female,Black or African American,60.2,81.9,0.664,0
+CAND-0827,Engineering,Bachelors,8,44,>=40,Female,Black or African American,49.7,76.2,0.581,0
+CAND-0828,Operations,Bachelors,9,34,<40,Female,White,63.8,40.5,0.484,0
+CAND-0829,Engineering,PhD,0,35,<40,Male,Asian,68.3,100.0,0.747,1
+CAND-0830,Engineering,Bachelors,5,38,<40,Male,Hispanic or Latino,72.7,92.3,0.704,1
+CAND-0831,Sales,Bachelors,11,42,>=40,Female,Asian,77.5,74.0,0.716,1
+CAND-0832,Engineering,Masters,5,25,<40,Male,White,97.4,87.9,0.848,1
+CAND-0833,Engineering,Bachelors,9,31,<40,Female,White,68.6,72.1,0.609,0
+CAND-0834,Operations,PhD,17,44,>=40,Female,Hispanic or Latino,94.9,81.3,0.801,1
+CAND-0835,Engineering,Bachelors,11,30,<40,Male,White,84.3,70.3,0.71,1
+CAND-0836,Sales,Bachelors,5,44,>=40,Male,White,68.9,52.4,0.566,0
+CAND-0837,Engineering,Bachelors,0,35,<40,Female,Hispanic or Latino,74.3,66.5,0.641,0
+CAND-0838,Data & AI,Bachelors,9,30,<40,Female,White,75.5,60.1,0.685,0
+CAND-0839,Engineering,PhD,0,39,<40,Female,White,84.4,77.5,0.653,0
+CAND-0840,Data & AI,Masters,3,32,<40,Female,White,86.5,52.2,0.626,0
+CAND-0841,Engineering,Masters,4,40,>=40,Female,White,50.4,70.2,0.53,0
+CAND-0842,Sales,Bachelors,6,30,<40,Female,White,83.7,46.9,0.523,0
+CAND-0843,Data & AI,Masters,8,40,>=40,Male,White,75.7,79.6,0.727,1
+CAND-0844,Engineering,Masters,3,37,<40,Male,White,75.5,49.7,0.515,0
+CAND-0845,Engineering,Bachelors,11,31,<40,Male,Hispanic or Latino,68.1,77.1,0.684,0
+CAND-0846,Data & AI,Masters,12,20,<40,Male,White,79.9,69.8,0.743,1
+CAND-0847,Engineering,Masters,6,37,<40,Male,Black or African American,82.4,83.6,0.627,0
+CAND-0848,Operations,Masters,11,42,>=40,Female,White,71.6,65.7,0.647,0
+CAND-0849,Engineering,Bachelors,4,35,<40,Female,Black or African American,84.3,80.2,0.634,0
+CAND-0850,Data & AI,Associate,2,20,<40,Female,Other,61.2,70.2,0.518,0
+CAND-0851,Data & AI,Bachelors,11,43,>=40,Female,Black or African American,70.2,74.4,0.741,1
+CAND-0852,Engineering,Masters,8,37,<40,Male,Black or African American,75.1,41.1,0.524,0
+CAND-0853,Engineering,Bachelors,8,38,<40,Male,White,65.7,58.3,0.687,0
+CAND-0854,Engineering,PhD,14,33,<40,Female,White,65.4,65.6,0.612,0
+CAND-0855,Operations,Bachelors,9,20,<40,Male,Asian,57.0,88.6,0.762,1
+CAND-0856,Data & AI,Bachelors,16,38,<40,Female,Hispanic or Latino,76.0,73.2,0.776,1
+CAND-0857,Sales,Bachelors,7,32,<40,Male,Black or African American,97.2,42.2,0.579,0
+CAND-0858,Engineering,Bachelors,13,28,<40,Male,Asian,78.4,74.6,0.717,1
+CAND-0859,Engineering,PhD,6,47,>=40,Male,White,67.7,54.8,0.581,0
+CAND-0860,Data & AI,PhD,2,38,<40,Female,Black or African American,88.4,56.1,0.632,0
+CAND-0861,Operations,Bachelors,10,35,<40,Female,White,69.5,67.1,0.671,0
+CAND-0862,Engineering,Bachelors,6,27,<40,Female,Black or African American,80.5,72.2,0.614,0
+CAND-0863,Data & AI,Bachelors,15,26,<40,Female,White,77.8,56.3,0.703,1
+CAND-0864,Engineering,Bachelors,9,38,<40,Female,Asian,49.1,41.8,0.479,0
+CAND-0865,Data & AI,Masters,10,20,<40,Female,Hispanic or Latino,71.4,65.3,0.725,1
+CAND-0866,Engineering,Masters,0,38,<40,Female,White,100.0,64.6,0.592,0
+CAND-0867,Data & AI,Bachelors,9,38,<40,Male,Black or African American,62.4,89.5,0.71,1
+CAND-0868,Operations,Bachelors,6,45,>=40,Female,Hispanic or Latino,92.3,68.6,0.682,0
+CAND-0869,Sales,Masters,3,41,>=40,Female,White,84.2,85.7,0.668,0
+CAND-0870,Operations,Bachelors,12,43,>=40,Male,White,63.7,99.7,0.841,1
+CAND-0871,Engineering,Bachelors,1,29,<40,Male,White,71.5,51.4,0.571,0
+CAND-0872,Operations,Bachelors,8,22,<40,Male,White,56.6,90.1,0.678,0
+CAND-0873,Operations,Bachelors,4,35,<40,Male,Black or African American,83.3,82.0,0.692,0
+CAND-0874,Engineering,Bachelors,8,37,<40,Female,White,56.8,34.7,0.452,0
+CAND-0875,Sales,PhD,5,42,>=40,Female,White,77.0,65.2,0.599,0
+CAND-0876,Operations,Bachelors,6,45,>=40,Female,Black or African American,97.0,78.6,0.725,1
+CAND-0877,Engineering,Masters,7,24,<40,Female,Other,62.3,73.1,0.63,0
+CAND-0878,Sales,Bachelors,3,40,>=40,Female,Hispanic or Latino,76.2,92.9,0.649,0
+CAND-0879,Data & AI,Masters,11,20,<40,Male,Black or African American,50.5,76.9,0.626,0
+CAND-0880,Engineering,Bachelors,9,36,<40,Female,White,72.0,46.6,0.551,0
+CAND-0881,Data & AI,Bachelors,3,39,<40,Female,White,57.2,79.9,0.517,0
+CAND-0882,Engineering,Bachelors,12,21,<40,Female,White,74.8,50.9,0.624,0
+CAND-0883,Engineering,Masters,10,38,<40,Female,Hispanic or Latino,63.9,59.7,0.594,0
+CAND-0884,Sales,Masters,7,25,<40,Female,White,57.5,84.5,0.746,1
+CAND-0885,Sales,PhD,1,30,<40,Male,White,69.5,82.8,0.588,0
+CAND-0886,Operations,Bachelors,4,40,>=40,Female,Asian,34.3,68.6,0.502,0
+CAND-0887,Data & AI,Bachelors,0,31,<40,Female,White,56.6,57.1,0.449,0
+CAND-0888,Sales,Bachelors,7,31,<40,Female,Asian,100.0,65.0,0.757,1
+CAND-0889,Data & AI,Bachelors,10,36,<40,Male,Asian,68.2,66.3,0.63,0
+CAND-0890,Data & AI,Bachelors,4,40,>=40,Male,White,64.7,59.5,0.453,0
+CAND-0891,Operations,Masters,7,33,<40,Male,Asian,76.6,85.0,0.739,1
+CAND-0892,Data & AI,Bachelors,10,46,>=40,Female,White,86.2,61.8,0.722,1
+CAND-0893,Sales,Masters,4,31,<40,Male,Other,94.5,64.1,0.656,0
+CAND-0894,Engineering,Bachelors,9,43,>=40,Female,White,70.7,64.5,0.62,0
+CAND-0895,Operations,Bachelors,15,38,<40,Male,Hispanic or Latino,68.7,78.5,0.892,1
+CAND-0896,Data & AI,Bachelors,9,39,<40,Male,Hispanic or Latino,77.0,71.8,0.676,0
+CAND-0897,Engineering,Bachelors,2,24,<40,Female,Black or African American,72.5,71.3,0.578,0
+CAND-0898,Data & AI,PhD,6,43,>=40,Female,Black or African American,69.3,53.9,0.446,0
+CAND-0899,Sales,Masters,9,34,<40,Female,Asian,80.1,71.5,0.75,1
+CAND-0900,Engineering,Masters,8,52,>=40,Male,Asian,79.9,79.2,0.739,1
+CAND-0901,Sales,Associate,2,36,<40,Male,Black or African American,72.5,62.8,0.547,0
+CAND-0902,Engineering,Bachelors,8,33,<40,Male,Black or African American,100.0,70.2,0.7,1
+CAND-0903,Data & AI,Bachelors,6,29,<40,Male,White,98.3,81.8,0.797,1
+CAND-0904,Engineering,Masters,5,34,<40,Female,Hispanic or Latino,79.4,56.0,0.575,0
+CAND-0905,Engineering,Bachelors,9,45,>=40,Male,Black or African American,87.9,56.2,0.57,0
+CAND-0906,Engineering,Bachelors,14,40,>=40,Non-Binary,Hispanic or Latino,62.2,66.2,0.678,0
+CAND-0907,Sales,Bachelors,4,36,<40,Female,Black or African American,72.1,79.7,0.608,0
+CAND-0908,Engineering,Bachelors,8,40,>=40,Female,White,81.9,23.3,0.43,0
+CAND-0909,Operations,Masters,6,30,<40,Non-Binary,White,91.2,65.1,0.701,1
+CAND-0910,Engineering,Bachelors,9,29,<40,Male,White,57.2,57.4,0.569,0
+CAND-0911,Data & AI,Bachelors,7,28,<40,Male,Black or African American,62.4,73.4,0.632,0
+CAND-0912,Sales,Bachelors,4,41,>=40,Female,White,72.8,66.5,0.569,0
+CAND-0913,Operations,Bachelors,4,42,>=40,Male,Black or African American,93.0,85.1,0.841,1
+CAND-0914,Engineering,PhD,8,27,<40,Non-Binary,White,72.7,77.7,0.612,0
+CAND-0915,Engineering,Bachelors,7,28,<40,Non-Binary,White,87.8,64.6,0.652,0
+CAND-0916,Sales,Bachelors,9,32,<40,Female,White,69.4,52.7,0.604,0
+CAND-0917,Data & AI,Bachelors,0,25,<40,Female,White,81.9,73.2,0.595,0
+CAND-0918,Engineering,Bachelors,11,35,<40,Female,White,56.4,63.5,0.622,0
+CAND-0919,Engineering,Bachelors,12,45,>=40,Female,Hispanic or Latino,61.1,64.9,0.476,0
+CAND-0920,Sales,Masters,7,36,<40,Male,White,68.1,50.6,0.55,0
+CAND-0921,Engineering,Bachelors,9,42,>=40,Female,White,54.9,70.3,0.599,0
+CAND-0922,Engineering,Bachelors,10,23,<40,Male,Asian,54.1,60.4,0.625,0
+CAND-0923,Sales,Masters,6,29,<40,Female,White,65.3,61.9,0.575,0
+CAND-0924,Data & AI,Masters,7,20,<40,Non-Binary,Hispanic or Latino,50.4,15.0,0.338,0
+CAND-0925,Operations,Bachelors,8,33,<40,Male,Other,69.1,68.5,0.652,0
+CAND-0926,Engineering,Bachelors,4,51,>=40,Male,Black or African American,74.7,53.7,0.453,0
+CAND-0927,Data & AI,Bachelors,7,48,>=40,Male,Black or African American,59.0,75.7,0.618,0
+CAND-0928,Engineering,Bachelors,0,37,<40,Female,White,65.7,69.1,0.505,0
+CAND-0929,Engineering,Bachelors,4,34,<40,Female,White,65.3,46.0,0.437,0
+CAND-0930,Sales,Bachelors,12,37,<40,Female,White,92.2,66.4,0.751,1
+CAND-0931,Data & AI,Bachelors,8,24,<40,Female,White,72.2,71.2,0.632,0
+CAND-0932,Operations,Masters,3,35,<40,Male,White,100.0,99.3,0.764,1
+CAND-0933,Data & AI,Masters,2,20,<40,Female,Hispanic or Latino,64.2,77.0,0.601,0
+CAND-0934,Engineering,Bachelors,17,20,<40,Female,White,64.2,48.6,0.707,1
+CAND-0935,Engineering,Bachelors,4,31,<40,Male,Hispanic or Latino,86.1,97.1,0.805,1
+CAND-0936,Data & AI,Bachelors,5,52,>=40,Male,Black or African American,34.7,63.9,0.45,0
+CAND-0937,Sales,Bachelors,9,47,>=40,Female,White,80.9,63.8,0.735,1
+CAND-0938,Engineering,Bachelors,3,43,>=40,Non-Binary,White,68.7,97.1,0.813,1
+CAND-0939,Sales,Masters,8,34,<40,Female,White,71.6,58.6,0.582,0
+CAND-0940,Operations,Bachelors,7,46,>=40,Female,Hispanic or Latino,65.3,65.6,0.551,0
+CAND-0941,Data & AI,Bachelors,2,29,<40,Male,White,78.3,43.5,0.518,0
+CAND-0942,Sales,Bachelors,7,24,<40,Non-Binary,Black or African American,44.1,67.4,0.519,0
+CAND-0943,Operations,Masters,8,29,<40,Male,Black or African American,59.6,65.7,0.619,0
+CAND-0944,Data & AI,Masters,2,21,<40,Female,Hispanic or Latino,97.4,62.0,0.617,0
+CAND-0945,Engineering,Masters,9,52,>=40,Male,White,70.9,70.4,0.689,0
+CAND-0946,Engineering,Bachelors,9,38,<40,Female,Black or African American,53.4,55.7,0.44,0
+CAND-0947,Sales,Masters,2,27,<40,Male,White,70.9,90.0,0.731,1
+CAND-0948,Engineering,Masters,8,33,<40,Male,White,80.5,68.3,0.664,0
+CAND-0949,Data & AI,Bachelors,7,33,<40,Male,White,71.4,56.5,0.538,0
+CAND-0950,Operations,Bachelors,5,45,>=40,Male,Hispanic or Latino,68.4,47.1,0.385,0
+CAND-0951,Engineering,Masters,5,51,>=40,Male,Other,61.7,68.7,0.587,0
+CAND-0952,Data & AI,PhD,8,42,>=40,Female,White,52.3,81.8,0.592,0
+CAND-0953,Sales,Associate,4,39,<40,Male,Black or African American,43.8,73.3,0.485,0
+CAND-0954,Engineering,Bachelors,9,36,<40,Male,White,58.4,97.8,0.74,1
+CAND-0955,Data & AI,Associate,3,34,<40,Male,Black or African American,88.4,98.1,0.733,1
+CAND-0956,Sales,Bachelors,4,34,<40,Male,White,64.1,48.8,0.456,0
+CAND-0957,Sales,Bachelors,1,34,<40,Female,White,67.7,45.6,0.388,0
+CAND-0958,Engineering,Associate,0,32,<40,Female,Black or African American,48.7,56.5,0.307,0
+CAND-0959,Sales,Masters,7,30,<40,Male,Hispanic or Latino,70.1,78.6,0.683,0
+CAND-0960,Engineering,Masters,0,25,<40,Male,White,64.4,73.9,0.501,0
+CAND-0961,Sales,PhD,8,32,<40,Female,Black or African American,65.3,83.2,0.703,1
+CAND-0962,Engineering,Masters,6,23,<40,Female,White,61.7,52.5,0.502,0
+CAND-0963,Sales,Bachelors,14,29,<40,Male,White,61.9,41.4,0.513,0
+CAND-0964,Engineering,PhD,9,33,<40,Male,White,66.6,59.1,0.63,0
+CAND-0965,Engineering,Associate,9,36,<40,Male,Asian,69.6,76.8,0.664,0
+CAND-0966,Engineering,Bachelors,4,35,<40,Male,Asian,38.4,70.4,0.557,0
+CAND-0967,Data & AI,Bachelors,4,37,<40,Male,White,46.5,86.7,0.576,0
+CAND-0968,Engineering,Bachelors,5,37,<40,Male,Hispanic or Latino,62.6,57.3,0.613,0
+CAND-0969,Data & AI,Masters,6,48,>=40,Male,Black or African American,82.9,82.9,0.753,1
+CAND-0970,Engineering,Masters,4,47,>=40,Female,Asian,50.2,58.9,0.646,0
+CAND-0971,Sales,Associate,9,30,<40,Female,Asian,78.1,79.7,0.727,1
+CAND-0972,Data & AI,Bachelors,5,41,>=40,Female,Black or African American,93.2,79.4,0.715,1
+CAND-0973,Engineering,Masters,11,32,<40,Female,White,66.3,91.6,0.762,1
+CAND-0974,Engineering,Masters,3,20,<40,Male,White,63.7,47.9,0.483,0
+CAND-0975,Engineering,Bachelors,9,39,<40,Male,Hispanic or Latino,77.5,88.7,0.852,1
+CAND-0976,Data & AI,Masters,14,29,<40,Male,Asian,71.5,74.7,0.812,1
+CAND-0977,Engineering,Bachelors,14,28,<40,Female,White,61.3,68.9,0.677,0
+CAND-0978,Sales,Masters,3,29,<40,Female,Hispanic or Latino,73.8,66.0,0.631,0
+CAND-0979,Engineering,Masters,11,27,<40,Female,Hispanic or Latino,60.4,66.9,0.679,0
+CAND-0980,Sales,Masters,0,48,>=40,Male,White,89.3,68.6,0.699,1
+CAND-0981,Sales,Bachelors,0,24,<40,Male,Black or African American,67.0,43.9,0.453,0
+CAND-0982,Engineering,Bachelors,9,32,<40,Female,White,75.9,71.7,0.661,0
+CAND-0983,Data & AI,Masters,8,20,<40,Female,Hispanic or Latino,93.3,70.3,0.697,1
+CAND-0984,Operations,Bachelors,9,28,<40,Male,Black or African American,67.5,58.1,0.556,0
+CAND-0985,Engineering,Bachelors,5,23,<40,Female,Other,59.5,68.5,0.592,0
+CAND-0986,Data & AI,Bachelors,2,38,<40,Male,Asian,62.0,84.5,0.691,0
+CAND-0987,Engineering,Bachelors,0,21,<40,Female,White,70.0,58.8,0.533,0
+CAND-0988,Data & AI,Masters,3,45,>=40,Male,White,68.0,50.9,0.436,0
+CAND-0989,Engineering,Masters,9,23,<40,Female,Hispanic or Latino,67.5,57.2,0.548,0
+CAND-0990,Operations,Bachelors,10,25,<40,Female,Hispanic or Latino,74.9,36.7,0.565,0
+CAND-0991,Engineering,Masters,8,39,<40,Non-Binary,Hispanic or Latino,71.7,94.9,0.846,1
+CAND-0992,Data & AI,Bachelors,7,49,>=40,Female,White,63.5,55.5,0.551,0
+CAND-0993,Data & AI,Bachelors,13,30,<40,Male,Hispanic or Latino,70.2,86.9,0.886,1
+CAND-0994,Engineering,Masters,12,38,<40,Male,White,60.3,49.4,0.499,0
+CAND-0995,Engineering,Bachelors,10,25,<40,Male,White,63.2,58.7,0.608,0
+CAND-0996,Data & AI,Bachelors,11,29,<40,Male,White,37.3,69.0,0.659,0
+CAND-0997,Engineering,Masters,8,33,<40,Male,Asian,58.3,77.7,0.677,0
+CAND-0998,Operations,Bachelors,8,27,<40,Male,Black or African American,81.4,67.0,0.613,0
+CAND-0999,Operations,Bachelors,3,43,>=40,Female,Other,78.8,44.9,0.527,0
+CAND-1000,Data & AI,Bachelors,8,40,>=40,Male,Hispanic or Latino,80.2,67.2,0.697,1
+CAND-1001,Sales,Associate,4,29,<40,Male,White,76.0,86.9,0.687,0
+CAND-1002,Engineering,Bachelors,11,20,<40,Female,Black or African American,63.2,72.9,0.547,0
+CAND-1003,Operations,Bachelors,9,28,<40,Female,White,52.3,100.0,0.758,1
+CAND-1004,Engineering,Masters,5,44,>=40,Female,Black or African American,65.6,70.6,0.49,0
+CAND-1005,Engineering,PhD,9,33,<40,Female,White,26.7,83.2,0.665,0
+CAND-1006,Engineering,Bachelors,11,42,>=40,Male,Black or African American,86.0,75.9,0.66,0
+CAND-1007,Operations,Bachelors,3,47,>=40,Male,Black or African American,72.9,58.5,0.521,0
+CAND-1008,Engineering,Bachelors,5,38,<40,Female,White,82.0,67.1,0.663,0
+CAND-1009,Operations,Bachelors,3,43,>=40,Male,White,62.8,84.7,0.59,0
+CAND-1010,Sales,Masters,6,29,<40,Female,White,47.5,62.8,0.463,0
+CAND-1011,Engineering,Bachelors,12,43,>=40,Male,Other,72.6,74.0,0.79,1
+CAND-1012,Data & AI,Bachelors,7,32,<40,Female,White,72.4,58.7,0.533,0
+CAND-1013,Engineering,Masters,9,27,<40,Female,Hispanic or Latino,68.1,81.9,0.793,1
+CAND-1014,Engineering,Bachelors,4,50,>=40,Female,White,74.0,69.2,0.597,0
+CAND-1015,Data & AI,PhD,10,33,<40,Male,White,63.3,81.0,0.698,1
+CAND-1016,Engineering,Bachelors,6,28,<40,Female,Black or African American,72.8,86.7,0.736,1
+CAND-1017,Engineering,Bachelors,10,37,<40,Female,Hispanic or Latino,76.6,78.1,0.67,0
+CAND-1018,Engineering,Masters,10,25,<40,Male,Black or African American,93.5,65.3,0.801,1
+CAND-1019,Sales,Bachelors,2,23,<40,Female,Black or African American,80.7,65.6,0.485,0
+CAND-1020,Data & AI,Bachelors,4,32,<40,Male,Hispanic or Latino,52.7,36.4,0.465,0
+CAND-1021,Engineering,Masters,5,22,<40,Male,White,64.5,74.4,0.72,1
+CAND-1022,Engineering,Bachelors,14,30,<40,Male,White,58.0,83.7,0.761,1
+CAND-1023,Engineering,Bachelors,12,23,<40,Female,White,89.2,49.4,0.659,0
+CAND-1024,Engineering,PhD,7,41,>=40,Male,White,63.1,65.7,0.596,0
+CAND-1025,Sales,Masters,17,47,>=40,Female,Other,66.3,65.3,0.657,0
+CAND-1026,Engineering,Masters,1,22,<40,Female,Black or African American,68.4,75.0,0.524,0
+CAND-1027,Data & AI,Masters,6,51,>=40,Female,White,75.6,70.2,0.676,0
+CAND-1028,Operations,Bachelors,11,40,>=40,Male,Asian,53.3,54.3,0.607,0
+CAND-1029,Data & AI,Masters,7,35,<40,Male,Asian,69.8,92.2,0.778,1
+CAND-1030,Engineering,Associate,3,21,<40,Male,White,83.1,43.0,0.488,0
+CAND-1031,Sales,Bachelors,8,20,<40,Male,Asian,65.4,58.9,0.547,0
+CAND-1032,Data & AI,Masters,17,33,<40,Female,White,95.6,48.0,0.809,1
+CAND-1033,Engineering,Bachelors,3,32,<40,Female,Asian,57.6,73.3,0.475,0
+CAND-1034,Operations,Bachelors,4,31,<40,Male,White,62.9,75.0,0.603,0
+CAND-1035,Operations,Bachelors,2,34,<40,Male,Black or African American,80.8,66.2,0.605,0
+CAND-1036,Engineering,Bachelors,5,28,<40,Female,White,70.5,49.8,0.584,0
+CAND-1037,Sales,Bachelors,11,32,<40,Male,Other,66.8,54.0,0.625,0
+CAND-1038,Engineering,Bachelors,13,33,<40,Female,White,54.3,81.4,0.713,1
+CAND-1039,Engineering,Associate,1,54,>=40,Male,White,61.8,66.8,0.507,0
+CAND-1040,Data & AI,Bachelors,9,20,<40,Female,Black or African American,95.6,61.2,0.747,1
+CAND-1041,Operations,Bachelors,10,37,<40,Female,Black or African American,74.5,57.6,0.652,0
+CAND-1042,Operations,Bachelors,4,34,<40,Female,Hispanic or Latino,78.1,66.2,0.545,0
+CAND-1043,Engineering,Associate,9,34,<40,Male,Hispanic or Latino,61.3,76.5,0.712,1
+CAND-1044,Operations,Bachelors,8,36,<40,Female,Hispanic or Latino,72.7,64.3,0.615,0
+CAND-1045,Data & AI,Masters,11,49,>=40,Female,White,66.1,74.5,0.699,1
+CAND-1046,Operations,Masters,0,36,<40,Male,White,52.5,44.6,0.344,0
+CAND-1047,Operations,Bachelors,8,22,<40,Male,White,59.7,85.0,0.6,0
+CAND-1048,Sales,Bachelors,10,36,<40,Non-Binary,Asian,62.7,67.4,0.601,0
+CAND-1049,Engineering,Bachelors,11,32,<40,Male,White,99.3,53.3,0.706,1
+CAND-1050,Engineering,Bachelors,10,29,<40,Male,White,96.2,74.6,0.781,1
+CAND-1051,Engineering,Bachelors,2,35,<40,Male,Black or African American,46.6,70.7,0.351,0
+CAND-1052,Sales,Bachelors,12,33,<40,Non-Binary,White,58.4,51.1,0.61,0
+CAND-1053,Engineering,Masters,9,32,<40,Female,White,67.5,66.2,0.554,0
+CAND-1054,Sales,Bachelors,7,33,<40,Female,Hispanic or Latino,70.4,60.2,0.579,0
+CAND-1055,Engineering,Bachelors,7,24,<40,Female,White,68.2,49.0,0.463,0
+CAND-1056,Operations,Masters,14,39,<40,Female,Black or African American,95.9,61.7,0.641,0
+CAND-1057,Engineering,Bachelors,9,32,<40,Female,White,63.4,52.3,0.545,0
+CAND-1058,Sales,Bachelors,7,36,<40,Female,White,95.4,49.7,0.611,0
+CAND-1059,Sales,Associate,3,27,<40,Female,Asian,83.5,75.5,0.647,0
+CAND-1060,Engineering,Bachelors,6,25,<40,Male,White,69.1,72.6,0.728,1
+CAND-1061,Data & AI,Bachelors,3,31,<40,Female,White,61.0,64.1,0.547,0
+CAND-1062,Sales,Bachelors,0,33,<40,Female,Asian,60.8,34.4,0.436,0
+CAND-1063,Sales,Masters,7,30,<40,Male,White,97.2,66.9,0.719,1
+CAND-1064,Data & AI,Bachelors,0,34,<40,Male,White,80.1,79.4,0.602,0
+CAND-1065,Engineering,Bachelors,4,20,<40,Female,White,74.1,86.2,0.694,1
+CAND-1066,Operations,Masters,5,50,>=40,Male,Black or African American,39.3,83.3,0.632,0
+CAND-1067,Operations,Bachelors,1,27,<40,Male,White,63.1,50.2,0.404,0
+CAND-1068,Data & AI,Bachelors,11,24,<40,Male,Black or African American,64.8,56.3,0.657,0
+CAND-1069,Engineering,Masters,6,43,>=40,Male,White,73.0,65.5,0.654,0
+CAND-1070,Engineering,Bachelors,0,24,<40,Female,White,68.1,66.8,0.487,0
+CAND-1071,Sales,Bachelors,10,35,<40,Male,Black or African American,64.6,68.5,0.703,1
+CAND-1072,Engineering,Bachelors,14,24,<40,Male,White,74.5,84.8,0.769,1
+CAND-1073,Engineering,PhD,7,31,<40,Male,White,82.6,70.9,0.735,1
+CAND-1074,Engineering,Associate,9,31,<40,Female,Black or African American,61.6,86.2,0.644,0
+CAND-1075,Sales,Masters,8,27,<40,Female,Other,56.1,56.4,0.583,0
+CAND-1076,Engineering,Masters,9,41,>=40,Female,White,62.1,62.2,0.604,0
+CAND-1077,Operations,Masters,4,45,>=40,Female,White,56.6,61.6,0.553,0
+CAND-1078,Data & AI,Masters,4,27,<40,Male,White,66.3,67.2,0.59,0
+CAND-1079,Engineering,Bachelors,2,35,<40,Female,Hispanic or Latino,98.1,47.7,0.533,0
+CAND-1080,Data & AI,Masters,7,23,<40,Female,Asian,65.2,96.8,0.723,1
+CAND-1081,Operations,Masters,9,34,<40,Female,Asian,54.6,69.4,0.603,0
+CAND-1082,Engineering,PhD,9,40,>=40,Male,White,63.8,50.8,0.59,0
+CAND-1083,Engineering,Bachelors,5,34,<40,Male,White,91.9,51.7,0.655,0
+CAND-1084,Engineering,Bachelors,6,29,<40,Female,White,66.1,69.2,0.594,0
+CAND-1085,Data & AI,PhD,6,31,<40,Male,White,58.7,76.9,0.665,0
+CAND-1086,Engineering,Bachelors,4,30,<40,Male,Hispanic or Latino,45.8,82.1,0.694,1
+CAND-1087,Data & AI,Associate,0,32,<40,Female,White,65.3,68.7,0.472,0
+CAND-1088,Data & AI,Masters,6,28,<40,Male,Black or African American,49.7,77.1,0.611,0
+CAND-1089,Data & AI,Masters,5,35,<40,Female,Asian,73.0,73.1,0.587,0
+CAND-1090,Sales,Bachelors,6,24,<40,Male,White,64.1,66.4,0.556,0
+CAND-1091,Engineering,Bachelors,4,20,<40,Female,Black or African American,40.7,62.9,0.481,0
+CAND-1092,Engineering,Bachelors,8,42,>=40,Male,White,93.3,68.4,0.696,1
+CAND-1093,Engineering,Masters,17,33,<40,Female,White,99.9,66.3,0.817,1
+CAND-1094,Sales,Masters,10,34,<40,Male,White,73.6,67.9,0.656,0
+CAND-1095,Operations,Bachelors,5,28,<40,Female,White,91.5,74.7,0.814,1
+CAND-1096,Data & AI,Masters,6,30,<40,Female,White,73.2,92.3,0.72,1
+CAND-1097,Engineering,Masters,6,25,<40,Male,Black or African American,42.7,52.9,0.372,0
+CAND-1098,Engineering,PhD,7,43,>=40,Female,Hispanic or Latino,66.4,69.4,0.565,0
+CAND-1099,Data & AI,Bachelors,6,29,<40,Female,White,61.1,73.3,0.7,1
+CAND-1100,Operations,Bachelors,5,21,<40,Male,Asian,49.0,62.4,0.508,0
+CAND-1101,Engineering,Bachelors,4,39,<40,Male,Hispanic or Latino,70.0,84.2,0.673,0
+CAND-1102,Data & AI,Bachelors,9,43,>=40,Male,Hispanic or Latino,59.6,60.7,0.676,0
+CAND-1103,Engineering,Associate,5,32,<40,Male,White,72.6,78.1,0.736,1
+CAND-1104,Engineering,Bachelors,9,46,>=40,Female,White,80.3,86.9,0.718,1
+CAND-1105,Sales,PhD,6,36,<40,Male,Hispanic or Latino,93.8,74.0,0.702,1
+CAND-1106,Data & AI,Associate,0,32,<40,Female,Asian,69.5,65.4,0.48,0
+CAND-1107,Engineering,Bachelors,2,33,<40,Male,White,54.3,75.2,0.539,0
+CAND-1108,Data & AI,PhD,0,37,<40,Male,Hispanic or Latino,62.5,62.0,0.539,0
+CAND-1109,Sales,Bachelors,7,42,>=40,Male,White,64.1,57.4,0.572,0
+CAND-1110,Sales,Masters,0,38,<40,Male,Hispanic or Latino,100.0,73.5,0.665,0
+CAND-1111,Sales,Bachelors,5,36,<40,Female,White,68.5,79.2,0.633,0
+CAND-1112,Engineering,Associate,5,34,<40,Male,Black or African American,77.1,69.4,0.581,0
+CAND-1113,Engineering,Masters,6,39,<40,Female,Black or African American,85.2,76.4,0.73,1
+CAND-1114,Sales,PhD,10,28,<40,Male,White,89.3,100.0,0.861,1
+CAND-1115,Sales,Masters,11,21,<40,Male,White,72.9,86.3,0.792,1
+CAND-1116,Engineering,Bachelors,4,35,<40,Male,Asian,65.1,59.5,0.58,0
+CAND-1117,Sales,Bachelors,6,25,<40,Male,Black or African American,63.1,70.8,0.613,0
+CAND-1118,Data & AI,Bachelors,5,22,<40,Male,Black or African American,52.0,72.5,0.515,0
+CAND-1119,Sales,Bachelors,8,46,>=40,Male,Black or African American,82.4,55.4,0.659,0
+CAND-1120,Sales,Masters,6,20,<40,Female,Asian,100.0,77.2,0.855,1
+CAND-1121,Data & AI,Bachelors,8,38,<40,Female,White,88.9,56.7,0.733,1
+CAND-1122,Engineering,Associate,2,25,<40,Female,Asian,70.3,78.1,0.47,0
+CAND-1123,Sales,Masters,7,27,<40,Male,White,52.0,97.0,0.708,1
+CAND-1124,Engineering,Bachelors,1,37,<40,Male,White,62.2,66.1,0.495,0
+CAND-1125,Sales,Bachelors,3,52,>=40,Non-Binary,Black or African American,75.6,74.6,0.628,0
+CAND-1126,Sales,PhD,7,39,<40,Female,Other,65.2,72.4,0.67,0
+CAND-1127,Engineering,Bachelors,0,25,<40,Male,White,68.2,54.0,0.424,0
+CAND-1128,Engineering,Bachelors,0,33,<40,Male,White,75.4,57.0,0.564,0
+CAND-1129,Engineering,Bachelors,2,31,<40,Male,Black or African American,73.0,73.4,0.571,0
+CAND-1130,Sales,Associate,3,20,<40,Female,White,100.0,70.0,0.662,0
+CAND-1131,Engineering,Masters,3,34,<40,Female,Other,100.0,66.0,0.683,0
+CAND-1132,Engineering,Bachelors,4,28,<40,Male,Black or African American,65.7,82.0,0.605,0
+CAND-1133,Data & AI,Bachelors,8,39,<40,Male,Hispanic or Latino,84.4,75.0,0.796,1
+CAND-1134,Engineering,Bachelors,14,31,<40,Male,White,50.5,100.0,0.794,1
+CAND-1135,Engineering,Bachelors,4,46,>=40,Male,White,83.2,54.1,0.655,0
+CAND-1136,Operations,PhD,8,36,<40,Female,Black or African American,76.8,62.0,0.583,0
+CAND-1137,Data & AI,Bachelors,11,35,<40,Female,White,57.4,89.8,0.603,0
+CAND-1138,Engineering,Masters,11,49,>=40,Male,Hispanic or Latino,86.1,93.3,0.828,1
+CAND-1139,Sales,Bachelors,3,36,<40,Female,White,55.6,55.1,0.447,0
+CAND-1140,Data & AI,Bachelors,10,47,>=40,Male,White,68.1,62.2,0.67,0
+CAND-1141,Operations,Bachelors,12,24,<40,Female,Asian,72.0,65.3,0.671,0
+CAND-1142,Sales,Masters,13,20,<40,Female,Hispanic or Latino,46.3,89.1,0.671,0
+CAND-1143,Sales,Masters,13,35,<40,Male,White,72.2,66.0,0.812,1
+CAND-1144,Operations,Bachelors,2,43,>=40,Female,Asian,57.4,65.5,0.563,0
+CAND-1145,Engineering,Bachelors,7,24,<40,Male,Black or African American,64.2,64.0,0.506,0
+CAND-1146,Sales,Masters,4,30,<40,Male,Black or African American,68.6,69.6,0.525,0
+CAND-1147,Sales,Bachelors,1,20,<40,Male,White,46.3,73.2,0.521,0
+CAND-1148,Operations,Bachelors,8,33,<40,Male,White,62.9,96.2,0.752,1
+CAND-1149,Operations,Bachelors,7,33,<40,Female,Hispanic or Latino,67.6,90.0,0.568,0
+CAND-1150,Engineering,Bachelors,7,38,<40,Male,White,64.9,51.8,0.518,0
+CAND-1151,Engineering,Bachelors,5,29,<40,Female,White,56.7,65.2,0.565,0
+CAND-1152,Engineering,Bachelors,16,31,<40,Female,White,51.0,68.3,0.661,0
+CAND-1153,Engineering,Bachelors,13,39,<40,Male,White,55.7,61.3,0.598,0
+CAND-1154,Sales,Bachelors,5,35,<40,Male,Hispanic or Latino,42.9,83.0,0.562,0
+CAND-1155,Sales,Masters,6,37,<40,Male,White,58.1,88.2,0.669,0
+CAND-1156,Sales,Bachelors,8,40,>=40,Male,White,87.2,60.8,0.814,1
+CAND-1157,Data & AI,Bachelors,11,39,<40,Male,Asian,48.4,68.2,0.625,0
+CAND-1158,Engineering,Bachelors,8,50,>=40,Female,Black or African American,82.7,81.5,0.657,0
+CAND-1159,Sales,Masters,7,37,<40,Male,White,51.2,84.0,0.741,1
+CAND-1160,Operations,Bachelors,1,37,<40,Female,Black or African American,77.0,60.4,0.514,0
+CAND-1161,Sales,Masters,14,31,<40,Male,White,100.0,75.2,0.835,1
+CAND-1162,Engineering,Masters,4,34,<40,Male,White,78.3,57.6,0.588,0
+CAND-1163,Engineering,Masters,11,23,<40,Male,Black or African American,67.3,83.8,0.71,1
+CAND-1164,Engineering,Bachelors,7,29,<40,Male,Hispanic or Latino,67.7,57.1,0.615,0
+CAND-1165,Data & AI,Bachelors,12,43,>=40,Male,Asian,82.4,69.7,0.699,1
+CAND-1166,Engineering,Masters,1,21,<40,Female,Hispanic or Latino,75.5,60.9,0.462,0
+CAND-1167,Data & AI,Bachelors,4,45,>=40,Female,Asian,73.7,53.3,0.508,0
+CAND-1168,Data & AI,Masters,6,31,<40,Male,Other,63.4,59.4,0.525,0
+CAND-1169,Sales,Bachelors,3,26,<40,Female,Hispanic or Latino,74.6,62.8,0.605,0
+CAND-1170,Engineering,Bachelors,4,31,<40,Male,Asian,44.9,86.7,0.549,0
+CAND-1171,Sales,Masters,12,38,<40,Male,Black or African American,61.6,60.9,0.73,1
+CAND-1172,Data & AI,Masters,9,34,<40,Female,White,95.0,69.1,0.726,1
+CAND-1173,Engineering,Masters,12,49,>=40,Female,White,82.2,57.9,0.685,0
+CAND-1174,Operations,Masters,7,37,<40,Female,White,68.2,81.8,0.688,0
+CAND-1175,Sales,Associate,6,38,<40,Male,Asian,54.7,83.8,0.645,0
+CAND-1176,Engineering,Bachelors,1,38,<40,Non-Binary,Black or African American,98.2,79.8,0.735,1
+CAND-1177,Sales,Bachelors,11,35,<40,Female,Hispanic or Latino,61.3,62.7,0.621,0
+CAND-1178,Engineering,Bachelors,6,32,<40,Male,White,56.6,58.0,0.513,0
+CAND-1179,Sales,Associate,7,34,<40,Female,White,72.4,54.2,0.492,0
+CAND-1180,Sales,Bachelors,4,35,<40,Female,White,62.4,79.5,0.619,0
+CAND-1181,Engineering,Masters,18,33,<40,Female,Asian,41.8,61.1,0.637,0
+CAND-1182,Engineering,Bachelors,7,44,>=40,Female,Hispanic or Latino,49.8,80.8,0.538,0
+CAND-1183,Engineering,Bachelors,4,43,>=40,Male,Hispanic or Latino,67.2,55.2,0.518,0
+CAND-1184,Sales,Masters,2,24,<40,Female,White,54.2,64.9,0.527,0
+CAND-1185,Engineering,Bachelors,9,41,>=40,Male,White,48.3,61.2,0.522,0
+CAND-1186,Data & AI,Bachelors,3,33,<40,Non-Binary,White,49.5,57.3,0.428,0
+CAND-1187,Engineering,Bachelors,5,31,<40,Female,White,67.4,41.8,0.453,0
+CAND-1188,Engineering,Bachelors,0,39,<40,Female,Hispanic or Latino,68.2,48.1,0.491,0
+CAND-1189,Engineering,Bachelors,7,36,<40,Male,White,81.8,84.9,0.808,1
+CAND-1190,Engineering,Bachelors,7,26,<40,Female,Black or African American,53.2,55.5,0.525,0
+CAND-1191,Engineering,Masters,14,40,>=40,Male,Black or African American,67.4,78.0,0.684,0
+CAND-1192,Operations,Bachelors,4,33,<40,Female,White,60.6,68.2,0.509,0
+CAND-1193,Data & AI,Bachelors,0,40,>=40,Female,White,77.7,62.8,0.516,0
+CAND-1194,Operations,Bachelors,6,33,<40,Male,Other,70.2,61.6,0.588,0
+CAND-1195,Engineering,Bachelors,12,40,>=40,Male,White,74.8,66.8,0.684,0
+CAND-1196,Data & AI,Bachelors,9,41,>=40,Female,Hispanic or Latino,87.2,78.0,0.77,1
+CAND-1197,Data & AI,Masters,11,43,>=40,Male,White,72.8,49.6,0.543,0
+CAND-1198,Sales,Masters,8,29,<40,Male,Hispanic or Latino,85.3,67.0,0.714,1
+CAND-1199,Engineering,PhD,5,48,>=40,Male,White,51.7,73.8,0.663,0
+CAND-1200,Engineering,PhD,2,32,<40,Male,Black or African American,49.6,79.2,0.521,0

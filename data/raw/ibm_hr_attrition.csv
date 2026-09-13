@@ -1,0 +1,1471 @@
+EmployeeNumber,Age,AgeGroup,Gender,Ethnicity,Department,JobRole,MonthlyIncome,OverTime,DistanceFromHome,JobSatisfaction,EnvironmentSatisfaction,JobInvolvement,WorkLifeBalance,PerformanceRating,YearsAtCompany,YearsSinceLastPromotion,NumCompaniesWorked,TotalWorkingYears,Attrition
+1001,36,<40,Male,White,Research & Development,Research Director,15362,Yes,3,4,2,3,4,3,1,0,5,4,No
+1002,39,<40,Male,White,Human Resources,Human Resources,5972,Yes,29,2,3,3,3,4,11,0,8,11,No
+1003,39,<40,Female,White,Research & Development,Research Scientist,7235,No,10,3,2,3,4,3,7,2,7,16,No
+1004,45,>=40,Male,Hispanic or Latino,Research & Development,Manufacturing Director,16158,No,29,2,4,3,4,3,6,0,7,13,Yes
+1005,23,<40,Male,Asian,Sales,Sales Representative,4672,Yes,27,3,1,2,2,3,0,0,5,5,Yes
+1006,23,<40,Male,Asian,Sales,Sales Executive,7211,No,27,3,1,4,4,3,0,0,4,7,Yes
+1007,41,>=40,Female,White,Sales,Sales Representative,6794,Yes,11,4,3,3,3,3,11,1,8,13,No
+1008,18,<40,Male,Asian,Research & Development,Manager,12846,No,5,4,3,2,3,3,0,0,1,7,No
+1009,38,<40,Male,Hispanic or Latino,Research & Development,Healthcare Representative,6459,No,2,3,2,2,3,3,7,1,6,14,No
+1010,26,<40,Male,White,Research & Development,Manager,9735,No,8,1,3,4,1,3,1,0,5,1,No
+1011,51,>=40,Male,White,Sales,Manager,16540,No,14,4,3,4,3,3,8,1,6,11,No
+1012,39,<40,Male,White,Human Resources,Manager,14047,No,8,2,4,3,4,3,1,0,3,7,Yes
+1013,35,<40,Male,Asian,Research & Development,Laboratory Technician,6142,No,23,3,1,1,2,3,7,3,8,7,No
+1014,48,>=40,Male,Black or African American,Sales,Sales Representative,8006,No,6,1,4,1,3,3,3,0,6,5,Yes
+1015,27,<40,Female,Hispanic or Latino,Sales,Sales Executive,6839,No,1,3,3,2,4,3,2,0,1,4,No
+1016,29,<40,Female,White,Sales,Sales Executive,8061,No,24,4,2,3,3,3,2,0,3,7,No
+1017,25,<40,Male,Hispanic or Latino,Research & Development,Manufacturing Director,10746,No,1,1,1,3,3,3,1,0,4,5,No
+1018,29,<40,Female,White,Research & Development,Research Director,13732,No,8,3,3,3,3,3,4,1,1,10,No
+1019,37,<40,Male,White,Research & Development,Manufacturing Director,13819,No,11,2,2,3,3,3,1,0,7,3,No
+1020,41,>=40,Male,Black or African American,Sales,Sales Executive,7880,Yes,18,4,2,1,3,4,10,4,0,10,No
+1021,45,>=40,Female,White,Research & Development,Manager,15460,No,24,4,2,2,4,3,3,0,2,5,No
+1022,20,<40,Female,Hispanic or Latino,Sales,Sales Representative,3727,No,10,2,3,3,3,4,0,0,0,7,No
+1023,35,<40,Female,White,Sales,Manager,9631,No,12,1,3,2,4,3,4,0,4,8,No
+1024,27,<40,Male,Black or African American,Research & Development,Research Scientist,4440,No,20,3,1,1,3,3,0,0,7,2,No
+1025,35,<40,Female,White,Research & Development,Research Director,11817,No,23,2,3,3,2,3,7,1,6,14,No
+1026,58,>=40,Male,Black or African American,Research & Development,Research Scientist,8376,Yes,16,3,4,3,3,3,15,3,8,20,No
+1027,39,<40,Female,White,Sales,Sales Representative,6081,No,5,1,1,3,3,4,1,0,1,3,No
+1028,45,>=40,Female,White,Research & Development,Research Director,11282,No,16,1,4,3,3,3,2,0,7,6,No
+1029,54,>=40,Male,Asian,Research & Development,Manufacturing Director,12913,No,24,3,3,3,1,3,14,0,7,14,No
+1030,47,>=40,Female,White,Sales,Sales Executive,9168,No,12,2,4,3,2,3,14,0,5,19,Yes
+1031,32,<40,Male,Hispanic or Latino,Research & Development,Research Scientist,5275,Yes,6,4,1,2,2,3,3,0,2,11,No
+1032,25,<40,Male,Two or More Races,Sales,Sales Executive,5324,No,5,1,4,4,2,3,1,0,1,7,Yes
+1033,36,<40,Male,White,Sales,Sales Executive,9727,No,1,2,3,2,3,3,8,2,7,15,No
+1034,31,<40,Male,White,Research & Development,Research Scientist,6023,Yes,19,4,3,2,1,3,4,0,5,9,No
+1035,23,<40,Female,Black or African American,Human Resources,Human Resources,3878,No,10,3,3,2,3,4,0,0,3,4,No
+1036,39,<40,Female,Two or More Races,Research & Development,Healthcare Representative,7224,No,25,4,1,4,2,3,7,2,4,12,No
+1037,39,<40,Male,Asian,Research & Development,Manager,13297,No,14,2,4,4,2,3,8,0,4,14,No
+1038,52,>=40,Female,White,Sales,Sales Representative,9458,Yes,25,3,3,3,3,3,16,5,8,24,No
+1039,33,<40,Female,Hispanic or Latino,Research & Development,Manufacturing Director,10880,No,21,4,1,3,2,4,5,0,8,12,No
+1040,39,<40,Male,White,Research & Development,Manufacturing Director,15072,No,3,2,1,3,4,3,11,2,7,15,No
+1041,31,<40,Female,Two or More Races,Sales,Sales Representative,5790,No,6,4,1,4,1,3,1,0,7,7,No
+1042,44,>=40,Male,Two or More Races,Research & Development,Manager,12484,No,5,3,3,3,3,4,14,0,1,21,No
+1043,35,<40,Female,White,Sales,Sales Representative,6053,No,17,3,3,4,4,3,5,1,2,5,No
+1044,26,<40,Male,White,Research & Development,Laboratory Technician,4984,No,18,3,3,2,3,3,2,0,7,9,No
+1045,36,<40,Male,White,Sales,Sales Representative,6422,No,12,3,2,2,2,3,2,0,4,8,No
+1046,40,>=40,Male,White,Research & Development,Research Scientist,6829,No,5,2,3,4,3,4,5,0,6,6,No
+1047,39,<40,Female,Hispanic or Latino,Research & Development,Manufacturing Director,14641,Yes,9,3,3,2,3,4,9,1,7,10,No
+1048,46,>=40,Male,White,Research & Development,Research Director,11930,Yes,12,2,1,4,4,3,12,4,5,17,Yes
+1049,23,<40,Male,White,Research & Development,Laboratory Technician,4591,Yes,20,3,2,3,4,3,0,0,4,2,Yes
+1050,29,<40,Male,White,Sales,Sales Representative,5837,Yes,9,4,1,4,2,3,2,0,7,2,Yes
+1051,42,>=40,Female,Two or More Races,Human Resources,Manager,14330,Yes,3,3,4,2,4,3,3,0,0,10,Yes
+1052,30,<40,Male,Black or African American,Research & Development,Healthcare Representative,4632,Yes,1,4,4,3,1,4,5,0,0,11,No
+1053,39,<40,Male,White,Research & Development,Research Director,13033,Yes,22,2,4,3,1,4,10,1,0,13,Yes
+1054,18,<40,Male,White,Research & Development,Research Director,13200,No,15,3,2,3,4,3,0,0,2,1,No
+1055,61,>=40,Male,Two or More Races,Research & Development,Laboratory Technician,8231,Yes,10,4,4,3,2,3,23,2,5,24,No
+1056,34,<40,Female,Hispanic or Latino,Research & Development,Research Scientist,6585,No,14,3,3,4,1,3,7,0,5,15,No
+1057,47,>=40,Female,White,Sales,Sales Executive,10891,Yes,7,3,3,3,2,3,7,0,4,10,No
+1058,33,<40,Male,White,Sales,Sales Representative,6854,No,4,1,2,2,3,3,5,2,6,7,Yes
+1059,40,>=40,Male,White,Sales,Sales Executive,8448,No,26,3,4,4,3,3,6,0,4,13,No
+1060,50,>=40,Female,White,Research & Development,Healthcare Representative,7671,No,5,2,4,2,3,3,13,1,1,16,No
+1061,47,>=40,Male,Black or African American,Research & Development,Healthcare Representative,7491,No,20,4,2,3,2,3,7,0,3,13,Yes
+1062,35,<40,Female,Asian,Sales,Manager,13097,Yes,16,2,2,2,3,3,3,1,0,7,No
+1063,35,<40,Female,White,Research & Development,Manufacturing Director,11011,No,3,4,3,4,4,4,4,1,6,8,No
+1064,46,>=40,Female,Hispanic or Latino,Research & Development,Manager,13922,No,17,3,4,2,4,4,4,1,3,9,No
+1065,57,>=40,Male,White,Sales,Sales Representative,10187,No,13,2,4,2,2,3,20,1,3,23,No
+1066,38,<40,Male,Hispanic or Latino,Research & Development,Laboratory Technician,6695,No,6,3,2,4,4,3,4,1,3,5,No
+1067,54,>=40,Female,Hispanic or Latino,Sales,Manager,14785,No,26,4,3,3,3,3,10,2,2,15,Yes
+1068,34,<40,Male,White,Research & Development,Manufacturing Director,14471,No,5,4,3,2,1,4,7,0,7,11,No
+1069,45,>=40,Female,White,Sales,Sales Executive,8596,No,16,2,4,3,1,3,9,2,3,11,No
+1070,46,>=40,Male,Black or African American,Human Resources,Human Resources,8190,No,11,2,4,4,2,3,10,4,7,13,No
+1071,33,<40,Female,White,Research & Development,Manufacturing Director,13660,Yes,17,2,3,1,3,3,7,2,8,9,Yes
+1072,30,<40,Male,White,Sales,Manager,13443,No,5,1,2,3,2,3,5,2,0,7,Yes
+1073,47,>=40,Male,White,Sales,Manager,12412,Yes,6,3,4,3,3,3,5,2,3,8,Yes
+1074,32,<40,Male,Two or More Races,Research & Development,Research Director,9754,Yes,10,4,3,3,1,3,3,0,5,4,Yes
+1075,28,<40,Female,White,Research & Development,Healthcare Representative,4623,No,21,3,4,3,4,3,4,0,7,7,No
+1076,30,<40,Female,Hispanic or Latino,Research & Development,Research Scientist,6275,No,1,4,3,3,2,4,2,0,5,11,Yes
+1077,32,<40,Male,White,Research & Development,Healthcare Representative,5835,No,21,3,4,1,4,3,3,1,5,4,No
+1078,44,>=40,Male,Hispanic or Latino,Sales,Manager,11662,Yes,10,3,4,3,4,3,4,0,3,13,Yes
+1079,41,>=40,Female,Black or African American,Research & Development,Manufacturing Director,10528,Yes,17,1,2,1,1,3,3,1,8,10,No
+1080,43,>=40,Male,Asian,Sales,Manager,13256,No,27,4,4,3,3,3,11,1,6,20,No
+1081,40,>=40,Male,White,Research & Development,Healthcare Representative,6413,No,3,4,1,2,1,3,10,1,5,14,No
+1082,31,<40,Male,Black or African American,Research & Development,Research Director,12443,No,28,3,4,3,4,3,6,0,0,12,No
+1083,43,>=40,Male,Black or African American,Research & Development,Research Director,15935,No,29,1,4,2,3,3,11,1,1,14,No
+1084,47,>=40,Male,White,Sales,Sales Representative,7011,No,2,2,2,3,1,4,6,2,5,15,Yes
+1085,42,>=40,Male,White,Research & Development,Manufacturing Director,13020,No,29,1,3,3,2,3,2,0,0,7,Yes
+1086,41,>=40,Male,White,Research & Development,Laboratory Technician,6336,No,17,3,3,3,3,3,13,2,4,22,No
+1087,30,<40,Male,White,Research & Development,Manager,12328,No,4,4,4,3,4,3,2,0,0,5,No
+1088,38,<40,Male,Asian,Research & Development,Research Director,16060,No,2,1,4,3,3,3,4,0,2,9,No
+1089,29,<40,Male,White,Research & Development,Healthcare Representative,6664,No,5,4,3,1,4,4,4,0,6,4,Yes
+1090,36,<40,Male,White,Research & Development,Research Director,13396,No,10,3,4,2,3,3,6,0,4,11,No
+1091,22,<40,Female,Hispanic or Latino,Sales,Sales Representative,4231,No,1,3,2,3,1,3,0,0,0,5,No
+1092,22,<40,Male,White,Research & Development,Manufacturing Director,10496,Yes,28,4,2,4,4,3,0,0,0,1,No
+1093,35,<40,Male,White,Research & Development,Research Director,12100,Yes,26,1,3,1,1,3,9,1,7,18,No
+1094,32,<40,Male,White,Research & Development,Healthcare Representative,6265,No,1,4,3,1,4,3,1,0,8,10,No
+1095,37,<40,Male,Two or More Races,Research & Development,Manufacturing Director,11513,Yes,27,1,2,2,3,3,9,0,6,17,No
+1096,35,<40,Male,Asian,Research & Development,Laboratory Technician,6315,Yes,26,3,3,3,1,4,4,0,2,9,No
+1097,37,<40,Male,Asian,Research & Development,Healthcare Representative,5843,No,4,4,3,3,3,3,6,1,5,12,No
+1098,42,>=40,Female,White,Research & Development,Manager,10869,No,7,4,4,3,4,3,12,1,2,13,No
+1099,32,<40,Male,Hispanic or Latino,Sales,Sales Representative,5178,No,14,3,1,1,4,3,6,2,3,7,No
+1100,35,<40,Female,White,Sales,Sales Representative,5422,No,14,3,3,2,2,4,3,0,3,4,No
+1101,50,>=40,Male,White,Sales,Sales Executive,8698,No,18,4,3,2,2,3,6,2,2,15,No
+1102,37,<40,Male,White,Research & Development,Research Director,10414,No,2,4,4,3,3,3,2,0,5,10,No
+1103,35,<40,Male,Black or African American,Research & Development,Healthcare Representative,6379,No,1,1,4,3,3,3,5,0,4,7,Yes
+1104,37,<40,Male,White,Research & Development,Laboratory Technician,5671,No,21,4,4,2,3,4,1,0,8,4,No
+1105,35,<40,Male,White,Research & Development,Research Scientist,6913,No,22,3,4,4,2,3,4,0,8,4,No
+1106,30,<40,Female,White,Sales,Sales Representative,5693,No,16,3,3,2,4,3,1,0,2,1,No
+1107,28,<40,Male,White,Research & Development,Manufacturing Director,10445,Yes,29,3,2,3,3,3,2,0,8,5,Yes
+1108,30,<40,Female,Hispanic or Latino,Research & Development,Healthcare Representative,4482,Yes,22,3,4,3,4,4,0,0,2,1,Yes
+1109,44,>=40,Female,White,Sales,Sales Representative,6731,No,18,4,4,2,3,3,13,3,3,20,No
+1110,31,<40,Male,Hispanic or Latino,Sales,Manager,10762,Yes,16,3,3,3,3,4,2,0,0,5,No
+1111,35,<40,Male,White,Sales,Sales Executive,7940,No,28,4,4,3,4,3,3,0,4,5,No
+1112,43,>=40,Male,Hispanic or Latino,Sales,Manager,12381,No,28,2,4,3,3,3,13,3,8,15,No
+1113,34,<40,Male,Black or African American,Research & Development,Research Scientist,6002,No,23,4,4,3,4,3,6,2,1,11,Yes
+1114,42,>=40,Male,White,Research & Development,Laboratory Technician,8180,No,22,4,4,2,4,3,4,1,3,9,No
+1115,23,<40,Male,White,Research & Development,Research Director,9725,No,24,3,2,3,3,3,0,0,1,5,No
+1116,35,<40,Male,Black or African American,Research & Development,Laboratory Technician,5446,Yes,6,3,3,2,3,3,6,2,7,11,No
+1117,37,<40,Male,Hispanic or Latino,Research & Development,Healthcare Representative,6611,No,25,3,1,3,1,3,5,0,8,12,No
+1118,37,<40,Female,White,Sales,Sales Representative,6440,No,10,4,2,2,1,3,8,2,2,15,No
+1119,22,<40,Female,White,Research & Development,Manager,13332,No,2,4,4,1,2,3,0,0,8,8,No
+1120,47,>=40,Female,Asian,Research & Development,Research Scientist,6508,No,7,1,3,2,2,3,7,1,5,7,Yes
+1121,29,<40,Male,Black or African American,Research & Development,Healthcare Representative,4704,Yes,21,4,3,2,2,4,2,0,5,11,No
+1122,40,>=40,Male,White,Research & Development,Research Director,11998,Yes,17,3,3,3,2,3,9,3,6,16,Yes
+1123,37,<40,Male,White,Research & Development,Laboratory Technician,5853,Yes,3,2,4,2,3,3,9,0,4,13,No
+1124,46,>=40,Male,White,Sales,Manager,11557,No,20,4,2,3,3,3,3,1,5,5,No
+1125,56,>=40,Male,Black or African American,Sales,Manager,14212,No,12,3,2,2,1,3,14,3,0,23,No
+1126,25,<40,Female,White,Research & Development,Research Director,11880,No,2,4,3,3,1,3,0,0,2,2,Yes
+1127,31,<40,Female,Two or More Races,Research & Development,Manager,13979,No,7,2,3,3,3,4,3,1,8,8,No
+1128,38,<40,Male,White,Research & Development,Manager,13054,No,17,1,4,4,3,3,10,2,4,17,No
+1129,27,<40,Male,White,Sales,Sales Executive,7493,No,19,3,4,4,3,3,1,0,4,10,No
+1130,44,>=40,Male,Black or African American,Research & Development,Manager,13926,Yes,12,1,3,4,3,3,14,1,7,15,Yes
+1131,44,>=40,Male,Asian,Research & Development,Healthcare Representative,7604,Yes,9,4,4,3,4,3,10,0,1,18,No
+1132,42,>=40,Male,Hispanic or Latino,Sales,Sales Executive,9883,No,27,2,2,3,3,3,13,4,6,17,No
+1133,39,<40,Male,White,Sales,Sales Representative,5670,No,14,3,4,3,3,3,9,3,8,13,No
+1134,49,>=40,Male,Hispanic or Latino,Research & Development,Research Scientist,6807,No,2,1,2,4,4,3,4,1,6,4,No
+1135,26,<40,Female,Black or African American,Research & Development,Laboratory Technician,4531,No,21,2,4,1,4,3,0,0,4,5,Yes
+1136,37,<40,Male,White,Research & Development,Laboratory Technician,6765,No,4,4,3,3,3,3,5,1,5,9,No
+1137,30,<40,Female,White,Research & Development,Research Scientist,4700,Yes,28,2,1,2,3,3,1,0,3,7,Yes
+1138,45,>=40,Male,White,Research & Development,Research Director,14831,Yes,19,3,2,3,2,3,9,4,6,15,Yes
+1139,20,<40,Male,White,Research & Development,Laboratory Technician,3532,No,21,4,3,3,3,3,0,0,0,3,No
+1140,36,<40,Male,Asian,Human Resources,Manager,14309,No,16,3,4,3,4,3,9,3,3,13,No
+1141,40,>=40,Male,White,Human Resources,Manager,11840,Yes,22,4,1,3,3,3,6,1,2,15,No
+1142,28,<40,Male,Two or More Races,Sales,Sales Executive,7806,Yes,17,1,3,4,4,3,3,0,3,10,Yes
+1143,31,<40,Female,White,Research & Development,Laboratory Technician,6075,Yes,2,2,4,3,3,4,5,0,0,6,Yes
+1144,37,<40,Female,Black or African American,Research & Development,Manufacturing Director,12109,No,17,4,3,3,4,3,9,4,1,9,No
+1145,45,>=40,Male,White,Sales,Sales Executive,8229,No,19,4,4,2,3,3,5,1,8,10,No
+1146,27,<40,Male,White,Sales,Sales Representative,4238,Yes,8,3,2,3,1,3,1,0,6,4,No
+1147,29,<40,Female,White,Research & Development,Manufacturing Director,15228,Yes,24,3,3,3,3,3,2,0,5,11,No
+1148,47,>=40,Male,White,Research & Development,Healthcare Representative,6366,Yes,20,3,4,2,2,3,8,2,1,10,Yes
+1149,34,<40,Male,Black or African American,Sales,Manager,14762,No,6,1,3,3,1,3,3,1,0,9,No
+1150,30,<40,Male,White,Sales,Sales Representative,6628,Yes,12,4,3,3,4,3,4,1,1,11,No
+1151,43,>=40,Female,Hispanic or Latino,Research & Development,Research Scientist,8127,No,25,3,4,3,2,3,7,3,6,10,No
+1152,32,<40,Female,White,Sales,Sales Representative,5271,Yes,23,3,2,3,3,4,4,0,1,13,No
+1153,46,>=40,Male,White,Sales,Manager,13940,Yes,18,4,4,3,2,3,16,0,2,21,No
+1154,31,<40,Female,White,Research & Development,Healthcare Representative,4496,No,27,2,4,2,2,3,1,0,7,2,Yes
+1155,35,<40,Female,Asian,Human Resources,Manager,14915,No,2,2,1,3,4,3,5,0,6,12,Yes
+1156,45,>=40,Male,Hispanic or Latino,Sales,Sales Executive,8104,Yes,19,4,4,2,3,3,12,5,8,17,Yes
+1157,34,<40,Male,White,Research & Development,Laboratory Technician,6285,No,24,4,2,2,3,3,2,0,3,10,No
+1158,43,>=40,Male,White,Research & Development,Research Director,12016,No,10,3,3,1,3,3,9,2,6,14,Yes
+1159,36,<40,Female,White,Sales,Manager,9724,No,25,1,4,1,3,3,3,0,0,8,No
+1160,54,>=40,Male,Two or More Races,Research & Development,Research Scientist,8773,No,29,2,4,2,4,4,19,4,1,20,No
+1161,51,>=40,Female,Black or African American,Research & Development,Manufacturing Director,14188,No,3,3,4,1,3,3,8,1,6,12,No
+1162,25,<40,Male,White,Research & Development,Healthcare Representative,4844,No,25,3,4,2,3,4,0,0,1,8,Yes
+1163,41,>=40,Female,Black or African American,Research & Development,Laboratory Technician,6090,Yes,28,4,3,3,4,3,8,1,5,8,No
+1164,29,<40,Male,White,Research & Development,Research Scientist,5737,No,12,4,3,1,2,3,1,0,8,4,Yes
+1165,38,<40,Male,Two or More Races,Sales,Manager,12297,No,26,4,3,3,3,3,4,1,4,13,No
+1166,37,<40,Female,White,Research & Development,Research Director,11386,Yes,16,3,3,4,4,3,5,0,6,14,No
+1167,27,<40,Female,Black or African American,Research & Development,Research Scientist,6347,Yes,12,4,3,3,3,3,1,0,0,3,No
+1168,46,>=40,Female,White,Sales,Sales Representative,6207,Yes,8,3,4,2,4,3,9,4,7,9,No
+1169,38,<40,Male,Hispanic or Latino,Sales,Sales Executive,9512,No,5,2,3,4,3,3,7,2,8,7,No
+1170,34,<40,Female,Hispanic or Latino,Research & Development,Manufacturing Director,10413,No,11,1,4,2,4,3,5,2,4,5,No
+1171,33,<40,Male,Black or African American,Research & Development,Healthcare Representative,6447,No,10,3,4,1,4,3,5,2,5,5,No
+1172,38,<40,Male,Black or African American,Sales,Manager,9697,Yes,3,4,1,4,2,3,4,0,7,5,No
+1173,40,>=40,Male,Asian,Research & Development,Manufacturing Director,11999,No,27,2,3,4,2,3,3,1,3,7,Yes
+1174,35,<40,Male,White,Sales,Sales Representative,5777,No,23,2,3,3,3,3,7,0,1,8,Yes
+1175,18,<40,Male,White,Research & Development,Research Scientist,3428,No,9,4,3,3,3,3,0,0,7,3,No
+1176,37,<40,Female,White,Sales,Sales Representative,5154,No,12,1,4,3,2,3,3,1,1,11,No
+1177,24,<40,Male,Two or More Races,Research & Development,Research Director,9265,No,6,4,3,2,1,3,0,0,4,2,No
+1178,35,<40,Female,White,Research & Development,Research Director,12841,No,19,2,4,2,2,3,5,1,5,6,Yes
+1179,24,<40,Male,Hispanic or Latino,Research & Development,Research Scientist,5201,No,16,1,4,3,4,3,0,0,4,3,No
+1180,24,<40,Male,Black or African American,Sales,Sales Representative,4392,No,21,4,3,4,3,3,0,0,5,8,Yes
+1181,48,>=40,Male,White,Research & Development,Research Scientist,7809,No,23,1,4,1,3,3,3,1,5,6,No
+1182,34,<40,Female,White,Sales,Sales Representative,6144,No,24,3,1,3,2,3,6,1,2,10,Yes
+1183,33,<40,Female,White,Research & Development,Manufacturing Director,13656,Yes,29,2,1,1,3,3,1,0,2,4,Yes
+1184,41,>=40,Female,White,Research & Development,Research Director,11815,No,14,1,1,3,2,3,7,3,8,14,No
+1185,33,<40,Female,White,Sales,Sales Representative,4683,Yes,28,1,3,3,2,3,6,1,2,9,No
+1186,55,>=40,Male,White,Research & Development,Manufacturing Director,16121,No,4,1,2,3,4,3,12,4,2,13,No
+1187,34,<40,Male,Asian,Research & Development,Laboratory Technician,5470,No,18,1,4,1,4,3,2,0,1,5,Yes
+1188,40,>=40,Female,Two or More Races,Research & Development,Manager,15781,Yes,10,4,3,3,2,4,12,2,6,13,No
+1189,45,>=40,Male,White,Research & Development,Research Director,13613,Yes,18,3,3,3,1,3,14,5,3,22,No
+1190,51,>=40,Male,White,Sales,Manager,15462,No,12,2,2,1,2,3,16,4,0,23,No
+1191,30,<40,Male,White,Sales,Sales Executive,7384,No,19,3,2,2,3,3,2,0,5,10,No
+1192,33,<40,Male,Black or African American,Research & Development,Research Scientist,5143,No,8,4,2,3,2,3,2,0,4,5,Yes
+1193,48,>=40,Male,Hispanic or Latino,Research & Development,Manufacturing Director,12966,No,1,4,3,3,2,3,17,7,1,17,No
+1194,44,>=40,Male,White,Research & Development,Healthcare Representative,7063,No,14,4,3,2,2,3,9,0,5,11,No
+1195,46,>=40,Male,White,Research & Development,Manager,11521,No,23,4,3,3,3,3,14,6,0,20,No
+1196,24,<40,Male,Hispanic or Latino,Research & Development,Manufacturing Director,10213,No,6,2,3,4,3,3,0,0,2,1,Yes
+1197,50,>=40,Male,Black or African American,Research & Development,Healthcare Representative,9262,Yes,14,3,4,1,3,4,8,2,3,15,No
+1198,30,<40,Male,White,Research & Development,Laboratory Technician,6557,No,2,3,1,3,3,3,5,2,2,13,No
+1199,38,<40,Female,Black or African American,Research & Development,Manager,12986,No,9,3,4,1,4,3,6,0,5,13,No
+1200,35,<40,Male,White,Research & Development,Laboratory Technician,7331,No,29,3,3,1,4,3,2,0,3,6,Yes
+1201,29,<40,Male,White,Research & Development,Research Director,12229,No,12,3,3,2,2,4,1,0,0,9,No
+1202,24,<40,Female,Hispanic or Latino,Sales,Sales Representative,3838,No,5,4,2,3,2,3,0,0,4,3,No
+1203,21,<40,Male,Hispanic or Latino,Sales,Sales Executive,6952,Yes,2,4,3,3,3,3,0,0,4,8,Yes
+1204,38,<40,Male,White,Research & Development,Research Scientist,6070,No,19,3,2,2,1,3,6,1,8,6,No
+1205,23,<40,Female,Asian,Research & Development,Healthcare Representative,4161,Yes,7,4,4,3,3,3,0,0,7,2,Yes
+1206,26,<40,Male,White,Sales,Manager,9674,Yes,7,2,3,3,3,3,2,0,7,5,No
+1207,35,<40,Female,Hispanic or Latino,Sales,Sales Executive,7231,Yes,10,1,4,2,3,3,4,1,4,13,No
+1208,18,<40,Female,White,Research & Development,Research Scientist,4368,No,17,3,3,3,2,3,0,0,7,1,No
+1209,44,>=40,Female,Asian,Sales,Manager,15596,No,26,3,2,3,3,3,4,1,6,9,No
+1210,18,<40,Male,Asian,Sales,Sales Representative,3889,No,14,1,3,3,4,3,0,0,0,3,Yes
+1211,36,<40,Male,White,Research & Development,Research Scientist,6902,No,27,4,1,3,2,3,2,0,6,5,No
+1212,37,<40,Male,Asian,Research & Development,Healthcare Representative,5997,No,11,3,4,2,3,3,8,1,7,8,No
+1213,41,>=40,Male,Hispanic or Latino,Research & Development,Research Director,13490,No,28,3,4,3,1,4,13,0,2,17,No
+1214,36,<40,Male,Hispanic or Latino,Sales,Sales Executive,8103,No,20,1,4,2,1,4,8,0,8,16,No
+1215,55,>=40,Male,White,Research & Development,Healthcare Representative,8745,No,6,2,3,3,3,3,14,1,7,19,No
+1216,38,<40,Male,Hispanic or Latino,Sales,Sales Representative,7669,No,8,4,3,4,2,4,6,0,1,13,No
+1217,46,>=40,Male,Asian,Research & Development,Healthcare Representative,6989,No,19,3,4,1,1,3,14,4,5,17,Yes
+1218,30,<40,Male,White,Research & Development,Research Director,12810,No,19,4,2,3,2,3,5,0,3,13,No
+1219,38,<40,Male,Two or More Races,Research & Development,Healthcare Representative,6746,No,24,4,4,3,3,3,11,1,2,17,Yes
+1220,50,>=40,Female,White,Research & Development,Manufacturing Director,13211,Yes,24,3,3,3,3,3,9,0,5,15,No
+1221,34,<40,Male,White,Research & Development,Research Director,13476,Yes,24,2,4,2,2,3,8,0,8,15,Yes
+1222,38,<40,Male,White,Research & Development,Manager,12931,No,17,4,4,4,3,3,3,0,1,4,No
+1223,45,>=40,Female,Black or African American,Sales,Sales Representative,6357,No,24,4,4,3,2,3,5,1,4,10,Yes
+1224,30,<40,Male,Black or African American,Research & Development,Manufacturing Director,14581,Yes,24,3,3,2,3,3,1,0,5,7,No
+1225,18,<40,Male,White,Sales,Sales Representative,3541,No,18,4,2,1,3,4,0,0,3,2,Yes
+1226,39,<40,Male,Two or More Races,Sales,Sales Executive,9521,Yes,12,4,3,3,3,4,9,3,6,16,No
+1227,45,>=40,Female,White,Human Resources,Manager,12795,No,9,3,4,1,4,3,14,1,1,14,No
+1228,24,<40,Male,White,Research & Development,Manufacturing Director,14238,No,23,3,4,2,4,3,1,0,6,1,Yes
+1229,43,>=40,Male,White,Research & Development,Manager,14301,No,24,4,1,3,1,3,10,0,1,19,No
+1230,43,>=40,Male,Black or African American,Research & Development,Manager,14743,Yes,16,3,3,3,4,3,8,3,0,10,No
+1231,18,<40,Female,Asian,Research & Development,Laboratory Technician,3657,Yes,18,1,2,3,1,3,0,0,4,5,Yes
+1232,28,<40,Male,Black or African American,Research & Development,Healthcare Representative,6620,No,16,2,4,3,4,3,2,0,1,8,Yes
+1233,33,<40,Male,Hispanic or Latino,Research & Development,Laboratory Technician,5705,Yes,16,1,2,3,2,3,6,0,7,7,No
+1234,35,<40,Female,White,Research & Development,Manager,12111,No,4,2,3,4,3,3,6,0,7,11,No
+1235,30,<40,Male,White,Sales,Sales Executive,8811,No,23,4,2,2,1,4,4,1,0,8,No
+1236,29,<40,Female,White,Research & Development,Manufacturing Director,10870,Yes,22,1,3,3,2,3,2,0,3,7,Yes
+1237,52,>=40,Male,White,Sales,Sales Representative,7953,Yes,7,2,4,4,3,3,18,7,8,18,Yes
+1238,36,<40,Female,White,Sales,Manager,12008,No,1,2,2,3,4,3,3,0,4,12,No
+1239,30,<40,Male,Black or African American,Research & Development,Manager,10167,Yes,24,3,1,3,3,4,2,0,5,8,No
+1240,36,<40,Female,White,Sales,Sales Representative,6575,Yes,29,3,1,2,3,3,7,2,2,14,No
+1241,41,>=40,Female,Hispanic or Latino,Research & Development,Healthcare Representative,6291,No,23,2,3,3,3,3,7,3,4,13,No
+1242,37,<40,Male,White,Human Resources,Manager,14749,No,29,2,3,3,2,3,9,1,0,17,No
+1243,35,<40,Male,White,Research & Development,Healthcare Representative,6612,No,20,2,2,3,1,3,4,1,7,4,No
+1244,31,<40,Male,Black or African American,Research & Development,Research Director,13381,Yes,1,3,3,4,1,3,2,0,5,11,Yes
+1245,31,<40,Male,White,Sales,Sales Executive,8822,No,8,2,1,1,3,3,5,0,1,13,No
+1246,31,<40,Male,Asian,Research & Development,Research Director,12678,No,26,4,4,1,2,3,3,1,3,5,No
+1247,40,>=40,Male,Black or African American,Research & Development,Research Scientist,7349,No,23,3,4,1,1,3,7,3,3,8,No
+1248,28,<40,Male,White,Human Resources,Human Resources,4689,No,8,1,4,3,2,3,1,0,8,6,Yes
+1249,40,>=40,Male,Two or More Races,Human Resources,Manager,11405,No,10,4,4,2,2,3,4,0,8,8,No
+1250,49,>=40,Male,White,Research & Development,Laboratory Technician,7373,No,1,2,3,3,4,3,13,3,4,16,No
+1251,39,<40,Female,White,Sales,Sales Representative,7824,Yes,21,3,3,2,2,3,2,0,2,5,No
+1252,33,<40,Male,Black or African American,Research & Development,Manager,13473,No,25,2,4,3,3,3,6,1,0,13,No
+1253,25,<40,Male,White,Research & Development,Research Scientist,4685,No,21,3,1,2,3,3,1,0,5,10,No
+1254,51,>=40,Male,Hispanic or Latino,Research & Development,Healthcare Representative,7786,No,29,4,2,4,3,3,6,1,7,8,Yes
+1255,26,<40,Male,Hispanic or Latino,Sales,Sales Executive,8681,Yes,14,4,1,3,1,3,2,0,0,2,No
+1256,44,>=40,Male,Two or More Races,Research & Development,Healthcare Representative,6250,Yes,14,2,3,4,2,3,10,3,0,14,No
+1257,42,>=40,Male,White,Research & Development,Healthcare Representative,7498,No,10,2,3,3,1,3,4,0,6,11,Yes
+1258,34,<40,Male,White,Research & Development,Manufacturing Director,13871,No,28,3,2,2,3,3,3,0,6,5,No
+1259,34,<40,Female,Hispanic or Latino,Research & Development,Manager,13908,No,19,4,1,2,2,3,4,1,1,5,No
+1260,20,<40,Male,White,Sales,Sales Executive,5405,Yes,25,4,4,4,3,4,0,0,2,1,Yes
+1261,39,<40,Female,White,Research & Development,Healthcare Representative,7068,Yes,29,1,1,3,3,3,8,0,1,11,Yes
+1262,42,>=40,Female,White,Human Resources,Human Resources,5993,No,16,1,4,1,3,3,8,1,5,9,Yes
+1263,27,<40,Female,White,Sales,Sales Representative,4589,No,9,3,2,3,3,3,2,0,7,9,No
+1264,35,<40,Female,White,Research & Development,Research Director,12866,No,20,1,3,3,3,3,7,1,7,16,No
+1265,37,<40,Male,Asian,Research & Development,Healthcare Representative,6812,No,16,2,3,2,4,3,7,3,0,15,No
+1266,42,>=40,Male,Asian,Research & Development,Healthcare Representative,6588,No,20,1,1,2,2,3,11,4,8,20,Yes
+1267,37,<40,Female,White,Research & Development,Research Scientist,7269,No,27,3,3,3,3,3,4,1,7,4,No
+1268,22,<40,Male,White,Research & Development,Research Scientist,4609,No,8,4,3,1,3,3,0,0,8,1,No
+1269,32,<40,Male,White,Research & Development,Manager,9761,No,7,4,4,2,3,3,4,0,8,9,No
+1270,39,<40,Female,Asian,Sales,Sales Executive,9626,No,11,3,4,2,2,3,10,1,5,19,No
+1271,44,>=40,Female,White,Research & Development,Healthcare Representative,8090,Yes,21,3,1,2,3,3,9,1,2,15,No
+1272,31,<40,Female,Hispanic or Latino,Research & Development,Manager,10372,No,6,4,2,3,1,3,2,0,0,3,No
+1273,56,>=40,Female,White,Research & Development,Manager,17462,Yes,15,1,2,1,1,3,14,4,7,21,Yes
+1274,19,<40,Female,Black or African American,Research & Development,Laboratory Technician,3769,No,19,3,1,2,2,4,0,0,2,9,No
+1275,31,<40,Male,White,Research & Development,Research Scientist,6067,No,14,3,3,4,2,3,4,0,6,12,No
+1276,36,<40,Female,Hispanic or Latino,Research & Development,Research Director,14613,Yes,15,2,4,2,3,3,5,1,5,12,Yes
+1277,35,<40,Male,White,Research & Development,Healthcare Representative,7156,No,6,3,3,3,4,3,7,1,2,15,No
+1278,25,<40,Male,Black or African American,Research & Development,Manager,15311,Yes,29,1,4,3,2,3,1,0,5,6,Yes
+1279,41,>=40,Female,White,Research & Development,Healthcare Representative,7719,No,24,3,3,3,4,3,9,1,2,15,No
+1280,40,>=40,Male,Hispanic or Latino,Research & Development,Laboratory Technician,6844,No,10,2,4,3,4,3,4,1,8,9,Yes
+1281,37,<40,Male,Asian,Research & Development,Research Director,14726,Yes,14,2,2,2,4,3,10,2,0,16,Yes
+1282,39,<40,Male,White,Research & Development,Manager,15480,No,16,1,4,4,4,3,10,3,7,12,No
+1283,33,<40,Female,Asian,Research & Development,Healthcare Representative,4369,Yes,13,4,4,3,3,3,6,2,4,9,No
+1284,22,<40,Male,Black or African American,Sales,Sales Executive,6104,Yes,11,3,2,3,1,3,0,0,3,8,No
+1285,30,<40,Female,White,Research & Development,Laboratory Technician,4524,No,25,3,2,1,3,3,3,0,0,5,No
+1286,38,<40,Male,White,Sales,Sales Executive,8111,No,3,3,4,1,3,3,2,0,8,3,No
+1287,38,<40,Female,White,Research & Development,Laboratory Technician,7086,Yes,8,3,4,3,4,3,6,1,8,12,No
+1288,37,<40,Female,Hispanic or Latino,Research & Development,Research Scientist,6590,No,28,2,2,4,4,3,2,0,4,7,No
+1289,41,>=40,Male,Hispanic or Latino,Sales,Sales Executive,7687,No,3,4,3,3,3,3,8,2,8,10,No
+1290,31,<40,Male,White,Research & Development,Laboratory Technician,5389,No,2,1,3,2,2,3,4,1,8,9,Yes
+1291,37,<40,Male,White,Sales,Manager,14980,Yes,21,1,3,1,2,3,5,0,6,11,Yes
+1292,42,>=40,Female,Hispanic or Latino,Sales,Sales Executive,8407,No,14,4,3,3,1,3,7,1,7,12,No
+1293,36,<40,Female,Asian,Research & Development,Research Scientist,4990,No,20,2,2,3,3,3,8,0,0,8,Yes
+1294,25,<40,Female,White,Research & Development,Research Scientist,4637,No,29,2,3,2,3,3,0,0,3,1,Yes
+1295,28,<40,Male,Two or More Races,Sales,Manager,13791,No,21,3,4,1,4,3,3,1,3,11,Yes
+1296,44,>=40,Female,White,Research & Development,Manufacturing Director,11205,No,22,3,4,3,3,3,4,0,8,9,No
+1297,49,>=40,Female,White,Research & Development,Healthcare Representative,8349,Yes,15,4,2,3,4,3,3,0,2,4,Yes
+1298,47,>=40,Female,Hispanic or Latino,Sales,Sales Representative,6358,No,3,3,4,3,3,3,5,1,0,5,No
+1299,39,<40,Female,White,Research & Development,Laboratory Technician,7008,No,1,3,2,3,4,3,9,3,4,10,No
+1300,26,<40,Male,White,Sales,Sales Representative,4846,No,15,4,3,3,2,4,1,0,6,8,No
+1301,36,<40,Male,White,Sales,Manager,12636,No,20,2,4,2,4,3,8,3,3,12,No
+1302,51,>=40,Female,Hispanic or Latino,Research & Development,Manager,12388,No,22,2,3,3,3,4,12,5,8,18,No
+1303,42,>=40,Female,Hispanic or Latino,Research & Development,Manufacturing Director,12793,No,2,3,2,4,2,3,2,0,5,8,Yes
+1304,35,<40,Male,White,Research & Development,Manager,13437,No,18,2,2,4,2,4,6,1,5,7,No
+1305,42,>=40,Male,White,Research & Development,Manufacturing Director,11441,Yes,1,4,3,4,4,3,3,0,2,6,No
+1306,25,<40,Male,White,Human Resources,Human Resources,4638,No,9,4,4,2,1,4,1,0,4,2,No
+1307,30,<40,Male,Black or African American,Research & Development,Manager,8491,No,3,2,4,3,3,3,1,0,5,7,No
+1308,27,<40,Male,White,Research & Development,Healthcare Representative,6406,No,2,1,4,4,2,3,1,0,3,5,No
+1309,41,>=40,Female,Hispanic or Latino,Research & Development,Research Director,10480,No,4,1,4,3,3,3,10,0,2,10,Yes
+1310,43,>=40,Female,White,Sales,Sales Representative,7507,No,16,2,4,2,4,4,14,1,4,15,No
+1311,35,<40,Male,White,Research & Development,Healthcare Representative,5872,No,22,1,4,4,3,3,4,0,6,9,Yes
+1312,29,<40,Male,White,Sales,Manager,10146,No,1,3,1,3,3,3,4,1,5,7,No
+1313,36,<40,Male,White,Sales,Sales Executive,7181,No,9,4,4,2,4,3,3,0,1,9,No
+1314,32,<40,Male,Asian,Human Resources,Manager,9311,No,25,4,3,2,3,3,5,1,0,6,No
+1315,29,<40,Female,White,Research & Development,Manager,14197,No,8,2,4,3,4,3,3,0,4,4,No
+1316,40,>=40,Female,White,Research & Development,Laboratory Technician,7182,Yes,6,3,1,3,3,3,3,0,4,8,No
+1317,30,<40,Male,White,Research & Development,Research Director,9709,Yes,20,3,4,1,2,4,2,0,5,9,No
+1318,22,<40,Female,White,Sales,Manager,8202,No,18,4,4,3,3,4,0,0,2,1,No
+1319,24,<40,Female,White,Sales,Sales Representative,3281,Yes,16,4,4,3,3,3,0,0,0,4,No
+1320,22,<40,Female,White,Sales,Sales Representative,5221,No,8,4,4,3,2,3,0,0,3,1,No
+1321,39,<40,Male,White,Research & Development,Manager,15255,Yes,23,3,3,2,2,3,8,2,3,13,No
+1322,38,<40,Female,Black or African American,Research & Development,Manager,12263,No,28,3,3,3,1,3,11,0,1,17,No
+1323,37,<40,Male,White,Research & Development,Manager,15244,Yes,4,1,3,1,3,3,1,0,7,6,No
+1324,42,>=40,Male,White,Sales,Manager,12153,No,3,3,2,2,4,3,8,3,5,16,No
+1325,47,>=40,Male,Two or More Races,Human Resources,Manager,12052,No,15,2,2,3,1,3,11,5,2,13,No
+1326,31,<40,Male,White,Research & Development,Healthcare Representative,5538,No,6,3,2,3,3,4,5,2,0,12,No
+1327,40,>=40,Male,White,Research & Development,Manager,14473,No,1,3,3,3,4,4,7,0,2,9,No
+1328,22,<40,Male,White,Research & Development,Research Scientist,3887,No,18,2,4,1,2,3,0,0,7,6,Yes
+1329,49,>=40,Male,White,Research & Development,Research Director,13240,No,23,1,4,3,3,4,10,2,3,14,Yes
+1330,25,<40,Female,Hispanic or Latino,Sales,Manager,11641,Yes,11,1,1,3,4,3,0,0,2,1,Yes
+1331,30,<40,Female,White,Research & Development,Laboratory Technician,5994,No,3,1,1,4,4,3,1,0,3,4,No
+1332,31,<40,Male,Hispanic or Latino,Research & Development,Manufacturing Director,13243,No,13,1,2,4,2,3,3,1,3,11,Yes
+1333,23,<40,Female,White,Sales,Sales Representative,5255,No,17,1,2,2,2,3,0,0,1,7,No
+1334,37,<40,Female,White,Sales,Manager,15093,Yes,18,2,1,2,2,3,6,1,3,8,No
+1335,38,<40,Female,Hispanic or Latino,Sales,Sales Representative,6655,No,26,2,3,2,3,3,4,0,8,5,No
+1336,35,<40,Male,White,Sales,Sales Representative,6507,Yes,26,4,3,3,3,3,5,0,3,13,No
+1337,23,<40,Female,Black or African American,Research & Development,Healthcare Representative,3394,No,14,2,3,1,3,3,0,0,0,1,No
+1338,54,>=40,Female,White,Research & Development,Laboratory Technician,8701,No,25,1,3,2,2,3,21,3,0,29,No
+1339,41,>=40,Female,Hispanic or Latino,Research & Development,Laboratory Technician,6630,Yes,7,3,2,3,2,3,12,5,0,18,Yes
+1340,60,>=40,Male,White,Sales,Sales Executive,9788,No,7,4,4,2,3,3,8,2,4,9,No
+1341,29,<40,Male,Asian,Research & Development,Laboratory Technician,6402,No,14,3,4,1,3,3,2,0,5,6,No
+1342,45,>=40,Female,White,Research & Development,Research Scientist,6335,No,26,2,2,3,3,3,10,2,5,11,No
+1343,44,>=40,Male,Asian,Sales,Sales Executive,9949,No,24,3,1,2,3,3,3,0,5,7,No
+1344,34,<40,Male,White,Research & Development,Manager,9115,No,15,4,2,3,2,4,3,1,8,9,Yes
+1345,49,>=40,Male,Hispanic or Latino,Research & Development,Research Scientist,8261,Yes,12,4,1,4,2,3,6,1,0,10,No
+1346,33,<40,Female,White,Research & Development,Healthcare Representative,6939,No,12,3,3,2,2,3,7,3,5,8,No
+1347,33,<40,Female,Asian,Research & Development,Manager,12346,No,8,4,2,3,2,3,6,1,7,10,No
+1348,18,<40,Male,White,Sales,Sales Executive,4258,No,16,4,3,4,1,3,0,0,7,9,No
+1349,40,>=40,Female,White,Research & Development,Manager,13063,Yes,9,3,2,4,2,3,7,0,2,12,No
+1350,25,<40,Male,White,Research & Development,Manager,11164,No,2,3,4,3,1,3,1,0,4,5,No
+1351,32,<40,Female,White,Research & Development,Manager,13801,Yes,14,3,1,3,2,3,6,2,3,7,No
+1352,27,<40,Female,White,Research & Development,Research Director,11470,No,24,4,3,1,3,3,3,1,0,8,Yes
+1353,33,<40,Female,Asian,Research & Development,Healthcare Representative,5611,Yes,24,1,2,3,2,3,1,0,8,6,Yes
+1354,40,>=40,Female,Two or More Races,Sales,Manager,14337,No,29,4,1,4,3,4,3,0,4,4,Yes
+1355,37,<40,Male,White,Sales,Manager,13852,Yes,16,2,4,3,3,3,7,3,1,10,No
+1356,43,>=40,Female,Asian,Research & Development,Research Scientist,6153,Yes,5,3,3,3,3,4,8,3,1,14,No
+1357,48,>=40,Male,White,Sales,Sales Representative,7947,Yes,5,4,1,2,4,3,2,0,6,2,No
+1358,33,<40,Female,White,Research & Development,Research Scientist,7485,No,20,2,3,3,1,3,1,0,3,1,No
+1359,32,<40,Female,Hispanic or Latino,Research & Development,Research Director,14909,Yes,21,3,3,3,3,3,6,0,0,11,Yes
+1360,45,>=40,Female,Black or African American,Research & Development,Research Director,11431,No,18,1,3,3,4,3,14,4,4,20,No
+1361,46,>=40,Male,Two or More Races,Research & Development,Laboratory Technician,8053,No,18,3,3,1,4,3,7,1,1,11,No
+1362,43,>=40,Female,White,Research & Development,Research Director,12999,No,5,2,4,3,2,3,13,6,6,22,No
+1363,28,<40,Male,Black or African American,Research & Development,Laboratory Technician,3995,No,11,3,2,3,2,3,2,0,8,9,Yes
+1364,40,>=40,Male,White,Research & Development,Healthcare Representative,5732,Yes,13,3,3,2,2,3,10,2,0,13,No
+1365,37,<40,Female,White,Research & Development,Research Scientist,7511,No,3,4,2,2,3,3,5,1,1,7,No
+1366,46,>=40,Male,White,Research & Development,Healthcare Representative,8260,Yes,17,4,4,2,3,3,4,0,5,10,No
+1367,31,<40,Female,Two or More Races,Human Resources,Human Resources,6738,No,25,1,4,3,2,4,3,0,7,6,No
+1368,22,<40,Male,Hispanic or Latino,Research & Development,Healthcare Representative,4828,Yes,18,4,4,3,3,4,0,0,6,1,Yes
+1369,43,>=40,Male,Hispanic or Latino,Sales,Sales Executive,7381,No,14,1,4,3,3,3,9,3,8,16,No
+1370,18,<40,Female,White,Sales,Manager,8857,No,12,1,4,2,3,3,0,0,1,4,No
+1371,30,<40,Male,White,Sales,Sales Representative,6157,No,14,1,3,4,4,3,5,2,8,12,Yes
+1372,27,<40,Male,White,Sales,Sales Representative,5074,Yes,26,4,4,3,3,3,1,0,3,8,No
+1373,27,<40,Female,White,Sales,Sales Executive,5974,No,18,4,4,3,1,4,1,0,2,5,No
+1374,30,<40,Male,White,Research & Development,Healthcare Representative,4469,Yes,20,2,1,1,3,3,3,0,6,10,Yes
+1375,47,>=40,Female,Hispanic or Latino,Sales,Manager,12738,No,2,2,3,2,2,3,10,2,4,16,Yes
+1376,44,>=40,Male,White,Research & Development,Manager,11485,No,7,2,4,4,3,3,8,0,4,10,No
+1377,34,<40,Female,White,Research & Development,Research Director,11727,No,15,3,4,2,4,3,6,2,1,9,No
+1378,47,>=40,Female,White,Sales,Manager,12469,No,28,3,4,2,4,4,10,0,5,16,No
+1379,27,<40,Female,White,Research & Development,Manager,14062,No,10,2,4,2,3,3,2,0,5,5,No
+1380,26,<40,Male,White,Sales,Sales Representative,3942,No,15,4,4,3,2,3,2,0,3,7,No
+1381,44,>=40,Female,Asian,Sales,Manager,12729,No,17,2,3,2,2,3,2,0,4,3,No
+1382,42,>=40,Female,Black or African American,Research & Development,Manufacturing Director,13904,No,11,4,1,2,3,3,8,0,6,9,No
+1383,32,<40,Female,Hispanic or Latino,Research & Development,Manufacturing Director,12174,No,2,3,1,3,2,3,6,0,7,8,No
+1384,26,<40,Male,White,Research & Development,Research Director,9774,Yes,27,3,3,3,3,4,0,0,5,9,No
+1385,50,>=40,Female,White,Research & Development,Manufacturing Director,17457,No,21,4,3,3,1,3,9,1,4,15,No
+1386,21,<40,Female,White,Research & Development,Laboratory Technician,5597,No,18,4,3,3,2,3,0,0,2,2,No
+1387,31,<40,Male,Asian,Sales,Sales Representative,5639,Yes,25,2,3,3,2,3,2,0,6,4,Yes
+1388,39,<40,Male,Hispanic or Latino,Sales,Sales Executive,9187,No,4,2,4,3,4,3,6,0,7,9,No
+1389,53,>=40,Female,White,Research & Development,Laboratory Technician,7645,No,9,4,3,3,3,4,21,9,2,30,No
+1390,40,>=40,Male,White,Research & Development,Manager,16378,Yes,27,2,4,2,2,3,3,0,4,8,Yes
+1391,41,>=40,Female,White,Human Resources,Human Resources,6870,No,28,1,4,3,1,3,2,0,1,2,No
+1392,31,<40,Female,Black or African American,Research & Development,Laboratory Technician,6436,No,17,3,3,2,3,3,5,1,3,10,No
+1393,42,>=40,Female,Asian,Research & Development,Research Director,11991,No,17,4,3,2,2,3,12,3,3,19,No
+1394,37,<40,Male,Black or African American,Research & Development,Research Scientist,7202,No,17,4,4,4,3,3,5,0,7,12,No
+1395,22,<40,Male,White,Research & Development,Manufacturing Director,13673,No,16,4,4,3,4,4,0,0,2,5,No
+1396,44,>=40,Female,White,Research & Development,Research Scientist,8252,Yes,20,3,2,3,3,4,13,3,4,18,No
+1397,45,>=40,Male,White,Research & Development,Manufacturing Director,11403,No,25,1,1,4,3,3,12,2,4,14,No
+1398,44,>=40,Female,White,Research & Development,Research Director,15319,No,8,3,2,4,3,3,5,0,1,6,No
+1399,37,<40,Male,White,Research & Development,Research Scientist,5367,No,23,4,1,3,4,4,1,0,8,7,No
+1400,28,<40,Male,Hispanic or Latino,Research & Development,Healthcare Representative,5377,No,15,1,2,3,4,3,2,0,3,9,No
+1401,18,<40,Male,Hispanic or Latino,Sales,Sales Representative,2657,No,1,2,2,3,3,3,0,0,8,9,No
+1402,38,<40,Male,White,Research & Development,Manager,13753,No,19,1,3,2,2,3,10,1,8,15,No
+1403,46,>=40,Female,Hispanic or Latino,Research & Development,Manufacturing Director,17057,No,25,3,4,2,3,3,16,3,1,20,No
+1404,45,>=40,Male,White,Research & Development,Healthcare Representative,6846,No,15,4,3,3,2,3,14,0,8,17,No
+1405,44,>=40,Male,White,Research & Development,Research Scientist,6899,No,9,3,4,2,3,3,9,1,8,9,No
+1406,36,<40,Male,White,Research & Development,Healthcare Representative,6040,No,5,4,4,2,3,3,5,0,1,13,No
+1407,46,>=40,Male,White,Research & Development,Healthcare Representative,8110,No,16,1,4,2,2,3,13,6,5,22,Yes
+1408,45,>=40,Male,White,Sales,Manager,14737,Yes,28,4,3,3,2,3,12,4,8,15,No
+1409,33,<40,Female,White,Research & Development,Research Scientist,5806,No,13,4,2,4,3,3,4,0,3,5,No
+1410,43,>=40,Male,White,Sales,Sales Executive,9637,No,16,2,4,3,4,3,3,0,1,6,No
+1411,32,<40,Male,Two or More Races,Research & Development,Healthcare Representative,4532,No,22,4,4,3,3,3,6,2,6,10,No
+1412,41,>=40,Male,White,Human Resources,Manager,16459,No,11,2,3,4,3,3,7,1,8,8,No
+1413,25,<40,Female,White,Human Resources,Human Resources,3800,No,13,4,1,4,2,3,0,0,5,6,No
+1414,26,<40,Male,White,Research & Development,Healthcare Representative,4178,Yes,6,4,4,3,3,4,1,0,3,3,Yes
+1415,46,>=40,Male,Black or African American,Research & Development,Healthcare Representative,7473,No,26,4,2,4,3,3,12,3,0,19,No
+1416,45,>=40,Female,White,Research & Development,Healthcare Representative,6625,No,20,3,1,3,3,3,5,0,3,8,No
+1417,42,>=40,Male,Hispanic or Latino,Sales,Sales Representative,6750,Yes,17,1,4,2,1,4,12,4,2,16,Yes
+1418,37,<40,Male,White,Research & Development,Laboratory Technician,6203,Yes,5,3,3,2,3,3,4,1,6,6,No
+1419,18,<40,Male,White,Research & Development,Research Director,9234,No,29,3,3,3,2,4,0,0,4,4,Yes
+1420,36,<40,Female,Black or African American,Research & Development,Healthcare Representative,6604,No,17,4,4,3,2,3,4,1,2,12,No
+1421,41,>=40,Male,White,Research & Development,Manager,12881,No,1,4,3,3,4,3,10,1,1,11,No
+1422,32,<40,Female,White,Research & Development,Research Director,13153,No,27,4,3,3,2,3,6,1,1,12,No
+1423,30,<40,Female,White,Sales,Manager,14786,No,5,1,2,1,2,3,4,1,4,13,Yes
+1424,49,>=40,Male,Black or African American,Research & Development,Manufacturing Director,13411,No,5,4,2,1,3,3,17,7,7,24,No
+1425,36,<40,Male,White,Sales,Sales Representative,5558,No,7,4,4,3,4,3,2,0,7,4,No
+1426,41,>=40,Male,White,Research & Development,Manager,12969,Yes,16,4,3,2,3,3,2,0,4,5,Yes
+1427,43,>=40,Female,Two or More Races,Research & Development,Research Director,10805,No,18,1,2,3,3,3,9,0,1,18,No
+1428,27,<40,Male,White,Research & Development,Research Director,12738,No,6,1,1,3,4,3,1,0,3,2,No
+1429,38,<40,Male,Hispanic or Latino,Research & Development,Manager,12012,No,2,1,3,3,2,3,9,2,6,18,Yes
+1430,48,>=40,Male,Hispanic or Latino,Sales,Sales Executive,8942,No,13,3,3,2,3,3,13,1,5,21,No
+1431,53,>=40,Female,White,Sales,Sales Representative,7620,No,10,3,3,3,3,3,21,6,6,23,No
+1432,37,<40,Male,White,Research & Development,Laboratory Technician,5961,Yes,21,4,3,3,4,3,3,0,4,11,Yes
+1433,34,<40,Female,White,Research & Development,Manager,14797,Yes,20,3,1,4,1,3,4,1,1,10,No
+1434,39,<40,Male,Black or African American,Sales,Manager,14583,Yes,11,2,3,3,2,3,6,2,7,11,Yes
+1435,39,<40,Male,Black or African American,Sales,Sales Executive,7410,Yes,26,3,4,3,3,3,4,0,1,6,Yes
+1436,49,>=40,Male,Hispanic or Latino,Research & Development,Manager,17108,No,21,4,2,2,3,4,12,1,7,18,No
+1437,28,<40,Male,Asian,Sales,Sales Representative,5195,Yes,2,4,3,3,3,3,2,0,6,4,Yes
+1438,34,<40,Male,Black or African American,Research & Development,Research Director,11717,Yes,8,4,3,4,3,3,4,1,2,9,No
+1439,26,<40,Male,White,Research & Development,Laboratory Technician,4950,No,24,3,4,2,2,3,1,0,3,8,No
+1440,27,<40,Female,White,Sales,Manager,12472,No,22,3,2,2,3,3,0,0,6,4,No
+1441,40,>=40,Female,Hispanic or Latino,Sales,Sales Representative,6342,Yes,19,4,4,2,3,3,7,0,3,9,No
+1442,44,>=40,Female,White,Human Resources,Manager,13198,No,20,3,3,3,4,4,6,0,8,11,No
+1443,31,<40,Male,White,Research & Development,Research Director,12373,No,17,2,4,3,2,3,0,0,6,7,No
+1444,43,>=40,Male,Hispanic or Latino,Research & Development,Research Scientist,7142,Yes,16,2,2,1,4,3,5,2,0,14,No
+1445,47,>=40,Male,White,Research & Development,Research Director,15628,No,25,1,4,4,3,4,6,2,0,8,No
+1446,54,>=40,Female,Asian,Research & Development,Research Director,16697,No,10,4,4,3,1,3,10,1,3,14,No
+1447,37,<40,Female,Black or African American,Human Resources,Manager,10491,No,5,1,3,2,3,3,2,0,8,10,No
+1448,31,<40,Male,White,Research & Development,Laboratory Technician,5928,No,14,2,3,2,1,3,3,0,3,12,No
+1449,27,<40,Male,Asian,Research & Development,Research Director,13305,Yes,24,2,3,2,4,3,2,0,4,11,Yes
+1450,27,<40,Male,White,Sales,Sales Executive,7541,No,19,3,1,3,4,3,2,0,0,4,No
+1451,48,>=40,Male,White,Research & Development,Research Director,12376,No,4,3,4,2,2,3,15,4,1,16,No
+1452,23,<40,Male,White,Research & Development,Laboratory Technician,5002,Yes,20,3,1,3,2,3,0,0,3,7,Yes
+1453,47,>=40,Female,White,Research & Development,Research Director,15316,No,16,1,2,3,3,3,10,3,3,16,No
+1454,29,<40,Female,White,Research & Development,Research Director,15140,No,24,1,3,3,3,4,4,0,5,12,No
+1455,30,<40,Male,White,Sales,Sales Executive,6481,No,15,3,1,2,3,3,2,0,5,5,No
+1456,35,<40,Male,White,Research & Development,Manufacturing Director,10791,No,28,2,4,3,2,3,6,1,7,8,No
+1457,30,<40,Female,White,Sales,Sales Executive,6771,No,9,2,4,3,3,3,2,0,8,11,No
+1458,45,>=40,Male,Hispanic or Latino,Research & Development,Healthcare Representative,7616,No,3,1,3,1,2,3,8,1,0,12,No
+1459,53,>=40,Male,Hispanic or Latino,Sales,Manager,12955,No,23,4,4,1,4,3,17,1,0,17,No
+1460,31,<40,Male,White,Sales,Manager,12268,Yes,9,3,4,3,4,3,1,0,5,5,No
+1461,33,<40,Male,White,Sales,Sales Executive,7893,No,18,1,2,3,3,3,3,0,3,5,Yes
+1462,35,<40,Male,White,Research & Development,Healthcare Representative,6234,Yes,4,1,4,2,4,3,3,0,3,3,No
+1463,41,>=40,Female,White,Research & Development,Research Director,14834,Yes,19,4,2,3,2,3,5,2,0,7,Yes
+1464,35,<40,Male,Hispanic or Latino,Research & Development,Laboratory Technician,6232,No,24,3,3,3,1,4,3,0,8,7,Yes
+1465,49,>=40,Male,Hispanic or Latino,Human Resources,Manager,11784,No,4,3,3,4,3,3,12,1,2,16,No
+1466,47,>=40,Female,White,Research & Development,Healthcare Representative,8330,No,9,4,4,2,3,3,14,1,4,23,No
+1467,26,<40,Male,White,Sales,Sales Representative,4588,No,1,4,1,3,3,3,2,0,0,9,No
+1468,41,>=40,Female,White,Research & Development,Healthcare Representative,6469,No,1,4,2,1,4,3,6,1,7,6,No
+1469,50,>=40,Female,Black or African American,Sales,Sales Representative,6543,No,20,3,3,3,4,3,19,6,2,25,No
+1470,32,<40,Male,White,Human Resources,Manager,13486,No,19,3,3,3,3,3,4,0,0,8,No
+1471,34,<40,Female,Two or More Races,Sales,Manager,13908,No,3,1,4,3,3,3,4,1,5,6,No
+1472,32,<40,Male,Hispanic or Latino,Human Resources,Human Resources,6071,No,10,4,3,3,1,3,6,2,0,9,No
+1473,32,<40,Female,White,Sales,Sales Executive,6892,No,12,3,2,1,2,3,5,2,2,7,Yes
+1474,21,<40,Male,Black or African American,Research & Development,Healthcare Representative,4795,No,18,2,1,3,3,4,0,0,4,7,No
+1475,25,<40,Female,Asian,Research & Development,Research Director,12791,No,14,4,3,2,3,4,0,0,3,3,No
+1476,37,<40,Female,Black or African American,Human Resources,Manager,15738,Yes,10,4,3,3,3,3,5,2,6,7,No
+1477,50,>=40,Male,White,Sales,Sales Representative,7877,No,10,4,2,1,2,3,17,1,5,18,No
+1478,31,<40,Male,White,Research & Development,Research Director,8779,No,18,4,2,3,3,3,3,0,2,5,No
+1479,31,<40,Female,Hispanic or Latino,Human Resources,Manager,15629,No,24,4,2,3,2,3,4,0,7,10,No
+1480,52,>=40,Female,Black or African American,Research & Development,Research Director,13386,No,1,2,1,3,3,3,13,4,7,18,No
+1481,27,<40,Male,Black or African American,Research & Development,Research Scientist,4127,No,15,4,3,2,2,3,3,1,1,12,No
+1482,22,<40,Female,Asian,Research & Development,Research Scientist,5475,No,8,4,4,3,1,4,0,0,6,4,Yes
+1483,29,<40,Male,Asian,Research & Development,Research Scientist,4649,No,26,2,3,1,2,3,3,0,0,10,Yes
+1484,31,<40,Male,Asian,Research & Development,Research Scientist,5250,No,3,1,4,3,2,4,1,0,1,1,No
+1485,21,<40,Male,White,Research & Development,Research Scientist,4623,No,18,4,1,3,4,4,0,0,7,2,No
+1486,35,<40,Male,White,Research & Development,Research Scientist,5976,No,9,2,3,3,1,3,7,2,0,8,No
+1487,45,>=40,Female,Hispanic or Latino,Sales,Sales Representative,6547,No,16,4,3,3,2,3,2,0,1,3,Yes
+1488,25,<40,Male,Hispanic or Latino,Sales,Sales Executive,7038,Yes,21,1,3,1,3,3,1,0,0,1,No
+1489,37,<40,Female,Black or African American,Human Resources,Human Resources,6334,No,15,1,3,3,3,3,5,0,4,9,No
+1490,40,>=40,Male,White,Research & Development,Laboratory Technician,7436,Yes,5,3,4,2,1,3,3,0,6,7,No
+1491,36,<40,Male,Hispanic or Latino,Research & Development,Laboratory Technician,6557,No,13,2,3,4,1,3,4,0,5,6,No
+1492,38,<40,Male,Hispanic or Latino,Research & Development,Laboratory Technician,7209,No,22,3,1,4,4,3,3,0,5,11,No
+1493,38,<40,Male,White,Sales,Sales Executive,9004,No,20,3,3,3,3,3,5,1,5,10,No
+1494,29,<40,Male,White,Sales,Manager,11636,No,7,1,4,4,3,3,2,0,7,11,No
+1495,50,>=40,Male,White,Research & Development,Laboratory Technician,6458,No,16,2,4,2,3,3,15,5,4,20,No
+1496,48,>=40,Male,White,Research & Development,Manufacturing Director,15510,Yes,7,3,3,4,2,3,14,2,6,23,Yes
+1497,47,>=40,Male,White,Research & Development,Manager,12028,No,27,2,3,2,2,3,11,2,2,16,Yes
+1498,46,>=40,Male,White,Sales,Sales Executive,9226,No,25,4,3,3,3,4,2,0,8,3,No
+1499,22,<40,Male,White,Human Resources,Human Resources,4282,No,22,3,4,3,4,3,0,0,2,9,Yes
+1500,45,>=40,Female,Black or African American,Human Resources,Human Resources,6706,No,16,1,4,1,2,3,11,3,5,20,Yes
+1501,42,>=40,Female,Black or African American,Research & Development,Healthcare Representative,7417,No,13,3,4,3,4,3,2,0,2,9,No
+1502,23,<40,Male,Hispanic or Latino,Research & Development,Research Director,9487,No,17,1,3,1,2,3,0,0,0,5,No
+1503,35,<40,Male,White,Research & Development,Manufacturing Director,12688,No,9,1,1,4,2,3,2,0,0,4,Yes
+1504,39,<40,Male,White,Research & Development,Research Director,11411,No,12,2,4,2,1,3,7,0,2,16,No
+1505,51,>=40,Female,Asian,Research & Development,Healthcare Representative,7361,Yes,13,4,4,3,2,3,11,5,3,19,No
+1506,43,>=40,Male,White,Sales,Sales Executive,8022,No,26,4,4,3,4,3,7,1,1,8,No
+1507,29,<40,Male,Two or More Races,Research & Development,Research Director,13753,No,9,4,1,2,3,4,4,1,8,10,No
+1508,52,>=40,Male,Hispanic or Latino,Research & Development,Research Director,12406,No,5,2,3,3,1,3,10,0,7,12,No
+1509,37,<40,Male,White,Research & Development,Research Scientist,6143,Yes,7,2,2,3,4,3,2,0,2,7,Yes
+1510,34,<40,Male,Two or More Races,Research & Development,Manufacturing Director,11446,No,1,3,4,2,4,3,8,1,6,12,No
+1511,34,<40,Female,White,Research & Development,Research Scientist,5205,No,4,4,2,3,3,4,7,2,3,12,Yes
+1512,22,<40,Male,White,Research & Development,Research Director,8906,Yes,28,4,3,2,4,3,0,0,4,7,Yes
+1513,36,<40,Female,Black or African American,Research & Development,Manufacturing Director,10810,No,26,1,2,2,2,4,5,0,3,7,No
+1514,41,>=40,Male,White,Research & Development,Manufacturing Director,12633,No,4,1,1,3,4,3,2,0,8,3,Yes
+1515,33,<40,Male,Asian,Sales,Sales Executive,9310,Yes,16,3,3,3,3,3,6,1,6,13,No
+1516,40,>=40,Female,White,Sales,Sales Executive,8994,Yes,5,4,1,4,4,3,2,0,3,2,No
+1517,29,<40,Male,White,Research & Development,Healthcare Representative,5132,No,22,4,3,4,3,3,0,0,7,1,No
+1518,35,<40,Female,Black or African American,Research & Development,Research Director,10542,Yes,4,3,4,3,2,3,5,1,1,14,Yes
+1519,39,<40,Male,Black or African American,Human Resources,Manager,11661,No,6,4,4,3,3,4,3,0,6,3,No
+1520,38,<40,Male,White,Sales,Sales Representative,5579,No,26,3,2,2,2,3,1,0,0,5,No
+1521,22,<40,Female,White,Research & Development,Manager,13215,No,23,4,4,2,2,3,0,0,7,7,No
+1522,33,<40,Male,Hispanic or Latino,Research & Development,Healthcare Representative,5673,Yes,3,4,3,3,2,3,2,0,5,3,No
+1523,52,>=40,Female,White,Human Resources,Human Resources,8611,Yes,25,4,4,3,4,3,5,1,4,8,Yes
+1524,32,<40,Male,Hispanic or Latino,Research & Development,Healthcare Representative,5510,Yes,8,2,4,2,2,3,1,0,8,4,Yes
+1525,37,<40,Female,Black or African American,Research & Development,Manufacturing Director,11038,Yes,17,2,1,2,3,3,3,0,8,9,No
+1526,36,<40,Male,Hispanic or Latino,Research & Development,Manufacturing Director,12281,No,29,3,3,3,3,3,7,0,2,7,No
+1527,51,>=40,Male,Hispanic or Latino,Research & Development,Healthcare Representative,8733,Yes,18,3,2,1,4,3,16,1,8,24,No
+1528,48,>=40,Female,White,Sales,Manager,11102,No,18,4,4,3,2,3,9,0,8,11,No
+1529,44,>=40,Female,Black or African American,Sales,Manager,11507,No,26,1,3,3,3,4,8,1,1,13,No
+1530,28,<40,Female,Asian,Research & Development,Laboratory Technician,6095,No,25,2,3,3,4,3,0,0,4,9,No
+1531,40,>=40,Female,White,Research & Development,Research Director,14433,Yes,12,4,3,2,3,4,2,0,1,6,No
+1532,42,>=40,Female,Two or More Races,Human Resources,Human Resources,5862,Yes,25,1,4,4,3,3,5,0,0,8,No
+1533,30,<40,Male,White,Human Resources,Manager,11534,Yes,25,2,4,1,3,3,3,0,6,11,No
+1534,29,<40,Male,White,Research & Development,Manager,11811,No,1,3,3,4,4,3,3,0,3,11,No
+1535,52,>=40,Male,White,Research & Development,Laboratory Technician,7612,No,23,3,4,3,3,3,13,3,4,13,No
+1536,34,<40,Male,Two or More Races,Research & Development,Manager,10256,No,12,2,4,4,2,4,4,1,3,10,No
+1537,51,>=40,Male,White,Research & Development,Healthcare Representative,8630,No,11,4,4,3,4,3,4,0,5,13,No
+1538,45,>=40,Male,Asian,Sales,Sales Executive,8444,No,13,3,1,2,3,3,13,0,1,21,No
+1539,40,>=40,Male,Asian,Research & Development,Research Scientist,6844,No,3,4,2,3,3,3,5,1,7,9,Yes
+1540,41,>=40,Female,White,Sales,Sales Executive,8102,No,27,3,2,3,4,3,10,1,3,10,No
+1541,24,<40,Male,White,Human Resources,Manager,10175,Yes,25,2,3,1,2,4,0,0,7,7,Yes
+1542,38,<40,Male,Hispanic or Latino,Research & Development,Laboratory Technician,7388,Yes,8,1,2,2,3,3,8,1,2,12,Yes
+1543,49,>=40,Male,White,Sales,Manager,12768,No,3,1,3,3,3,3,17,2,4,22,No
+1544,43,>=40,Female,Hispanic or Latino,Research & Development,Research Scientist,6654,No,17,3,3,3,4,3,13,4,2,19,Yes
+1545,38,<40,Female,White,Research & Development,Healthcare Representative,6424,No,25,1,3,3,2,4,6,0,6,15,No
+1546,52,>=40,Female,White,Research & Development,Manager,16745,No,13,3,3,3,3,3,12,2,2,18,No
+1547,35,<40,Male,Hispanic or Latino,Sales,Sales Representative,4220,No,10,3,1,3,4,3,3,0,7,9,Yes
+1548,31,<40,Male,White,Research & Development,Research Scientist,5077,No,17,2,4,3,1,3,5,1,8,5,Yes
+1549,38,<40,Male,White,Research & Development,Research Scientist,5561,No,3,2,4,3,2,3,5,2,1,11,No
+1550,43,>=40,Male,White,Research & Development,Research Scientist,6550,No,13,4,3,2,4,4,3,0,2,5,No
+1551,21,<40,Male,White,Research & Development,Laboratory Technician,3340,No,22,4,4,4,2,4,0,0,6,4,No
+1552,39,<40,Male,White,Research & Development,Manager,16348,No,6,1,1,1,4,3,2,0,4,11,No
+1553,44,>=40,Male,Hispanic or Latino,Research & Development,Laboratory Technician,7023,No,14,2,4,3,2,3,8,3,6,12,No
+1554,34,<40,Female,White,Research & Development,Laboratory Technician,6029,No,27,4,1,3,3,3,5,1,1,12,No
+1555,46,>=40,Female,White,Research & Development,Research Director,13343,No,10,1,3,3,3,3,7,1,3,13,No
+1556,42,>=40,Male,Black or African American,Research & Development,Healthcare Representative,7266,No,20,4,2,1,3,3,2,0,0,8,No
+1557,56,>=40,Male,White,Sales,Manager,14326,No,16,1,3,1,3,3,22,9,4,27,No
+1558,30,<40,Male,White,Sales,Sales Representative,4958,No,18,4,2,3,3,3,4,0,7,10,No
+1559,44,>=40,Male,Asian,Research & Development,Manager,15992,Yes,13,2,3,4,4,3,13,1,0,19,No
+1560,27,<40,Female,Hispanic or Latino,Research & Development,Research Director,13055,No,10,4,3,3,2,3,1,0,6,5,No
+1561,22,<40,Male,Black or African American,Research & Development,Research Director,11552,Yes,6,2,4,3,3,3,0,0,6,4,Yes
+1562,18,<40,Female,Black or African American,Sales,Manager,11462,No,10,3,3,2,2,4,0,0,6,3,No
+1563,41,>=40,Male,White,Sales,Sales Representative,5190,No,5,1,2,2,3,3,4,1,0,7,No
+1564,38,<40,Female,Black or African American,Sales,Manager,9884,No,29,2,2,1,2,3,2,0,2,6,No
+1565,32,<40,Male,White,Research & Development,Laboratory Technician,4789,Yes,6,4,4,2,2,3,3,1,1,12,Yes
+1566,21,<40,Female,White,Research & Development,Research Scientist,4785,No,7,3,3,3,3,3,0,0,4,8,No
+1567,30,<40,Male,White,Research & Development,Laboratory Technician,4188,No,11,4,3,2,1,3,5,1,1,10,No
+1568,37,<40,Female,White,Research & Development,Research Scientist,7380,No,16,3,3,1,1,3,1,0,4,8,No
+1569,44,>=40,Male,White,Research & Development,Research Scientist,8782,Yes,25,4,2,3,3,3,8,2,4,16,No
+1570,36,<40,Male,Two or More Races,Research & Development,Manufacturing Director,14183,No,12,3,2,4,3,3,5,1,3,8,No
+1571,39,<40,Female,White,Research & Development,Manager,12889,No,12,4,3,4,4,4,4,0,6,10,No
+1572,33,<40,Female,White,Research & Development,Healthcare Representative,4804,Yes,23,4,2,3,3,3,4,1,5,8,Yes
+1573,52,>=40,Female,White,Research & Development,Laboratory Technician,7428,No,20,2,2,1,1,4,5,0,1,8,No
+1574,27,<40,Female,White,Research & Development,Research Scientist,6175,No,26,4,1,3,3,3,2,0,3,8,No
+1575,30,<40,Female,Hispanic or Latino,Research & Development,Laboratory Technician,6161,No,5,4,2,2,1,3,2,0,6,4,Yes
+1576,32,<40,Male,White,Research & Development,Manager,11201,No,16,2,2,3,3,3,4,1,8,4,No
+1577,41,>=40,Male,White,Sales,Sales Representative,7330,No,29,3,4,3,4,3,10,3,8,16,No
+1578,27,<40,Male,White,Research & Development,Healthcare Representative,4391,No,6,1,3,3,3,3,3,0,2,11,Yes
+1579,38,<40,Female,Hispanic or Latino,Research & Development,Research Director,12510,No,29,4,4,4,3,3,9,2,0,10,No
+1580,38,<40,Male,White,Sales,Manager,15968,No,9,2,1,3,2,3,7,1,8,13,No
+1581,30,<40,Male,White,Research & Development,Manager,12092,Yes,5,1,1,3,3,3,2,0,7,11,Yes
+1582,39,<40,Male,White,Human Resources,Human Resources,7170,No,21,3,4,2,4,3,6,0,6,7,No
+1583,27,<40,Female,White,Research & Development,Research Director,11516,No,23,3,3,4,2,3,2,0,5,4,No
+1584,26,<40,Male,White,Research & Development,Manufacturing Director,11525,No,16,4,2,2,2,3,2,0,6,11,Yes
+1585,37,<40,Male,Black or African American,Research & Development,Laboratory Technician,7044,No,18,4,3,4,3,3,2,0,8,11,No
+1586,22,<40,Male,Black or African American,Sales,Sales Representative,5571,No,19,3,3,2,3,3,0,0,5,2,No
+1587,18,<40,Male,Hispanic or Latino,Sales,Manager,9639,No,12,1,4,2,3,3,0,0,2,3,Yes
+1588,41,>=40,Male,White,Sales,Manager,11431,Yes,2,4,1,3,4,3,6,2,2,11,Yes
+1589,46,>=40,Female,White,Sales,Sales Executive,7647,No,26,3,3,1,1,3,7,2,3,9,Yes
+1590,32,<40,Female,White,Sales,Sales Executive,7848,No,10,3,4,3,3,3,3,1,7,11,No
+1591,30,<40,Female,Two or More Races,Sales,Manager,11292,No,12,2,4,2,3,3,3,0,8,4,No
+1592,46,>=40,Male,Black or African American,Research & Development,Laboratory Technician,7605,Yes,14,3,4,4,2,3,16,3,7,22,No
+1593,26,<40,Female,Hispanic or Latino,Sales,Sales Executive,8172,No,18,2,2,3,3,3,1,0,1,6,Yes
+1594,24,<40,Male,White,Research & Development,Research Director,13356,Yes,19,4,4,3,2,4,0,0,3,1,Yes
+1595,43,>=40,Male,White,Research & Development,Manager,15820,Yes,6,3,4,3,1,3,4,1,3,6,Yes
+1596,37,<40,Female,White,Research & Development,Research Director,11013,Yes,5,4,4,1,2,3,1,0,1,6,No
+1597,46,>=40,Male,Black or African American,Research & Development,Manager,15622,No,27,3,4,3,4,3,10,4,7,19,No
+1598,18,<40,Male,Asian,Sales,Sales Representative,4611,No,16,2,4,2,3,3,0,0,2,3,Yes
+1599,24,<40,Female,Two or More Races,Sales,Sales Representative,4313,No,14,4,1,3,3,3,0,0,1,1,No
+1600,37,<40,Male,White,Sales,Manager,10737,No,13,3,1,3,2,3,7,3,6,7,No
+1601,40,>=40,Female,White,Sales,Manager,11189,No,21,2,4,3,3,4,9,1,0,11,Yes
+1602,44,>=40,Male,Asian,Sales,Manager,15576,No,2,3,2,2,3,3,5,2,5,12,No
+1603,38,<40,Female,Black or African American,Sales,Sales Representative,6963,No,2,3,1,2,4,3,4,0,2,7,No
+1604,38,<40,Male,White,Sales,Sales Representative,6398,No,12,4,3,2,3,3,11,0,2,11,Yes
+1605,33,<40,Male,White,Sales,Manager,14453,No,1,3,4,4,3,4,3,1,4,10,No
+1606,51,>=40,Female,White,Research & Development,Research Scientist,7166,No,19,4,1,1,1,3,16,0,2,25,No
+1607,27,<40,Male,White,Sales,Sales Representative,5222,No,28,1,3,4,3,3,1,0,3,6,No
+1608,40,>=40,Male,White,Research & Development,Healthcare Representative,6871,No,28,3,1,2,3,3,10,3,2,10,No
+1609,28,<40,Male,Black or African American,Research & Development,Research Director,12119,No,27,4,1,2,4,3,3,1,6,12,No
+1610,41,>=40,Male,White,Research & Development,Research Director,12633,Yes,16,4,3,3,2,3,9,1,2,18,No
+1611,27,<40,Male,White,Sales,Sales Representative,6005,No,7,2,1,1,2,4,3,1,3,8,No
+1612,43,>=40,Male,White,Research & Development,Laboratory Technician,6777,No,27,2,4,3,3,3,13,0,1,13,No
+1613,38,<40,Female,Hispanic or Latino,Research & Development,Research Director,14549,No,21,2,4,4,2,3,7,2,1,16,Yes
+1614,52,>=40,Male,Black or African American,Sales,Sales Executive,10330,No,7,3,4,1,2,4,7,0,8,16,No
+1615,34,<40,Male,White,Research & Development,Healthcare Representative,5503,No,16,4,2,3,4,3,4,1,0,6,No
+1616,40,>=40,Male,Asian,Research & Development,Manufacturing Director,15267,No,25,4,3,3,3,3,9,1,0,10,No
+1617,29,<40,Male,Asian,Sales,Sales Representative,5445,No,6,3,2,2,4,3,3,0,0,6,No
+1618,34,<40,Female,White,Sales,Manager,15418,Yes,18,4,2,2,4,3,2,0,2,3,No
+1619,37,<40,Male,White,Research & Development,Manufacturing Director,14986,No,1,3,3,4,2,3,1,0,1,5,No
+1620,23,<40,Female,Hispanic or Latino,Research & Development,Healthcare Representative,3100,No,1,1,4,2,3,4,0,0,2,3,No
+1621,24,<40,Male,Hispanic or Latino,Sales,Sales Executive,8511,Yes,26,3,1,4,1,3,0,0,4,5,Yes
+1622,42,>=40,Female,Two or More Races,Sales,Sales Representative,7940,No,25,4,2,3,4,3,7,1,8,13,No
+1623,35,<40,Male,Asian,Research & Development,Manufacturing Director,11693,No,14,4,4,1,3,3,7,1,1,8,No
+1624,31,<40,Female,Black or African American,Research & Development,Research Director,12771,No,6,3,3,3,3,3,3,0,0,4,No
+1625,30,<40,Male,White,Research & Development,Research Director,10594,Yes,6,3,4,3,2,3,1,0,5,8,No
+1626,30,<40,Male,White,Research & Development,Research Scientist,6019,No,4,4,4,3,3,3,1,0,2,9,No
+1627,38,<40,Male,White,Research & Development,Manufacturing Director,11435,No,12,3,3,3,2,3,3,0,6,7,No
+1628,41,>=40,Male,White,Research & Development,Manager,11511,No,18,2,2,4,3,3,4,0,5,10,Yes
+1629,18,<40,Female,Black or African American,Sales,Manager,8632,No,10,4,4,2,3,3,0,0,6,8,No
+1630,49,>=40,Male,Black or African American,Sales,Manager,14791,Yes,3,4,2,4,4,3,10,2,4,10,No
+1631,49,>=40,Male,Hispanic or Latino,Research & Development,Research Director,14969,No,3,2,2,3,2,3,5,1,0,12,No
+1632,18,<40,Female,White,Research & Development,Manager,10455,Yes,8,3,4,3,3,3,0,0,2,9,Yes
+1633,46,>=40,Male,Black or African American,Research & Development,Healthcare Representative,7557,Yes,22,3,3,3,4,3,4,1,2,13,No
+1634,46,>=40,Female,White,Research & Development,Research Scientist,7519,No,23,1,2,3,1,3,16,0,6,24,Yes
+1635,37,<40,Female,White,Sales,Sales Executive,9857,No,25,4,3,3,4,3,5,1,2,13,No
+1636,25,<40,Male,Hispanic or Latino,Research & Development,Laboratory Technician,5062,No,1,3,4,3,2,3,1,0,4,10,No
+1637,46,>=40,Female,Black or African American,Research & Development,Laboratory Technician,7989,Yes,18,4,1,3,3,3,14,4,3,20,Yes
+1638,34,<40,Male,Two or More Races,Sales,Sales Executive,7189,No,15,2,2,3,3,3,4,1,3,13,Yes
+1639,41,>=40,Male,White,Sales,Sales Executive,9063,No,25,3,2,2,3,3,9,2,6,11,No
+1640,56,>=40,Male,White,Research & Development,Manufacturing Director,16968,No,21,1,3,3,4,3,7,3,0,11,No
+1641,39,<40,Male,White,Sales,Sales Executive,9066,No,20,4,4,2,2,3,8,1,6,9,No
+1642,28,<40,Female,White,Research & Development,Healthcare Representative,4041,No,17,3,4,2,2,3,1,0,7,10,Yes
+1643,33,<40,Female,Asian,Sales,Manager,14910,No,25,3,3,2,3,3,6,0,2,8,No
+1644,29,<40,Male,Black or African American,Research & Development,Laboratory Technician,5689,Yes,11,1,1,4,4,3,1,0,2,10,No
+1645,40,>=40,Male,Asian,Sales,Sales Representative,6924,No,13,2,1,3,2,3,10,1,3,16,No
+1646,29,<40,Female,White,Research & Development,Manufacturing Director,14818,No,25,1,2,3,4,3,1,0,5,1,Yes
+1647,32,<40,Male,Asian,Research & Development,Research Scientist,6485,No,20,2,2,2,3,3,6,1,6,8,No
+1648,25,<40,Male,White,Research & Development,Laboratory Technician,3811,No,25,3,1,3,2,3,0,0,0,4,No
+1649,35,<40,Male,Asian,Research & Development,Research Director,10646,No,10,3,3,2,3,3,6,0,3,9,No
+1650,38,<40,Female,White,Research & Development,Manager,15387,Yes,13,3,1,2,1,3,6,0,6,8,No
+1651,18,<40,Male,White,Sales,Manager,10789,Yes,17,3,4,3,3,3,0,0,1,5,Yes
+1652,39,<40,Female,White,Research & Development,Manufacturing Director,9784,No,21,2,4,3,1,3,8,1,0,13,Yes
+1653,36,<40,Female,Asian,Research & Development,Manufacturing Director,11216,No,1,2,3,2,3,3,9,3,0,12,No
+1654,30,<40,Male,White,Research & Development,Laboratory Technician,4962,No,20,1,1,3,3,4,0,0,5,8,No
+1655,55,>=40,Male,White,Research & Development,Research Scientist,8198,No,16,4,4,4,3,3,21,4,4,26,No
+1656,45,>=40,Female,Asian,Sales,Sales Executive,8080,No,16,3,4,2,3,4,10,1,0,18,No
+1657,27,<40,Male,White,Sales,Sales Executive,8375,No,28,2,2,1,3,3,2,0,2,11,No
+1658,44,>=40,Female,White,Research & Development,Healthcare Representative,7843,No,21,2,4,3,2,3,7,2,6,16,Yes
+1659,48,>=40,Female,White,Research & Development,Healthcare Representative,7484,No,27,4,4,1,3,3,9,1,8,10,No
+1660,38,<40,Female,White,Research & Development,Manager,12393,Yes,3,4,3,4,4,3,9,0,8,14,No
+1661,40,>=40,Female,Asian,Research & Development,Laboratory Technician,5721,No,2,3,2,3,4,3,6,0,5,9,No
+1662,40,>=40,Female,Hispanic or Latino,Human Resources,Manager,13754,No,6,3,3,3,2,4,7,3,2,8,No
+1663,18,<40,Female,White,Research & Development,Laboratory Technician,3910,No,11,2,3,3,1,3,0,0,0,4,No
+1664,35,<40,Male,Two or More Races,Sales,Sales Representative,4681,Yes,29,4,3,3,4,3,2,0,2,4,No
+1665,34,<40,Male,White,Sales,Sales Executive,7889,No,3,4,4,1,3,3,5,1,1,10,No
+1666,49,>=40,Male,White,Sales,Sales Representative,8310,No,26,2,4,4,3,4,14,6,4,21,No
+1667,40,>=40,Female,White,Sales,Sales Representative,6970,No,1,4,2,3,3,3,8,2,7,11,No
+1668,34,<40,Male,White,Sales,Sales Executive,8818,No,11,4,3,2,2,3,2,0,4,5,No
+1669,36,<40,Female,White,Sales,Sales Representative,6074,No,13,2,3,3,3,3,5,2,0,9,No
+1670,46,>=40,Male,Asian,Sales,Sales Executive,10929,No,5,3,1,2,4,3,7,2,2,12,No
+1671,35,<40,Female,Hispanic or Latino,Sales,Sales Executive,6766,Yes,18,2,3,1,3,3,5,0,4,11,No
+1672,30,<40,Male,White,Research & Development,Healthcare Representative,4591,No,15,1,4,3,2,3,4,0,6,9,Yes
+1673,34,<40,Female,Black or African American,Sales,Manager,12527,No,18,4,3,3,2,3,6,2,4,12,Yes
+1674,45,>=40,Male,Hispanic or Latino,Research & Development,Manufacturing Director,13594,No,15,2,2,3,2,3,3,1,4,11,Yes
+1675,41,>=40,Male,Asian,Research & Development,Manager,14821,No,20,4,1,2,3,3,12,3,6,15,No
+1676,37,<40,Male,Asian,Human Resources,Manager,13484,Yes,20,4,3,3,2,3,5,1,7,14,No
+1677,38,<40,Female,White,Sales,Manager,9761,Yes,20,1,3,1,1,4,8,2,7,8,No
+1678,31,<40,Male,Hispanic or Latino,Research & Development,Research Director,11690,No,7,3,2,3,4,4,1,0,6,9,No
+1679,35,<40,Male,Black or African American,Human Resources,Manager,14070,No,17,4,3,3,2,3,6,2,2,12,No
+1680,31,<40,Female,Black or African American,Research & Development,Healthcare Representative,5202,No,29,4,1,3,1,3,2,0,1,5,Yes
+1681,34,<40,Female,White,Research & Development,Research Director,10513,No,8,4,1,4,2,3,4,1,0,13,No
+1682,49,>=40,Female,White,Sales,Sales Representative,7939,No,28,2,3,4,2,3,2,0,5,9,Yes
+1683,27,<40,Male,White,Sales,Sales Representative,5648,No,13,3,1,4,3,3,0,0,8,6,No
+1684,30,<40,Male,White,Research & Development,Manufacturing Director,11507,No,26,3,4,4,4,3,1,0,2,2,No
+1685,25,<40,Female,White,Research & Development,Laboratory Technician,5254,No,16,4,1,3,4,3,0,0,4,1,No
+1686,23,<40,Male,Hispanic or Latino,Research & Development,Research Director,14244,No,25,2,3,4,3,3,0,0,8,8,No
+1687,35,<40,Female,White,Research & Development,Manager,12444,No,10,4,3,4,3,3,6,1,8,12,No
+1688,31,<40,Male,Black or African American,Sales,Sales Executive,8227,No,29,2,3,3,3,3,1,0,6,10,Yes
+1689,52,>=40,Male,White,Research & Development,Manager,11959,No,14,4,4,1,2,3,14,2,3,14,No
+1690,34,<40,Male,Two or More Races,Sales,Manager,14058,No,6,3,3,1,1,3,2,0,1,5,No
+1691,48,>=40,Male,White,Research & Development,Research Director,12412,No,20,3,4,3,4,3,17,6,1,21,No
+1692,45,>=40,Male,White,Research & Development,Laboratory Technician,7220,No,22,3,3,3,2,3,15,0,3,19,No
+1693,35,<40,Male,Black or African American,Research & Development,Manager,15807,Yes,26,2,3,3,2,3,3,0,0,7,No
+1694,55,>=40,Female,Hispanic or Latino,Sales,Sales Representative,7925,No,7,2,4,2,3,3,15,5,3,17,No
+1695,39,<40,Male,Two or More Races,Sales,Sales Executive,7690,No,6,1,3,3,3,3,1,0,5,5,Yes
+1696,50,>=40,Female,White,Research & Development,Research Director,15722,No,27,1,3,3,1,3,18,5,5,21,Yes
+1697,49,>=40,Female,White,Sales,Sales Executive,7726,Yes,17,2,4,4,2,3,11,2,6,15,No
+1698,40,>=40,Male,Asian,Research & Development,Healthcare Representative,6140,Yes,21,4,4,1,3,3,2,0,4,8,No
+1699,43,>=40,Male,White,Sales,Sales Executive,7866,Yes,24,3,3,4,3,3,6,0,8,10,Yes
+1700,42,>=40,Female,Black or African American,Research & Development,Manager,12903,No,8,1,3,3,2,3,2,0,1,9,No
+1701,26,<40,Female,White,Research & Development,Manufacturing Director,10312,Yes,12,4,1,2,3,3,1,0,1,8,Yes
+1702,37,<40,Female,White,Sales,Sales Executive,9651,No,26,3,3,3,3,4,7,0,3,9,No
+1703,46,>=40,Female,White,Research & Development,Laboratory Technician,7748,Yes,25,4,3,1,4,3,9,1,3,13,No
+1704,50,>=40,Female,White,Sales,Manager,11417,Yes,4,3,4,1,2,3,9,0,3,12,No
+1705,30,<40,Male,Black or African American,Sales,Sales Representative,5565,Yes,10,2,3,3,2,4,1,0,0,5,Yes
+1706,41,>=40,Male,Asian,Human Resources,Manager,11086,Yes,6,3,4,1,3,3,4,1,3,11,No
+1707,38,<40,Female,White,Research & Development,Laboratory Technician,6757,No,7,3,1,2,3,3,2,0,4,5,No
+1708,35,<40,Male,Hispanic or Latino,Research & Development,Manager,13338,No,21,1,3,3,2,3,7,2,8,11,No
+1709,40,>=40,Female,White,Sales,Sales Representative,5749,No,27,1,4,3,3,3,3,0,2,9,No
+1710,38,<40,Male,White,Research & Development,Manufacturing Director,11708,Yes,8,1,2,3,1,3,7,2,2,9,No
+1711,41,>=40,Male,White,Research & Development,Healthcare Representative,6113,No,3,2,1,2,1,3,5,1,4,10,Yes
+1712,49,>=40,Female,Asian,Research & Development,Healthcare Representative,6286,No,8,3,3,3,3,3,6,0,5,14,No
+1713,44,>=40,Male,Hispanic or Latino,Research & Development,Manufacturing Director,10670,No,15,3,4,4,2,3,10,3,2,13,No
+1714,39,<40,Male,Black or African American,Research & Development,Research Scientist,7804,Yes,21,1,3,3,4,3,6,2,0,9,No
+1715,53,>=40,Male,Hispanic or Latino,Research & Development,Manager,17031,No,1,3,3,4,3,3,10,2,7,15,No
+1716,46,>=40,Female,Black or African American,Research & Development,Manufacturing Director,13251,No,13,3,3,3,3,3,10,4,0,15,No
+1717,36,<40,Male,Two or More Races,Research & Development,Manager,13582,No,22,2,2,3,3,4,5,2,1,7,No
+1718,26,<40,Female,Hispanic or Latino,Human Resources,Manager,9650,No,18,1,4,3,3,3,1,0,2,1,No
+1719,28,<40,Male,Asian,Sales,Sales Executive,5860,Yes,15,1,2,2,1,3,2,0,5,4,Yes
+1720,45,>=40,Female,White,Research & Development,Healthcare Representative,6381,No,7,3,3,2,4,3,11,5,3,18,No
+1721,31,<40,Female,White,Research & Development,Manager,11174,Yes,15,2,3,1,4,3,1,0,3,8,No
+1722,27,<40,Male,White,Sales,Sales Representative,4393,No,25,3,4,1,2,3,1,0,8,6,Yes
+1723,30,<40,Male,White,Sales,Sales Representative,5791,Yes,3,3,4,2,2,3,1,0,5,7,No
+1724,30,<40,Male,Black or African American,Research & Development,Research Director,10315,No,26,3,4,4,2,3,1,0,1,2,Yes
+1725,44,>=40,Female,White,Research & Development,Healthcare Representative,6536,Yes,14,2,3,2,3,3,9,3,6,17,Yes
+1726,35,<40,Male,Black or African American,Research & Development,Manufacturing Director,12509,No,20,2,1,4,3,4,8,0,2,10,No
+1727,24,<40,Female,White,Sales,Sales Executive,6316,No,4,3,2,3,4,3,1,0,8,2,Yes
+1728,37,<40,Male,White,Research & Development,Healthcare Representative,6867,No,4,4,4,2,3,3,2,0,5,6,No
+1729,39,<40,Male,White,Sales,Sales Representative,7058,No,3,4,4,3,3,3,5,2,7,5,No
+1730,32,<40,Male,Two or More Races,Sales,Manager,12894,No,5,3,4,2,3,3,4,0,0,8,No
+1731,47,>=40,Male,White,Sales,Sales Executive,9884,No,25,3,1,4,3,3,4,1,1,13,No
+1732,33,<40,Male,White,Research & Development,Research Scientist,5649,Yes,11,3,3,3,3,4,6,2,5,9,No
+1733,46,>=40,Female,Hispanic or Latino,Research & Development,Laboratory Technician,6745,No,8,4,3,1,3,3,13,3,2,18,Yes
+1734,42,>=40,Female,Black or African American,Research & Development,Healthcare Representative,7655,Yes,26,1,4,4,3,3,12,3,0,16,No
+1735,45,>=40,Male,White,Research & Development,Research Scientist,8088,No,2,4,3,3,3,3,2,0,5,10,No
+1736,27,<40,Female,White,Research & Development,Manufacturing Director,9848,Yes,28,3,4,1,3,4,1,0,4,5,No
+1737,37,<40,Female,White,Research & Development,Healthcare Representative,5326,No,16,3,3,3,3,3,8,3,8,15,No
+1738,36,<40,Female,Two or More Races,Research & Development,Manufacturing Director,14535,No,25,1,2,3,3,4,7,0,5,8,No
+1739,24,<40,Male,White,Research & Development,Manufacturing Director,8462,No,28,3,2,2,3,4,1,0,4,3,No
+1740,46,>=40,Male,White,Research & Development,Research Scientist,7577,No,10,3,1,3,3,3,3,0,0,5,No
+1741,29,<40,Male,White,Research & Development,Healthcare Representative,6772,Yes,18,1,3,1,3,3,3,0,0,5,No
+1742,31,<40,Female,White,Research & Development,Manager,11674,No,7,2,1,3,3,3,3,0,0,8,No
+1743,27,<40,Male,Hispanic or Latino,Research & Development,Research Director,13661,No,5,4,2,1,2,3,0,0,6,6,No
+1744,43,>=40,Male,White,Research & Development,Research Scientist,7112,No,29,3,3,4,1,3,8,2,5,14,No
+1745,23,<40,Male,White,Sales,Sales Executive,7435,No,7,3,4,3,3,3,0,0,4,6,Yes
+1746,42,>=40,Male,White,Research & Development,Manager,12085,No,21,1,4,2,3,3,4,1,3,6,No
+1747,46,>=40,Female,White,Research & Development,Healthcare Representative,5944,Yes,28,4,2,2,4,3,6,0,7,6,No
+1748,41,>=40,Male,White,Research & Development,Healthcare Representative,6098,No,6,4,1,2,3,3,9,0,7,14,No
+1749,43,>=40,Male,Hispanic or Latino,Research & Development,Manufacturing Director,13618,Yes,24,3,2,3,3,3,8,2,4,10,No
+1750,43,>=40,Female,Hispanic or Latino,Research & Development,Manager,11713,Yes,1,3,4,1,2,3,12,3,3,14,No
+1751,28,<40,Female,Asian,Sales,Manager,11609,Yes,29,3,3,3,1,3,1,0,1,3,No
+1752,49,>=40,Female,Asian,Research & Development,Manager,16820,No,11,3,2,4,3,3,7,1,6,15,No
+1753,32,<40,Female,Black or African American,Research & Development,Healthcare Representative,5547,Yes,13,2,4,3,2,3,6,2,4,9,Yes
+1754,36,<40,Female,White,Research & Development,Manufacturing Director,10761,No,12,4,3,2,3,3,9,3,2,13,No
+1755,34,<40,Male,Hispanic or Latino,Sales,Manager,9700,No,1,3,4,3,3,4,1,0,8,3,No
+1756,41,>=40,Male,Hispanic or Latino,Research & Development,Research Scientist,6700,No,21,2,2,3,3,3,10,1,8,19,No
+1757,32,<40,Female,Hispanic or Latino,Research & Development,Laboratory Technician,5946,No,15,3,3,3,4,3,1,0,7,1,No
+1758,37,<40,Female,White,Research & Development,Research Director,11261,No,1,4,3,3,3,3,1,0,0,4,No
+1759,25,<40,Female,White,Research & Development,Research Scientist,5737,No,3,2,4,3,2,3,0,0,2,1,No
+1760,47,>=40,Male,Hispanic or Latino,Research & Development,Healthcare Representative,6067,Yes,26,2,4,3,4,4,6,0,1,12,No
+1761,43,>=40,Male,Hispanic or Latino,Sales,Sales Executive,9992,No,15,3,3,4,4,3,12,3,3,18,No
+1762,34,<40,Male,Two or More Races,Research & Development,Laboratory Technician,5899,No,9,2,2,1,2,3,6,1,1,9,Yes
+1763,32,<40,Male,White,Sales,Sales Representative,4367,No,14,4,3,3,1,3,6,1,7,10,Yes
+1764,42,>=40,Male,White,Research & Development,Manufacturing Director,9973,No,29,1,4,3,1,3,10,1,0,19,No
+1765,30,<40,Female,White,Sales,Sales Executive,8079,No,23,4,3,1,2,3,2,0,3,8,No
+1766,38,<40,Male,Hispanic or Latino,Research & Development,Manufacturing Director,14472,No,28,1,4,3,4,3,8,2,4,13,Yes
+1767,47,>=40,Male,White,Research & Development,Research Scientist,7094,Yes,22,1,3,3,3,3,17,2,3,20,No
+1768,29,<40,Male,White,Research & Development,Manager,13672,No,24,4,3,3,3,3,3,0,7,6,No
+1769,40,>=40,Female,Two or More Races,Research & Development,Manager,10346,No,8,3,3,1,4,3,10,1,1,11,No
+1770,39,<40,Male,White,Research & Development,Manager,9890,Yes,22,3,4,2,3,3,11,0,8,20,Yes
+1771,36,<40,Male,Hispanic or Latino,Sales,Sales Executive,8192,Yes,4,2,4,2,2,3,2,0,1,3,Yes
+1772,32,<40,Male,White,Research & Development,Manager,14710,Yes,20,3,3,2,4,3,5,1,1,8,No
+1773,47,>=40,Male,Hispanic or Latino,Sales,Sales Executive,9391,No,20,3,3,4,4,3,15,6,1,19,No
+1774,31,<40,Female,Black or African American,Research & Development,Manufacturing Director,11170,Yes,6,4,2,3,4,3,6,1,7,9,No
+1775,20,<40,Female,Asian,Research & Development,Research Director,8713,No,1,4,2,2,3,4,0,0,2,2,Yes
+1776,42,>=40,Male,Asian,Sales,Manager,12531,No,28,3,4,4,3,3,8,1,7,9,No
+1777,26,<40,Male,White,Sales,Sales Executive,7115,No,18,3,2,3,2,4,2,0,6,5,No
+1778,43,>=40,Female,White,Research & Development,Manufacturing Director,13644,No,6,3,4,2,3,3,5,1,3,9,No
+1779,49,>=40,Male,White,Research & Development,Laboratory Technician,7925,No,14,3,4,3,4,3,12,4,6,12,No
+1780,42,>=40,Male,Black or African American,Research & Development,Manufacturing Director,11732,No,11,1,4,2,2,3,5,1,7,5,No
+1781,46,>=40,Male,Asian,Research & Development,Manager,13015,Yes,17,2,4,4,3,3,7,0,5,12,No
+1782,55,>=40,Female,White,Research & Development,Laboratory Technician,9216,No,9,1,3,3,3,3,12,0,5,16,No
+1783,45,>=40,Male,Black or African American,Sales,Manager,12924,No,28,1,4,4,1,3,9,2,2,12,No
+1784,39,<40,Male,White,Research & Development,Research Director,15838,No,22,2,2,2,3,3,6,1,4,6,No
+1785,51,>=40,Female,Hispanic or Latino,Sales,Sales Executive,8987,No,7,3,3,4,2,4,11,0,1,17,No
+1786,52,>=40,Male,Two or More Races,Research & Development,Research Director,16611,Yes,14,4,4,1,3,3,8,1,4,11,Yes
+1787,52,>=40,Male,White,Research & Development,Healthcare Representative,7864,No,28,3,2,4,1,3,5,1,4,7,Yes
+1788,32,<40,Female,White,Research & Development,Research Scientist,5026,Yes,17,2,4,4,4,3,1,0,6,7,Yes
+1789,24,<40,Male,White,Research & Development,Research Director,9434,No,8,1,4,3,2,3,0,0,3,1,No
+1790,32,<40,Female,Black or African American,Research & Development,Laboratory Technician,4987,No,28,3,4,3,2,3,4,0,5,13,No
+1791,43,>=40,Male,White,Sales,Sales Executive,8980,No,16,2,2,3,2,3,12,4,8,12,No
+1792,38,<40,Male,White,Research & Development,Healthcare Representative,6598,Yes,12,3,3,4,4,3,3,0,3,6,No
+1793,35,<40,Male,White,Research & Development,Manager,14779,No,12,4,2,2,3,4,2,0,5,9,No
+1794,42,>=40,Male,White,Research & Development,Laboratory Technician,7088,No,28,1,4,3,3,3,10,4,8,15,No
+1795,23,<40,Male,White,Sales,Sales Representative,4910,Yes,28,2,3,4,3,3,0,0,0,8,Yes
+1796,38,<40,Female,Black or African American,Research & Development,Laboratory Technician,6695,No,5,3,3,3,3,3,10,2,7,10,No
+1797,47,>=40,Male,White,Research & Development,Manufacturing Director,13343,No,5,4,3,3,2,3,13,6,0,13,No
+1798,41,>=40,Male,Hispanic or Latino,Research & Development,Research Scientist,7896,No,14,4,2,3,3,4,5,2,3,9,No
+1799,43,>=40,Male,Hispanic or Latino,Research & Development,Research Scientist,7332,No,6,4,2,1,2,3,5,0,2,10,No
+1800,51,>=40,Female,White,Research & Development,Healthcare Representative,8302,No,7,2,1,3,4,3,12,0,3,19,No
+1801,36,<40,Male,White,Research & Development,Manager,13973,No,23,4,3,2,3,3,2,0,6,4,No
+1802,31,<40,Male,Hispanic or Latino,Sales,Sales Executive,8430,No,21,1,4,2,3,3,1,0,8,6,No
+1803,47,>=40,Male,Two or More Races,Research & Development,Manager,14826,No,17,1,1,3,2,3,5,0,8,7,No
+1804,47,>=40,Male,White,Research & Development,Manager,15505,No,27,4,1,3,3,3,14,2,0,21,No
+1805,42,>=40,Male,White,Research & Development,Healthcare Representative,6690,Yes,9,4,3,3,2,3,8,3,0,11,Yes
+1806,35,<40,Female,White,Research & Development,Healthcare Representative,5263,Yes,22,1,4,3,2,3,1,0,8,2,Yes
+1807,37,<40,Male,Black or African American,Research & Development,Healthcare Representative,6067,Yes,13,1,2,2,2,3,7,1,3,15,No
+1808,25,<40,Male,White,Research & Development,Research Scientist,4054,No,9,1,2,2,3,3,1,0,2,10,No
+1809,47,>=40,Male,White,Research & Development,Healthcare Representative,8690,No,27,1,2,3,3,3,10,0,8,17,No
+1810,46,>=40,Female,Black or African American,Sales,Sales Executive,8429,No,16,2,3,3,2,3,5,0,4,10,No
+1811,25,<40,Male,Black or African American,Human Resources,Manager,13085,Yes,4,4,2,3,1,3,1,0,5,3,No
+1812,44,>=40,Male,White,Research & Development,Research Director,14012,No,2,3,3,3,3,3,15,5,0,16,No
+1813,40,>=40,Male,White,Sales,Sales Representative,6315,No,13,4,4,4,3,4,2,0,0,5,No
+1814,27,<40,Male,Black or African American,Research & Development,Healthcare Representative,4338,No,13,4,3,3,2,3,1,0,6,4,No
+1815,26,<40,Male,White,Research & Development,Laboratory Technician,4872,No,19,3,1,1,2,3,0,0,7,1,No
+1816,40,>=40,Male,White,Research & Development,Manager,10987,No,12,4,3,3,4,3,4,0,7,12,Yes
+1817,33,<40,Male,Asian,Research & Development,Manager,14081,Yes,4,3,3,4,4,4,3,0,6,12,No
+1818,53,>=40,Male,White,Research & Development,Healthcare Representative,7168,Yes,10,2,4,3,4,3,18,5,8,25,Yes
+1819,45,>=40,Male,Hispanic or Latino,Sales,Manager,15167,Yes,16,3,2,4,4,4,14,6,0,20,No
+1820,41,>=40,Male,Asian,Research & Development,Manufacturing Director,16060,No,28,3,4,3,2,3,4,1,1,9,No
+1821,41,>=40,Male,White,Research & Development,Healthcare Representative,7835,No,24,4,4,3,2,3,8,1,2,10,No
+1822,48,>=40,Female,White,Sales,Sales Representative,7693,No,19,4,2,2,2,3,12,3,4,15,No
+1823,44,>=40,Female,Black or African American,Research & Development,Laboratory Technician,6689,No,8,3,4,3,2,3,9,1,3,10,No
+1824,41,>=40,Female,Asian,Research & Development,Manager,12986,No,6,4,3,2,4,3,6,2,3,12,No
+1825,28,<40,Female,Asian,Research & Development,Laboratory Technician,5422,Yes,4,1,3,2,3,3,1,0,7,2,No
+1826,64,>=40,Female,Hispanic or Latino,Research & Development,Research Scientist,10369,Yes,7,4,1,1,3,3,16,4,7,25,No
+1827,27,<40,Female,White,Research & Development,Research Director,13104,No,14,3,2,2,2,3,1,0,6,1,No
+1828,34,<40,Male,Black or African American,Research & Development,Manager,11130,No,27,1,3,3,4,3,6,1,0,11,No
+1829,22,<40,Female,White,Research & Development,Healthcare Representative,3164,No,13,3,2,3,4,4,0,0,3,3,No
+1830,41,>=40,Male,White,Research & Development,Research Scientist,6103,No,21,3,3,2,2,3,3,0,0,10,Yes
+1831,38,<40,Male,White,Sales,Sales Executive,7809,Yes,5,1,3,4,4,3,2,0,4,2,Yes
+1832,43,>=40,Female,White,Research & Development,Healthcare Representative,6603,No,9,4,3,2,2,3,13,6,2,21,No
+1833,21,<40,Male,Hispanic or Latino,Sales,Manager,12340,No,29,1,3,3,1,3,0,0,2,5,No
+1834,47,>=40,Male,White,Sales,Sales Representative,6638,Yes,3,4,1,2,3,3,15,0,3,16,No
+1835,29,<40,Female,White,Research & Development,Laboratory Technician,4584,No,10,4,3,2,3,3,0,0,1,7,No
+1836,35,<40,Male,White,Research & Development,Manufacturing Director,10517,No,15,2,3,1,1,3,5,0,6,9,Yes
+1837,45,>=40,Male,Asian,Research & Development,Research Scientist,5912,Yes,20,3,2,3,2,4,9,1,3,13,No
+1838,39,<40,Female,Hispanic or Latino,Research & Development,Research Director,14299,No,21,4,1,3,4,3,10,1,4,14,No
+1839,39,<40,Female,White,Research & Development,Healthcare Representative,5770,No,17,3,2,2,3,3,2,0,1,8,Yes
+1840,44,>=40,Male,White,Research & Development,Laboratory Technician,6207,No,23,3,2,3,3,3,5,1,5,11,No
+1841,40,>=40,Male,White,Sales,Sales Executive,9059,No,24,3,4,1,2,4,6,1,8,15,Yes
+1842,33,<40,Male,Asian,Research & Development,Manufacturing Director,13971,No,6,3,3,3,1,4,6,2,7,12,No
+1843,35,<40,Female,Black or African American,Sales,Manager,10738,No,25,4,1,3,2,3,8,1,7,17,No
+1844,38,<40,Male,White,Human Resources,Manager,15140,Yes,3,2,1,1,2,3,11,4,1,12,No
+1845,28,<40,Male,Black or African American,Sales,Manager,10660,No,18,3,1,3,2,3,4,0,3,11,Yes
+1846,45,>=40,Male,White,Research & Development,Laboratory Technician,6703,No,5,2,3,4,2,3,2,0,7,2,No
+1847,39,<40,Male,Hispanic or Latino,Sales,Manager,10430,No,13,4,2,3,3,3,2,0,0,3,No
+1848,37,<40,Female,White,Human Resources,Manager,10453,No,25,4,3,3,2,3,2,0,7,8,No
+1849,47,>=40,Male,White,Research & Development,Research Director,16915,No,27,2,3,3,4,4,7,1,2,10,No
+1850,35,<40,Female,White,Research & Development,Laboratory Technician,7141,Yes,1,1,4,3,2,3,7,2,7,16,No
+1851,35,<40,Male,White,Sales,Sales Representative,4310,No,17,1,2,4,3,3,8,0,5,17,No
+1852,32,<40,Female,Asian,Research & Development,Healthcare Representative,5574,No,26,3,3,4,1,3,2,0,6,10,No
+1853,40,>=40,Female,White,Sales,Sales Representative,7089,Yes,3,3,4,3,3,3,8,0,1,16,No
+1854,39,<40,Male,Asian,Research & Development,Research Scientist,6534,No,26,4,3,3,1,4,11,0,0,13,No
+1855,31,<40,Male,Hispanic or Latino,Sales,Sales Executive,6963,Yes,19,3,4,3,4,3,3,0,5,5,No
+1856,35,<40,Male,White,Sales,Sales Representative,5901,No,21,2,3,3,3,3,2,0,2,10,No
+1857,31,<40,Female,White,Sales,Sales Executive,6992,No,20,4,3,4,3,3,3,0,3,12,Yes
+1858,30,<40,Male,White,Research & Development,Laboratory Technician,3764,Yes,22,3,3,3,1,3,2,0,8,9,Yes
+1859,21,<40,Female,Hispanic or Latino,Research & Development,Research Director,11373,No,12,3,4,3,3,3,0,0,2,1,No
+1860,34,<40,Female,White,Sales,Manager,12601,No,8,1,3,1,3,3,4,1,1,9,No
+1861,21,<40,Female,White,Research & Development,Laboratory Technician,5385,No,8,3,4,3,2,3,0,0,1,6,Yes
+1862,32,<40,Female,White,Research & Development,Research Director,11167,Yes,15,4,2,4,3,3,6,2,1,13,No
+1863,31,<40,Male,Hispanic or Latino,Research & Development,Research Scientist,4842,Yes,11,3,3,3,4,3,3,0,5,4,No
+1864,46,>=40,Male,White,Research & Development,Manufacturing Director,14049,No,20,2,4,2,3,3,9,2,1,9,No
+1865,27,<40,Male,White,Research & Development,Manufacturing Director,8796,Yes,1,3,2,1,4,3,3,1,6,6,Yes
+1866,30,<40,Female,White,Research & Development,Research Scientist,5274,No,29,4,4,3,4,3,1,0,6,1,No
+1867,33,<40,Female,White,Sales,Sales Executive,6321,No,16,2,1,4,4,3,2,0,6,3,Yes
+1868,31,<40,Female,Hispanic or Latino,Sales,Sales Executive,7089,No,14,3,4,4,3,3,5,0,1,7,No
+1869,49,>=40,Male,White,Research & Development,Research Director,16214,No,7,4,3,4,3,4,6,0,6,9,No
+1870,26,<40,Male,Hispanic or Latino,Research & Development,Research Scientist,4042,No,6,2,1,3,3,3,2,0,7,7,No
+1871,33,<40,Female,Black or African American,Research & Development,Research Scientist,6812,No,21,4,4,3,3,3,2,0,7,9,Yes
+1872,39,<40,Male,Black or African American,Sales,Sales Representative,6446,No,4,3,2,3,4,3,2,0,1,10,No
+1873,44,>=40,Male,Black or African American,Research & Development,Research Director,15925,No,22,3,1,3,1,3,9,1,4,12,No
+1874,33,<40,Female,White,Research & Development,Healthcare Representative,6523,No,8,3,1,3,3,3,2,0,5,2,No
+1875,19,<40,Male,White,Sales,Manager,12936,No,22,2,3,3,2,4,0,0,8,4,Yes
+1876,35,<40,Male,Black or African American,Sales,Sales Representative,5911,Yes,19,3,4,3,2,3,6,2,5,10,No
+1877,49,>=40,Male,White,Research & Development,Research Scientist,8850,No,25,2,1,2,2,3,17,6,5,25,Yes
+1878,39,<40,Male,Black or African American,Research & Development,Manager,11180,No,3,3,3,2,3,3,9,0,5,14,No
+1879,39,<40,Female,White,Sales,Manager,10769,No,4,2,2,3,1,4,3,0,8,7,Yes
+1880,27,<40,Male,Asian,Sales,Sales Executive,7330,No,13,1,4,4,3,3,2,0,6,11,No
+1881,26,<40,Male,Black or African American,Sales,Sales Executive,7038,Yes,21,4,1,3,3,3,1,0,0,10,Yes
+1882,37,<40,Male,White,Research & Development,Research Director,11211,No,27,3,2,1,2,3,7,2,0,11,No
+1883,24,<40,Female,White,Sales,Sales Executive,6679,No,2,4,2,4,2,3,1,0,3,8,No
+1884,44,>=40,Male,Hispanic or Latino,Sales,Sales Representative,7162,No,11,1,3,3,3,3,9,1,1,9,No
+1885,29,<40,Male,Hispanic or Latino,Research & Development,Healthcare Representative,5821,No,16,3,4,3,3,3,2,0,2,6,No
+1886,36,<40,Male,White,Sales,Sales Representative,6633,No,10,2,3,3,4,3,6,2,6,6,No
+1887,20,<40,Male,Asian,Research & Development,Manufacturing Director,11364,No,15,4,1,3,4,3,0,0,6,6,No
+1888,33,<40,Male,White,Sales,Sales Executive,6943,No,27,4,3,3,4,3,2,0,2,8,Yes
+1889,26,<40,Female,White,Sales,Manager,9157,Yes,10,1,4,4,3,3,1,0,1,10,No
+1890,18,<40,Female,Asian,Sales,Sales Representative,4012,No,2,4,1,2,4,3,0,0,0,7,No
+1891,41,>=40,Male,Asian,Research & Development,Research Scientist,6422,No,6,2,1,2,4,3,2,0,8,8,No
+1892,51,>=40,Male,Black or African American,Research & Development,Research Scientist,7972,No,14,3,2,1,4,3,2,0,2,10,Yes
+1893,47,>=40,Female,Asian,Research & Development,Laboratory Technician,6899,No,2,4,4,2,1,3,11,4,8,18,No
+1894,43,>=40,Male,White,Research & Development,Manager,11704,Yes,10,4,3,2,4,3,6,2,3,13,No
+1895,33,<40,Female,Asian,Research & Development,Manager,14412,No,17,4,3,2,3,4,6,2,5,8,No
+1896,44,>=40,Male,White,Sales,Sales Representative,7030,Yes,8,2,2,1,3,4,7,0,6,16,No
+1897,48,>=40,Female,White,Sales,Sales Representative,6555,No,26,1,2,2,2,3,10,2,5,13,Yes
+1898,38,<40,Female,White,Research & Development,Research Scientist,7286,Yes,16,2,4,2,3,3,5,2,0,8,Yes
+1899,26,<40,Female,White,Sales,Sales Representative,5903,No,14,3,2,1,2,3,1,0,5,1,Yes
+1900,32,<40,Female,White,Sales,Sales Executive,8908,No,10,4,4,3,2,4,3,1,5,8,No
+1901,52,>=40,Male,White,Sales,Sales Executive,10746,No,13,2,3,3,2,3,20,1,4,21,No
+1902,36,<40,Female,White,Sales,Sales Representative,6343,Yes,1,3,1,1,4,3,9,3,2,17,Yes
+1903,18,<40,Male,White,Sales,Sales Representative,3255,No,10,2,3,3,1,3,0,0,2,1,Yes
+1904,23,<40,Male,Black or African American,Research & Development,Research Scientist,4893,No,22,2,4,4,2,4,0,0,6,1,Yes
+1905,33,<40,Female,White,Research & Development,Laboratory Technician,6821,No,12,3,3,4,2,3,4,0,7,13,No
+1906,46,>=40,Female,White,Research & Development,Laboratory Technician,7235,No,17,3,4,1,3,3,10,3,2,15,No
+1907,34,<40,Female,Hispanic or Latino,Research & Development,Laboratory Technician,6568,No,24,4,2,3,2,3,6,1,2,6,No
+1908,46,>=40,Male,Asian,Research & Development,Manufacturing Director,13294,No,14,2,3,3,2,3,12,2,6,14,No
+1909,32,<40,Female,Hispanic or Latino,Sales,Sales Executive,7690,No,5,4,4,1,3,3,6,2,6,15,No
+1910,19,<40,Female,White,Research & Development,Manager,11338,Yes,19,1,4,2,3,4,0,0,8,1,No
+1911,32,<40,Male,Hispanic or Latino,Research & Development,Healthcare Representative,6420,No,5,2,3,2,2,4,6,1,5,14,No
+1912,40,>=40,Male,White,Sales,Manager,12225,No,15,3,3,3,2,3,5,0,6,9,No
+1913,39,<40,Male,White,Research & Development,Manager,12036,Yes,13,4,1,3,2,3,10,4,0,15,No
+1914,25,<40,Male,White,Research & Development,Healthcare Representative,4608,No,17,2,2,3,4,3,1,0,6,2,Yes
+1915,33,<40,Female,Hispanic or Latino,Research & Development,Manufacturing Director,14026,No,1,2,2,2,3,3,5,1,1,12,No
+1916,61,>=40,Female,White,Research & Development,Laboratory Technician,10152,No,28,3,1,2,3,4,11,4,6,16,No
+1917,25,<40,Female,White,Sales,Manager,9666,No,14,2,2,2,2,3,1,0,2,8,Yes
+1918,42,>=40,Female,White,Research & Development,Manufacturing Director,15412,Yes,4,4,2,3,3,3,12,3,8,19,No
+1919,18,<40,Male,Asian,Research & Development,Research Scientist,3866,No,25,4,4,4,1,4,0,0,4,1,Yes
+1920,44,>=40,Female,Black or African American,Sales,Manager,13477,No,9,1,3,3,1,3,10,3,6,16,Yes
+1921,28,<40,Male,White,Research & Development,Research Director,13649,Yes,17,3,3,4,3,3,2,0,7,3,No
+1922,40,>=40,Female,Black or African American,Research & Development,Healthcare Representative,6601,No,3,4,4,3,3,4,12,5,1,19,No
+1923,25,<40,Male,White,Research & Development,Laboratory Technician,5531,Yes,13,2,2,3,2,3,1,0,0,2,Yes
+1924,39,<40,Female,Black or African American,Research & Development,Healthcare Representative,6867,No,12,3,3,3,3,3,4,1,6,7,No
+1925,28,<40,Male,White,Research & Development,Manager,14107,No,16,1,3,3,4,3,1,0,5,2,No
+1926,30,<40,Male,Asian,Sales,Sales Representative,5520,No,4,3,1,3,3,3,3,0,5,9,No
+1927,40,>=40,Female,White,Sales,Manager,12289,Yes,18,2,4,3,3,3,2,0,1,6,No
+1928,33,<40,Male,Black or African American,Research & Development,Research Director,11210,Yes,23,4,1,3,4,3,5,1,2,13,No
+1929,40,>=40,Female,White,Research & Development,Manager,13824,Yes,3,3,1,2,4,3,11,4,3,15,No
+1930,35,<40,Male,White,Sales,Sales Representative,5888,Yes,17,2,2,3,3,3,7,1,2,14,Yes
+1931,37,<40,Female,White,Sales,Manager,12436,No,1,4,4,4,3,3,2,0,1,3,No
+1932,41,>=40,Male,White,Research & Development,Research Director,12129,No,19,1,3,3,2,3,13,2,2,15,No
+1933,33,<40,Male,White,Human Resources,Human Resources,5107,No,22,3,3,3,3,4,5,1,5,10,No
+1934,28,<40,Male,Hispanic or Latino,Research & Development,Laboratory Technician,6277,No,4,3,3,1,2,3,1,0,8,7,No
+1935,32,<40,Male,White,Sales,Sales Representative,6962,No,17,2,2,3,2,3,1,0,3,10,Yes
+1936,47,>=40,Male,Black or African American,Sales,Sales Executive,7684,No,7,4,3,1,3,3,5,1,5,12,No
+1937,38,<40,Male,Hispanic or Latino,Sales,Manager,13090,No,2,4,3,1,2,3,9,2,0,11,No
+1938,29,<40,Male,Black or African American,Research & Development,Laboratory Technician,6827,No,12,1,1,3,3,3,0,0,5,6,No
+1939,40,>=40,Male,Hispanic or Latino,Sales,Sales Executive,7878,No,5,4,3,2,3,3,4,1,2,11,No
+1940,41,>=40,Male,Black or African American,Research & Development,Manager,11005,No,16,3,1,3,3,3,10,4,8,19,No
+1941,41,>=40,Female,White,Sales,Manager,11376,Yes,8,4,2,4,2,3,8,3,3,13,No
+1942,28,<40,Male,Hispanic or Latino,Research & Development,Healthcare Representative,4102,Yes,23,2,4,2,2,4,3,0,6,6,No
+1943,30,<40,Male,White,Research & Development,Research Scientist,4557,No,27,3,3,3,3,3,4,0,3,9,No
+1944,30,<40,Female,Black or African American,Research & Development,Laboratory Technician,6868,Yes,28,3,3,3,4,4,1,0,5,9,No
+1945,33,<40,Male,Hispanic or Latino,Sales,Manager,13722,No,8,3,3,2,1,3,6,2,6,8,No
+1946,41,>=40,Female,White,Sales,Sales Representative,5828,No,13,3,3,3,2,3,4,0,1,5,No
+1947,39,<40,Male,White,Sales,Manager,13836,Yes,26,2,3,3,4,3,7,0,5,11,No
+1948,40,>=40,Male,White,Research & Development,Healthcare Representative,8057,Yes,14,4,4,3,1,3,8,0,7,14,No
+1949,49,>=40,Male,Hispanic or Latino,Research & Development,Research Scientist,8429,No,11,3,3,4,4,4,5,0,5,7,No
+1950,43,>=40,Female,Asian,Research & Development,Manufacturing Director,14935,No,6,4,4,3,3,3,14,0,1,18,No
+1951,35,<40,Female,White,Research & Development,Laboratory Technician,4852,Yes,16,2,4,4,3,3,5,2,3,8,No
+1952,26,<40,Male,Black or African American,Research & Development,Manufacturing Director,9266,No,23,3,3,3,2,3,0,0,0,6,No
+1953,30,<40,Male,Asian,Sales,Manager,13194,No,25,4,4,2,2,3,5,1,6,6,No
+1954,34,<40,Female,White,Research & Development,Research Director,11485,No,22,3,3,3,2,3,5,2,7,11,No
+1955,44,>=40,Male,White,Research & Development,Manufacturing Director,12565,Yes,25,4,3,2,4,3,11,4,1,12,No
+1956,36,<40,Male,Hispanic or Latino,Research & Development,Manufacturing Director,13865,No,15,4,1,3,3,3,5,2,4,7,No
+1957,31,<40,Female,Hispanic or Latino,Research & Development,Healthcare Representative,5652,Yes,16,3,3,3,3,3,5,2,7,9,No
+1958,30,<40,Female,Asian,Sales,Sales Representative,5584,No,13,3,4,3,3,4,0,0,7,6,No
+1959,36,<40,Male,White,Sales,Sales Executive,7087,No,12,2,4,1,2,3,3,1,4,8,Yes
+1960,45,>=40,Female,White,Research & Development,Healthcare Representative,7204,No,18,3,4,3,3,3,8,2,7,14,No
+1961,51,>=40,Female,White,Sales,Sales Executive,10309,No,29,2,2,1,3,3,4,0,5,9,No
+1962,35,<40,Male,White,Research & Development,Research Director,13715,No,18,4,3,3,3,4,6,2,4,6,No
+1963,36,<40,Male,White,Sales,Manager,11178,No,14,3,2,3,2,3,4,1,3,8,No
+1964,26,<40,Male,Hispanic or Latino,Research & Development,Research Scientist,3890,Yes,2,3,2,4,3,3,1,0,4,1,No
+1965,54,>=40,Female,White,Sales,Manager,12545,No,22,2,3,2,4,3,3,0,3,9,No
+1966,24,<40,Female,Hispanic or Latino,Research & Development,Manager,8890,No,2,4,3,3,3,3,1,0,0,4,No
+1967,47,>=40,Male,White,Research & Development,Laboratory Technician,7092,Yes,3,1,3,3,1,3,15,0,2,19,Yes
+1968,33,<40,Female,Black or African American,Sales,Sales Representative,5898,No,29,1,3,4,3,3,3,0,7,3,No
+1969,31,<40,Male,White,Research & Development,Healthcare Representative,5463,Yes,24,2,2,3,2,3,3,0,6,10,Yes
+1970,27,<40,Male,White,Research & Development,Healthcare Representative,4282,Yes,8,4,1,2,3,3,1,0,6,4,No
+1971,58,>=40,Male,White,Research & Development,Manager,18203,Yes,11,4,4,3,4,3,17,6,2,19,No
+1972,38,<40,Male,Two or More Races,Research & Development,Healthcare Representative,7074,No,12,3,1,3,3,3,1,0,8,1,No
+1973,37,<40,Female,Hispanic or Latino,Research & Development,Laboratory Technician,7450,No,4,4,1,3,3,4,5,1,5,8,Yes
+1974,44,>=40,Male,White,Sales,Manager,15497,No,9,2,4,4,3,4,10,1,7,12,No
+1975,31,<40,Female,White,Sales,Manager,10741,No,24,4,4,2,2,3,5,0,7,12,No
+1976,37,<40,Male,Asian,Sales,Sales Executive,7232,No,17,1,4,4,2,3,4,1,2,12,Yes
+1977,37,<40,Male,White,Research & Development,Manufacturing Director,15053,No,24,1,1,1,4,3,8,0,3,12,No
+1978,32,<40,Female,White,Sales,Manager,10505,Yes,16,1,2,4,3,3,4,1,5,12,No
+1979,47,>=40,Male,Black or African American,Research & Development,Laboratory Technician,8861,No,17,3,4,4,1,3,16,0,1,16,No
+1980,35,<40,Male,Asian,Research & Development,Manufacturing Director,9815,Yes,15,4,4,3,2,4,4,0,6,10,No
+1981,23,<40,Male,White,Research & Development,Manager,12145,No,20,3,3,3,3,3,0,0,1,6,No
+1982,34,<40,Female,White,Research & Development,Research Scientist,5979,Yes,26,4,2,1,3,3,7,2,4,12,No
+1983,39,<40,Male,Asian,Sales,Sales Executive,7397,No,22,3,1,1,4,3,2,0,3,5,No
+1984,28,<40,Male,White,Sales,Manager,9022,Yes,7,2,1,2,2,3,1,0,8,9,No
+1985,29,<40,Male,White,Research & Development,Research Director,14084,Yes,10,3,3,1,4,3,1,0,1,3,No
+1986,32,<40,Male,Black or African American,Research & Development,Healthcare Representative,5241,No,29,3,1,3,3,4,6,2,6,6,No
+1987,47,>=40,Female,Asian,Research & Development,Manufacturing Director,13078,No,4,4,4,2,3,3,2,0,6,3,No
+1988,32,<40,Male,White,Research & Development,Research Director,11913,No,24,3,2,4,3,3,6,1,6,8,No
+1989,49,>=40,Male,Two or More Races,Sales,Sales Representative,6022,No,24,3,4,3,2,3,10,3,0,11,No
+1990,31,<40,Male,Black or African American,Research & Development,Manager,14019,No,14,2,2,3,4,3,0,0,7,5,Yes
+1991,39,<40,Male,White,Research & Development,Manager,15440,No,14,3,3,3,2,3,5,2,1,11,No
+1992,32,<40,Female,Two or More Races,Research & Development,Manager,14054,No,14,4,1,2,2,3,2,0,4,6,No
+1993,43,>=40,Male,White,Sales,Manager,11069,No,25,1,4,2,4,3,9,3,1,13,Yes
+1994,26,<40,Female,White,Research & Development,Research Scientist,4826,No,14,4,3,2,3,3,2,0,4,8,Yes
+1995,43,>=40,Male,Black or African American,Research & Development,Healthcare Representative,6532,No,22,3,1,3,4,3,8,2,6,13,No
+1996,38,<40,Male,White,Sales,Manager,12358,No,20,2,4,3,3,3,1,0,5,8,No
+1997,31,<40,Female,White,Research & Development,Manager,10665,Yes,18,4,3,2,3,3,4,1,4,12,No
+1998,35,<40,Male,White,Sales,Manager,11312,Yes,15,3,4,3,4,3,7,2,3,8,No
+1999,50,>=40,Female,White,Human Resources,Manager,16957,No,23,2,4,1,1,3,14,4,7,15,No
+2000,38,<40,Female,Hispanic or Latino,Research & Development,Research Scientist,4940,No,26,2,4,3,4,3,9,1,7,9,No
+2001,30,<40,Male,Black or African American,Sales,Manager,10306,Yes,19,2,1,3,2,3,1,0,0,7,Yes
+2002,26,<40,Male,Two or More Races,Research & Development,Research Director,8668,No,27,4,1,3,4,3,2,0,1,5,No
+2003,41,>=40,Female,White,Research & Development,Research Director,11370,No,13,3,4,4,2,3,5,0,2,13,Yes
+2004,38,<40,Male,White,Research & Development,Research Director,10816,Yes,12,4,3,3,3,3,1,0,0,6,No
+2005,43,>=40,Male,White,Research & Development,Manager,13950,No,19,2,2,3,4,4,12,5,2,18,No
+2006,23,<40,Male,White,Research & Development,Research Director,13456,No,19,1,4,2,3,4,0,0,7,6,Yes
+2007,26,<40,Male,White,Research & Development,Laboratory Technician,5171,No,20,1,2,3,3,4,1,0,3,8,No
+2008,47,>=40,Female,Hispanic or Latino,Research & Development,Healthcare Representative,8077,No,2,3,4,3,4,3,5,1,6,8,No
+2009,39,<40,Male,Asian,Sales,Sales Representative,6977,No,29,4,4,1,3,3,4,0,6,6,No
+2010,41,>=40,Male,Two or More Races,Research & Development,Laboratory Technician,6579,No,29,3,4,3,4,3,7,2,4,9,No
+2011,28,<40,Female,White,Sales,Manager,14443,No,21,2,2,2,3,3,3,0,0,12,No
+2012,28,<40,Male,Asian,Human Resources,Human Resources,5390,No,3,4,3,1,2,3,1,0,3,8,No
+2013,45,>=40,Male,White,Research & Development,Manufacturing Director,15746,No,10,4,3,4,1,3,13,2,6,15,No
+2014,46,>=40,Female,White,Sales,Sales Executive,10586,No,5,1,3,3,2,3,6,0,4,13,Yes
+2015,27,<40,Male,Asian,Research & Development,Research Scientist,4868,No,12,4,2,2,2,3,2,0,1,3,No
+2016,25,<40,Female,Black or African American,Research & Development,Manufacturing Director,10824,No,29,2,3,3,3,3,1,0,7,5,No
+2017,36,<40,Female,White,Sales,Sales Executive,8396,Yes,7,1,3,4,2,3,4,1,1,8,No
+2018,29,<40,Male,White,Research & Development,Healthcare Representative,5475,Yes,9,2,3,1,1,3,2,0,7,8,Yes
+2019,29,<40,Male,White,Research & Development,Research Scientist,4784,Yes,2,3,4,3,1,3,4,0,1,8,Yes
+2020,25,<40,Male,Hispanic or Latino,Sales,Sales Representative,5008,No,25,3,3,3,4,4,1,0,4,9,Yes
+2021,32,<40,Male,White,Research & Development,Laboratory Technician,7596,No,10,2,2,2,3,3,5,1,3,7,No
+2022,26,<40,Female,Two or More Races,Sales,Sales Representative,4132,No,6,2,3,3,3,3,1,0,0,9,No
+2023,27,<40,Female,White,Research & Development,Manager,13702,No,12,4,4,1,4,4,0,0,7,1,No
+2024,39,<40,Male,White,Human Resources,Human Resources,5902,No,6,4,2,3,1,3,10,0,2,12,No
+2025,36,<40,Female,White,Research & Development,Manufacturing Director,15910,No,27,4,3,3,4,3,3,1,3,6,Yes
+2026,41,>=40,Female,White,Research & Development,Research Director,14439,No,3,2,1,2,3,3,12,3,3,17,No
+2027,22,<40,Female,White,Research & Development,Healthcare Representative,4566,No,10,2,2,3,2,3,0,0,4,9,Yes
+2028,37,<40,Male,Hispanic or Latino,Research & Development,Research Director,15493,No,29,2,4,3,3,3,8,0,2,15,Yes
+2029,55,>=40,Male,Asian,Research & Development,Research Scientist,9061,No,9,1,4,2,3,3,8,1,8,14,No
+2030,33,<40,Male,Asian,Research & Development,Healthcare Representative,5586,Yes,20,3,3,3,3,3,3,0,3,10,No
+2031,44,>=40,Female,Hispanic or Latino,Sales,Sales Representative,7927,No,5,3,4,1,4,3,6,0,3,11,No
+2032,44,>=40,Male,Asian,Research & Development,Laboratory Technician,6691,No,3,4,4,4,2,3,12,3,5,17,No
+2033,44,>=40,Male,Black or African American,Sales,Sales Representative,6639,Yes,5,3,4,3,2,3,9,3,7,14,Yes
+2034,38,<40,Male,Hispanic or Latino,Sales,Manager,15095,No,8,2,3,3,1,3,10,3,6,12,No
+2035,42,>=40,Male,White,Sales,Sales Executive,9137,No,8,2,3,3,2,3,5,1,3,14,No
+2036,43,>=40,Male,White,Research & Development,Manufacturing Director,11500,Yes,14,3,3,3,2,3,10,2,3,13,No
+2037,42,>=40,Female,White,Research & Development,Laboratory Technician,7327,No,24,2,1,4,4,3,11,2,4,16,No
+2038,26,<40,Male,White,Research & Development,Healthcare Representative,5118,No,22,2,3,3,1,4,0,0,4,6,Yes
+2039,21,<40,Male,White,Sales,Sales Executive,4993,No,17,3,4,4,3,3,0,0,0,2,No
+2040,23,<40,Male,Two or More Races,Research & Development,Research Director,10310,No,11,2,4,3,3,3,0,0,7,3,Yes
+2041,34,<40,Male,White,Research & Development,Laboratory Technician,5551,No,26,1,4,2,4,3,3,0,4,8,No
+2042,42,>=40,Male,White,Research & Development,Manager,12806,No,16,4,1,4,4,3,5,1,2,5,No
+2043,27,<40,Male,White,Research & Development,Manufacturing Director,13423,No,28,4,3,3,3,3,2,0,2,8,No
+2044,45,>=40,Male,White,Research & Development,Healthcare Representative,8546,No,6,2,1,3,4,3,5,0,3,5,Yes
+2045,32,<40,Male,White,Research & Development,Healthcare Representative,6404,Yes,28,1,2,4,3,3,5,2,6,14,Yes
+2046,32,<40,Male,White,Research & Development,Manager,15380,No,11,4,4,1,4,4,6,2,4,14,No
+2047,29,<40,Male,White,Sales,Sales Representative,5790,No,10,2,3,3,3,3,3,0,0,12,No
+2048,20,<40,Female,White,Sales,Sales Executive,7111,No,23,3,4,2,1,3,0,0,4,8,Yes
+2049,39,<40,Female,Hispanic or Latino,Research & Development,Healthcare Representative,6753,No,9,1,1,3,3,3,2,0,4,10,Yes
+2050,52,>=40,Male,Hispanic or Latino,Sales,Sales Representative,9317,No,28,2,3,3,3,3,18,8,5,21,No
+2051,36,<40,Male,White,Research & Development,Manager,10653,No,24,4,3,4,3,4,3,1,6,4,No
+2052,20,<40,Female,White,Research & Development,Research Scientist,4485,No,27,4,1,3,2,3,0,0,4,6,No
+2053,44,>=40,Male,White,Research & Development,Research Director,11597,Yes,28,2,2,3,3,3,15,1,1,18,Yes
+2054,22,<40,Female,Hispanic or Latino,Research & Development,Manufacturing Director,11299,No,24,2,1,4,4,3,0,0,1,4,No
+2055,26,<40,Female,White,Human Resources,Manager,10932,No,15,1,3,3,1,3,2,0,3,2,Yes
+2056,34,<40,Male,White,Research & Development,Laboratory Technician,7023,No,7,1,4,2,3,3,4,1,0,13,No
+2057,38,<40,Male,Hispanic or Latino,Research & Development,Research Scientist,7423,No,18,4,4,3,3,3,2,0,6,7,Yes
+2058,27,<40,Female,White,Research & Development,Manufacturing Director,12651,Yes,1,3,4,4,4,3,2,0,0,8,Yes
+2059,34,<40,Male,White,Research & Development,Laboratory Technician,4667,No,15,3,4,4,4,3,1,0,2,3,Yes
+2060,43,>=40,Male,White,Research & Development,Laboratory Technician,6552,No,2,4,4,3,3,3,10,4,6,19,No
+2061,44,>=40,Male,Asian,Research & Development,Manufacturing Director,11761,Yes,22,4,3,4,3,3,2,0,5,3,No
+2062,48,>=40,Male,Asian,Human Resources,Human Resources,8355,Yes,29,4,3,2,2,3,16,7,6,25,No
+2063,54,>=40,Female,Hispanic or Latino,Research & Development,Manager,16250,Yes,2,1,3,2,3,3,6,1,4,12,No
+2064,44,>=40,Female,White,Research & Development,Research Scientist,6467,No,10,2,4,4,3,3,8,3,7,8,No
+2065,35,<40,Female,White,Research & Development,Research Director,10485,No,20,3,2,2,4,3,5,0,5,6,No
+2066,44,>=40,Male,Two or More Races,Research & Development,Healthcare Representative,7970,No,15,3,1,2,3,3,8,0,3,10,No
+2067,41,>=40,Male,Two or More Races,Sales,Manager,14890,No,10,4,4,3,2,3,5,1,0,8,No
+2068,41,>=40,Male,White,Sales,Sales Representative,6837,No,19,3,1,3,3,4,7,1,1,11,Yes
+2069,38,<40,Male,Hispanic or Latino,Research & Development,Manufacturing Director,10884,Yes,22,4,4,3,2,3,4,0,5,7,No
+2070,28,<40,Male,White,Sales,Manager,11911,No,28,2,4,2,1,3,2,0,3,11,Yes
+2071,27,<40,Female,White,Sales,Sales Executive,7090,No,28,4,2,4,2,3,1,0,2,3,No
+2072,36,<40,Female,Black or African American,Sales,Sales Executive,7450,No,13,2,3,4,2,3,6,1,6,6,Yes
+2073,38,<40,Male,White,Sales,Sales Representative,6471,No,24,4,4,3,4,4,3,0,6,9,No
+2074,30,<40,Female,Asian,Sales,Sales Representative,4995,No,11,2,2,3,2,4,5,1,1,14,No
+2075,40,>=40,Male,White,Human Resources,Human Resources,7533,No,22,3,4,3,2,3,7,2,7,12,Yes
+2076,55,>=40,Male,White,Research & Development,Healthcare Representative,7464,No,2,4,4,3,4,3,7,1,0,8,No
+2077,21,<40,Female,Asian,Research & Development,Manager,9515,No,21,3,2,3,3,3,0,0,6,1,No
+2078,42,>=40,Male,Asian,Research & Development,Research Scientist,5927,Yes,27,3,1,3,1,3,12,1,0,14,Yes
+2079,36,<40,Female,White,Sales,Sales Executive,9618,No,13,4,2,2,2,3,1,0,2,8,No
+2080,41,>=40,Female,White,Research & Development,Manufacturing Director,10470,No,22,3,2,2,2,3,9,0,2,16,No
+2081,33,<40,Male,Black or African American,Research & Development,Healthcare Representative,5708,Yes,25,3,1,3,2,3,4,1,1,13,No
+2082,35,<40,Female,White,Sales,Sales Representative,5585,Yes,22,1,4,3,1,4,2,0,4,11,No
+2083,38,<40,Male,Two or More Races,Research & Development,Research Scientist,6699,Yes,26,4,3,3,3,4,9,1,3,18,No
+2084,34,<40,Male,Asian,Research & Development,Manager,10059,No,21,3,4,3,2,4,3,0,5,12,Yes
+2085,23,<40,Male,White,Research & Development,Research Director,9622,No,1,3,2,3,3,3,0,0,1,7,No
+2086,34,<40,Male,White,Research & Development,Manufacturing Director,14510,No,26,1,3,3,4,3,7,0,3,13,Yes
+2087,24,<40,Female,White,Research & Development,Research Scientist,5497,No,5,3,3,1,3,3,0,0,6,1,No
+2088,42,>=40,Male,Asian,Sales,Sales Executive,8324,No,21,1,4,3,4,3,12,1,0,12,No
+2089,20,<40,Female,White,Human Resources,Human Resources,3812,No,22,1,3,3,3,3,0,0,2,5,No
+2090,46,>=40,Male,White,Sales,Sales Representative,7474,Yes,7,3,3,3,3,3,13,5,0,20,Yes
+2091,40,>=40,Male,White,Research & Development,Healthcare Representative,6958,No,13,2,4,3,3,3,10,2,1,10,No
+2092,40,>=40,Female,Black or African American,Research & Development,Manager,10315,No,13,2,2,3,1,3,2,0,8,4,Yes
+2093,18,<40,Male,White,Research & Development,Healthcare Representative,3714,Yes,20,3,1,4,1,3,0,0,4,1,No
+2094,34,<40,Male,White,Research & Development,Healthcare Representative,6145,No,23,1,3,3,3,3,5,0,3,14,Yes
+2095,47,>=40,Male,Asian,Sales,Sales Executive,9300,No,21,2,4,3,3,3,3,0,3,11,No
+2096,32,<40,Male,Asian,Sales,Manager,10002,Yes,6,1,1,4,3,3,4,0,7,10,Yes
+2097,27,<40,Male,Hispanic or Latino,Sales,Sales Executive,6435,Yes,20,3,3,3,4,3,0,0,2,7,No
+2098,31,<40,Female,White,Sales,Manager,13178,Yes,12,3,3,3,3,4,4,1,3,12,Yes
+2099,36,<40,Male,White,Research & Development,Healthcare Representative,6556,No,8,4,4,1,3,3,5,2,1,7,No
+2100,29,<40,Male,Black or African American,Research & Development,Research Director,10232,No,9,2,2,3,3,3,4,0,5,13,No
+2101,48,>=40,Female,White,Sales,Manager,13434,No,18,1,2,3,4,3,5,0,8,6,No
+2102,36,<40,Male,Asian,Human Resources,Manager,10344,Yes,28,1,3,3,4,3,6,2,3,11,No
+2103,31,<40,Female,Black or African American,Research & Development,Manufacturing Director,14051,No,11,3,3,3,4,3,2,0,5,6,No
+2104,25,<40,Male,White,Research & Development,Research Scientist,5470,No,20,4,4,4,2,4,1,0,3,4,No
+2105,41,>=40,Male,Asian,Human Resources,Manager,10403,Yes,11,2,3,2,3,4,10,4,1,15,No
+2106,41,>=40,Female,Two or More Races,Sales,Manager,11902,No,24,2,4,3,2,3,10,4,5,15,Yes
+2107,29,<40,Male,White,Research & Development,Manufacturing Director,15357,No,24,1,4,3,2,3,4,0,6,6,No
+2108,18,<40,Female,White,Research & Development,Manufacturing Director,11121,No,15,3,4,3,4,3,0,0,3,1,No
+2109,40,>=40,Male,White,Research & Development,Manufacturing Director,10613,Yes,9,3,3,3,1,3,2,0,6,10,No
+2110,35,<40,Male,White,Sales,Sales Representative,7120,Yes,3,3,4,2,4,3,3,1,7,10,No
+2111,40,>=40,Male,White,Research & Development,Manager,13472,No,17,4,2,1,2,3,9,4,2,12,No
+2112,54,>=40,Male,Black or African American,Sales,Sales Representative,8067,No,25,3,4,3,4,3,12,3,1,17,No
+2113,36,<40,Female,Two or More Races,Sales,Sales Representative,7105,No,17,1,3,3,2,3,3,1,4,5,Yes
+2114,32,<40,Male,White,Research & Development,Healthcare Representative,6111,No,3,2,4,3,3,3,4,1,1,11,No
+2115,26,<40,Female,White,Research & Development,Research Director,12234,No,19,3,3,4,2,3,1,0,4,3,No
+2116,34,<40,Female,Black or African American,Research & Development,Manager,10468,No,9,3,4,1,3,3,4,1,5,5,No
+2117,38,<40,Male,White,Sales,Manager,15293,No,17,3,4,3,2,3,9,3,7,15,Yes
+2118,37,<40,Male,Asian,Research & Development,Manufacturing Director,10690,No,23,3,4,3,3,3,5,1,5,7,No
+2119,52,>=40,Female,White,Sales,Sales Representative,8498,No,18,3,4,4,1,3,3,0,3,11,Yes
+2120,41,>=40,Female,White,Sales,Manager,15318,No,23,4,1,4,1,3,2,0,2,4,No
+2121,35,<40,Male,White,Research & Development,Manager,11464,No,15,3,2,3,1,3,7,1,1,14,No
+2122,30,<40,Male,Hispanic or Latino,Human Resources,Human Resources,5016,No,1,4,4,3,3,3,5,0,0,6,Yes
+2123,39,<40,Male,White,Research & Development,Healthcare Representative,5527,No,29,2,3,2,4,3,8,3,1,16,No
+2124,28,<40,Female,Hispanic or Latino,Research & Development,Research Scientist,4645,Yes,26,3,3,3,4,3,1,0,1,1,No
+2125,38,<40,Male,White,Research & Development,Research Scientist,5423,No,10,4,3,3,2,3,10,4,4,12,No
+2126,41,>=40,Female,White,Research & Development,Manager,16203,No,8,3,1,3,3,3,9,0,8,10,No
+2127,35,<40,Male,White,Sales,Sales Representative,5290,No,10,4,3,3,3,3,7,2,0,13,No
+2128,31,<40,Male,Asian,Research & Development,Manager,13449,No,29,4,3,3,2,3,5,0,3,9,No
+2129,18,<40,Male,Asian,Research & Development,Manager,8790,No,26,1,2,3,3,3,0,0,6,7,No
+2130,47,>=40,Male,White,Sales,Sales Executive,8996,No,2,3,2,3,3,4,9,0,2,10,No
+2131,40,>=40,Male,White,Research & Development,Manufacturing Director,15188,No,19,1,3,2,2,3,3,0,7,10,No
+2132,40,>=40,Male,White,Research & Development,Manager,13005,Yes,14,4,3,2,1,3,4,1,2,10,No
+2133,22,<40,Male,White,Sales,Manager,12023,No,8,4,2,2,2,3,0,0,7,4,No
+2134,49,>=40,Male,White,Sales,Manager,12461,No,19,1,3,4,3,3,17,8,1,18,No
+2135,32,<40,Male,Asian,Research & Development,Laboratory Technician,5574,No,1,1,4,1,1,3,5,2,4,14,No
+2136,34,<40,Female,Asian,Sales,Manager,13046,No,16,3,3,3,2,3,4,0,3,10,No
+2137,27,<40,Male,White,Research & Development,Research Scientist,4701,Yes,25,2,4,2,2,3,0,0,8,9,Yes
+2138,20,<40,Male,White,Research & Development,Healthcare Representative,5123,No,24,1,4,3,1,3,0,0,2,3,No
+2139,47,>=40,Male,Asian,Research & Development,Healthcare Representative,8047,No,15,3,1,4,2,3,8,1,4,11,Yes
+2140,48,>=40,Female,Hispanic or Latino,Research & Development,Research Director,16695,No,20,3,1,3,4,3,9,4,8,16,No
+2141,35,<40,Male,White,Research & Development,Manager,9843,No,24,1,3,2,1,4,6,2,5,11,No
+2142,30,<40,Female,White,Research & Development,Research Scientist,5360,No,5,4,3,2,3,3,0,0,1,8,No
+2143,33,<40,Female,White,Research & Development,Manufacturing Director,11962,Yes,3,4,3,4,3,3,7,1,0,8,No
+2144,33,<40,Female,White,Research & Development,Healthcare Representative,6188,Yes,17,4,2,3,3,4,3,0,0,7,No
+2145,26,<40,Male,White,Sales,Manager,9769,No,29,4,3,3,3,3,2,0,6,7,No
+2146,34,<40,Female,White,Research & Development,Research Scientist,5423,No,10,2,1,3,2,3,5,0,1,12,Yes
+2147,38,<40,Male,Black or African American,Research & Development,Healthcare Representative,6348,No,5,2,4,3,4,4,2,0,6,5,Yes
+2148,46,>=40,Male,White,Research & Development,Manufacturing Director,14179,No,11,2,2,2,3,3,13,3,0,19,No
+2149,37,<40,Female,White,Research & Development,Healthcare Representative,6978,No,6,4,4,3,4,3,7,2,3,13,No
+2150,22,<40,Male,White,Research & Development,Manager,10566,No,4,4,1,3,3,3,0,0,3,3,No
+2151,40,>=40,Female,Hispanic or Latino,Research & Development,Manager,10923,No,7,4,2,2,4,3,7,0,4,7,No
+2152,34,<40,Male,Asian,Research & Development,Research Director,10282,No,19,4,2,3,3,3,1,0,0,3,No
+2153,49,>=40,Female,White,Research & Development,Research Director,15614,Yes,7,3,4,4,4,3,13,4,6,14,No
+2154,49,>=40,Male,White,Research & Development,Healthcare Representative,7556,No,14,3,1,4,3,4,17,7,1,19,No
+2155,50,>=40,Male,Two or More Races,Research & Development,Research Scientist,8468,No,17,3,3,2,3,4,4,0,1,8,Yes
+2156,31,<40,Male,White,Research & Development,Manager,12245,Yes,23,1,4,2,3,4,2,0,7,2,No
+2157,54,>=40,Female,White,Sales,Sales Executive,9808,No,17,1,3,4,4,3,20,8,8,24,No
+2158,40,>=40,Male,White,Research & Development,Research Scientist,7647,No,13,3,3,2,4,4,4,0,5,5,No
+2159,51,>=40,Male,White,Research & Development,Healthcare Representative,7627,No,27,3,4,1,2,3,14,2,0,17,Yes
+2160,32,<40,Male,White,Sales,Sales Executive,6510,No,1,3,4,4,3,3,4,1,0,9,Yes
+2161,34,<40,Female,Asian,Research & Development,Manager,11465,No,2,3,3,2,2,3,5,1,6,13,No
+2162,39,<40,Male,Black or African American,Sales,Manager,13060,No,18,2,3,3,3,3,5,2,7,14,No
+2163,38,<40,Male,White,Research & Development,Research Director,13287,No,4,3,4,3,2,3,4,1,2,9,No
+2164,48,>=40,Male,Asian,Research & Development,Manufacturing Director,12896,No,13,3,4,3,2,3,3,0,8,12,No
+2165,34,<40,Male,White,Sales,Sales Executive,6499,No,1,3,3,2,4,3,6,0,3,7,No
+2166,47,>=40,Male,White,Research & Development,Manufacturing Director,14484,No,4,4,4,4,2,3,13,1,3,20,No
+2167,43,>=40,Male,Black or African American,Research & Development,Manager,10459,Yes,2,3,2,3,3,3,10,4,2,14,No
+2168,35,<40,Female,Black or African American,Research & Development,Manager,13919,No,4,3,3,3,3,4,6,0,7,14,No
+2169,42,>=40,Male,White,Sales,Sales Executive,10263,No,16,4,2,2,2,3,4,0,8,13,No
+2170,32,<40,Male,White,Sales,Manager,10114,No,4,4,2,2,2,3,1,0,0,9,No
+2171,58,>=40,Male,Black or African American,Research & Development,Healthcare Representative,7840,No,25,4,3,3,3,3,21,7,1,24,No
+2172,18,<40,Female,Black or African American,Human Resources,Manager,8488,No,9,2,3,3,2,3,0,0,0,1,No
+2173,43,>=40,Female,Black or African American,Research & Development,Laboratory Technician,7515,No,17,1,2,4,4,4,5,0,3,13,No
+2174,21,<40,Female,White,Sales,Sales Executive,7615,Yes,21,2,3,3,4,3,0,0,6,8,Yes
+2175,34,<40,Male,White,Research & Development,Research Director,9115,No,23,2,3,3,2,3,1,0,6,8,Yes
+2176,36,<40,Male,White,Research & Development,Manager,14369,Yes,20,4,4,3,2,3,4,1,5,8,No
+2177,50,>=40,Male,White,Research & Development,Manager,13182,No,28,3,4,3,3,4,16,2,4,20,No
+2178,30,<40,Male,Asian,Sales,Sales Executive,7770,No,21,1,3,3,3,3,5,2,3,14,No
+2179,48,>=40,Male,White,Research & Development,Research Director,12454,No,2,1,4,2,2,3,16,6,7,21,No
+2180,26,<40,Female,White,Research & Development,Manager,13390,No,3,2,2,4,1,3,2,0,6,2,No
+2181,49,>=40,Female,Hispanic or Latino,Human Resources,Human Resources,8561,No,23,3,3,3,3,3,17,2,0,25,No
+2182,32,<40,Female,White,Research & Development,Manager,14717,Yes,26,4,4,3,4,4,4,1,5,8,Yes
+2183,37,<40,Male,White,Research & Development,Healthcare Representative,7278,No,29,4,3,3,3,4,3,0,1,9,No
+2184,33,<40,Female,Hispanic or Latino,Research & Development,Manufacturing Director,10165,No,15,4,3,3,3,4,6,1,3,13,No
+2185,48,>=40,Male,Asian,Sales,Manager,12688,No,7,2,2,2,4,4,5,2,4,9,No
+2186,46,>=40,Male,Black or African American,Research & Development,Manager,11913,No,4,2,2,1,3,3,6,1,7,8,No
+2187,40,>=40,Female,White,Research & Development,Laboratory Technician,6695,No,12,2,3,3,3,3,4,1,5,9,No
+2188,26,<40,Male,Black or African American,Sales,Sales Executive,5884,No,1,3,4,2,3,3,1,0,1,7,No
+2189,30,<40,Male,Hispanic or Latino,Research & Development,Research Director,11623,Yes,17,4,3,3,4,3,2,0,4,5,Yes
+2190,27,<40,Male,White,Research & Development,Research Director,13894,No,4,3,4,1,3,3,0,0,4,8,No
+2191,18,<40,Female,White,Sales,Sales Executive,7472,No,4,4,4,3,4,3,0,0,5,3,No
+2192,48,>=40,Female,Asian,Research & Development,Manufacturing Director,10766,Yes,22,3,2,1,3,4,16,4,0,25,Yes
+2193,34,<40,Male,White,Research & Development,Healthcare Representative,5436,No,23,1,3,3,3,3,5,1,7,6,No
+2194,33,<40,Female,Hispanic or Latino,Research & Development,Research Scientist,6135,No,25,1,3,3,2,4,6,0,2,14,Yes
+2195,50,>=40,Male,White,Sales,Sales Executive,10013,No,9,3,3,2,2,3,6,2,4,9,No
+2196,32,<40,Male,White,Research & Development,Research Director,10855,No,26,4,1,3,3,3,2,0,6,5,No
+2197,29,<40,Female,White,Human Resources,Human Resources,5540,No,28,2,4,4,2,3,3,0,2,12,No
+2198,34,<40,Female,Hispanic or Latino,Human Resources,Human Resources,5748,Yes,28,4,4,3,3,3,4,1,5,4,No
+2199,26,<40,Female,White,Research & Development,Research Scientist,4111,Yes,21,4,3,3,2,3,1,0,4,2,Yes
+2200,40,>=40,Male,White,Sales,Manager,13153,No,10,3,3,4,4,3,10,2,6,12,No
+2201,33,<40,Female,Black or African American,Research & Development,Research Scientist,6468,Yes,27,4,1,4,2,3,6,0,2,12,Yes
+2202,32,<40,Female,Hispanic or Latino,Sales,Sales Representative,6173,No,19,3,3,4,4,3,6,1,1,14,No
+2203,31,<40,Female,Two or More Races,Sales,Sales Executive,8911,No,19,3,4,2,3,3,3,0,3,7,No
+2204,36,<40,Male,White,Research & Development,Research Director,14739,No,15,4,4,4,2,3,3,0,2,6,No
+2205,37,<40,Female,White,Research & Development,Healthcare Representative,5788,No,22,4,2,3,3,3,6,0,3,7,Yes
+2206,32,<40,Male,Two or More Races,Research & Development,Manager,15123,No,17,2,3,3,2,3,1,0,6,7,Yes
+2207,33,<40,Male,Black or African American,Research & Development,Healthcare Representative,5717,No,7,3,3,1,2,3,3,0,4,8,No
+2208,36,<40,Male,White,Research & Development,Manager,13442,No,3,2,2,4,3,3,3,0,3,9,No
+2209,35,<40,Male,White,Sales,Manager,13945,No,5,2,1,3,1,3,4,1,5,11,Yes
+2210,37,<40,Male,Hispanic or Latino,Human Resources,Human Resources,6640,No,16,3,3,3,4,3,2,0,6,10,No
+2211,30,<40,Female,White,Research & Development,Research Scientist,6388,Yes,23,4,3,1,1,3,0,0,4,9,Yes
+2212,46,>=40,Male,Black or African American,Research & Development,Manufacturing Director,13981,No,7,3,1,2,3,3,11,1,6,15,No
+2213,37,<40,Female,White,Sales,Sales Representative,5397,No,16,2,1,4,3,3,6,2,2,10,No
+2214,32,<40,Male,White,Research & Development,Healthcare Representative,6253,No,9,2,2,3,3,3,5,2,6,8,No
+2215,40,>=40,Male,Black or African American,Research & Development,Research Director,14477,No,1,3,2,3,3,3,8,0,2,10,No
+2216,36,<40,Male,White,Sales,Sales Representative,6198,No,3,2,3,3,3,3,2,0,5,8,Yes
+2217,21,<40,Male,White,Sales,Sales Executive,5197,No,25,2,2,1,3,3,0,0,7,4,Yes
+2218,40,>=40,Male,White,Research & Development,Manufacturing Director,14307,Yes,8,4,2,3,3,3,3,0,5,9,No
+2219,27,<40,Male,White,Research & Development,Manager,9418,No,18,1,4,3,2,3,3,1,2,4,Yes
+2220,45,>=40,Male,Hispanic or Latino,Sales,Sales Executive,8557,No,24,3,1,2,3,4,12,4,4,20,No
+2221,34,<40,Male,Hispanic or Latino,Human Resources,Human Resources,6540,No,24,4,3,2,2,3,2,0,8,10,No
+2222,44,>=40,Male,Hispanic or Latino,Sales,Manager,14838,No,18,2,4,2,1,4,6,1,7,14,No
+2223,31,<40,Male,White,Research & Development,Healthcare Representative,5868,Yes,24,3,3,2,3,3,6,1,5,10,Yes
+2224,37,<40,Male,White,Research & Development,Healthcare Representative,6079,Yes,19,3,4,3,3,3,6,1,8,15,Yes
+2225,47,>=40,Female,White,Research & Development,Healthcare Representative,8307,No,7,3,3,4,3,3,14,2,1,22,No
+2226,34,<40,Female,Asian,Research & Development,Healthcare Representative,6497,Yes,29,3,1,3,3,3,3,0,8,3,No
+2227,31,<40,Female,Hispanic or Latino,Research & Development,Manager,10339,Yes,25,2,3,2,2,3,2,0,5,3,No
+2228,42,>=40,Male,Hispanic or Latino,Sales,Sales Executive,8198,No,20,4,3,2,2,3,11,0,8,20,No
+2229,42,>=40,Female,White,Human Resources,Human Resources,6330,No,27,4,1,3,1,3,10,1,3,14,No
+2230,32,<40,Female,White,Research & Development,Manager,13813,No,6,2,3,4,3,3,5,1,4,9,No
+2231,19,<40,Female,White,Research & Development,Healthcare Representative,5452,No,25,1,4,2,3,3,0,0,1,5,No
+2232,31,<40,Male,White,Sales,Sales Representative,4925,Yes,27,1,2,2,2,3,3,0,2,10,No
+2233,43,>=40,Female,White,Sales,Sales Representative,6875,No,11,1,3,3,3,3,11,3,0,11,No
+2234,30,<40,Female,Asian,Sales,Manager,10009,No,5,3,3,3,3,3,2,0,3,11,No
+2235,36,<40,Male,White,Research & Development,Research Scientist,5788,No,12,1,4,3,3,3,4,1,1,12,No
+2236,31,<40,Female,White,Research & Development,Research Scientist,5816,No,1,2,4,3,3,3,5,1,1,8,No
+2237,19,<40,Male,White,Research & Development,Manager,9764,No,19,4,4,3,3,3,0,0,0,7,No
+2238,30,<40,Male,Asian,Research & Development,Manager,13151,No,11,2,3,4,3,3,3,1,1,7,No
+2239,43,>=40,Male,Black or African American,Human Resources,Manager,12955,Yes,15,4,1,2,2,3,10,1,3,10,Yes
+2240,18,<40,Female,Black or African American,Sales,Sales Executive,7329,Yes,25,4,2,4,2,3,0,0,5,8,Yes
+2241,39,<40,Male,Asian,Research & Development,Laboratory Technician,7642,No,16,2,3,3,2,3,6,2,6,13,Yes
+2242,26,<40,Male,White,Research & Development,Research Scientist,5392,Yes,3,4,4,3,3,3,1,0,6,5,No
+2243,42,>=40,Male,Black or African American,Research & Development,Research Director,11191,No,11,4,4,3,4,3,12,4,6,15,No
+2244,43,>=40,Male,White,Research & Development,Healthcare Representative,6801,No,11,3,3,3,3,3,12,5,3,19,No
+2245,35,<40,Male,White,Research & Development,Manager,10212,Yes,10,2,3,3,2,3,7,1,4,15,No
+2246,35,<40,Female,Hispanic or Latino,Research & Development,Laboratory Technician,6225,No,2,3,3,3,3,3,4,1,2,10,No
+2247,29,<40,Female,Hispanic or Latino,Sales,Manager,11850,Yes,20,4,2,2,4,4,2,0,0,5,No
+2248,24,<40,Male,White,Sales,Manager,11381,No,5,3,3,3,4,3,0,0,7,6,No
+2249,52,>=40,Male,White,Research & Development,Healthcare Representative,8464,No,23,2,3,3,3,4,18,2,6,23,Yes
+2250,29,<40,Male,White,Research & Development,Laboratory Technician,5944,No,23,3,4,2,4,3,4,0,8,6,No
+2251,51,>=40,Female,White,Research & Development,Research Scientist,7807,No,25,3,3,4,1,3,4,0,3,13,No
+2252,29,<40,Male,White,Research & Development,Research Scientist,5948,Yes,29,3,4,2,2,3,2,0,4,4,Yes
+2253,41,>=40,Male,White,Sales,Sales Executive,8547,No,8,4,3,3,1,3,7,2,4,7,No
+2254,26,<40,Male,White,Sales,Sales Executive,5791,No,13,3,2,2,3,4,2,0,6,6,No
+2255,41,>=40,Female,Hispanic or Latino,Research & Development,Research Scientist,6463,No,15,4,2,3,1,3,9,1,8,16,Yes
+2256,34,<40,Female,White,Research & Development,Manufacturing Director,13226,No,2,4,1,2,3,4,4,0,7,9,No
+2257,34,<40,Female,White,Sales,Sales Representative,6085,No,12,3,3,3,3,3,1,0,6,8,No
+2258,42,>=40,Female,White,Research & Development,Manufacturing Director,16361,No,24,2,1,2,2,3,8,2,0,14,No
+2259,32,<40,Male,Asian,Sales,Sales Executive,7453,No,8,4,3,1,4,4,1,0,5,2,No
+2260,24,<40,Male,White,Research & Development,Healthcare Representative,4852,Yes,21,4,4,3,2,3,1,0,8,8,Yes
+2261,43,>=40,Male,White,Sales,Sales Executive,9919,No,29,1,3,3,3,4,11,4,6,14,No
+2262,26,<40,Male,White,Research & Development,Research Director,13835,No,19,3,4,2,3,3,1,0,0,5,Yes
+2263,41,>=40,Male,Hispanic or Latino,Research & Development,Research Director,12033,No,25,2,1,1,1,3,6,1,8,13,No
+2264,45,>=40,Male,Black or African American,Research & Development,Manager,12122,Yes,28,4,3,4,3,3,14,2,2,18,No
+2265,33,<40,Male,Hispanic or Latino,Sales,Sales Executive,8796,No,23,4,2,2,4,4,3,1,8,7,No
+2266,47,>=40,Female,Two or More Races,Sales,Sales Representative,7278,Yes,1,1,4,4,4,3,6,1,3,11,Yes
+2267,41,>=40,Female,Hispanic or Latino,Research & Development,Research Scientist,6450,No,8,4,2,3,4,3,12,2,8,18,No
+2268,30,<40,Female,Black or African American,Research & Development,Manager,11287,No,10,2,3,2,2,3,4,0,7,12,No
+2269,49,>=40,Female,White,Research & Development,Manufacturing Director,11647,No,13,4,3,3,3,3,15,2,6,21,No
+2270,26,<40,Male,White,Sales,Sales Executive,6726,No,5,3,3,4,1,3,0,0,3,5,No
+2271,33,<40,Female,Two or More Races,Research & Development,Laboratory Technician,5828,Yes,22,2,4,3,2,3,2,0,8,11,No
+2272,35,<40,Male,White,Research & Development,Research Director,10369,Yes,9,2,2,3,1,3,1,0,3,4,No
+2273,42,>=40,Female,White,Research & Development,Research Director,13137,No,10,2,3,3,2,3,4,1,0,13,No
+2274,47,>=40,Male,Black or African American,Sales,Sales Executive,9913,Yes,14,3,4,4,4,3,14,1,5,15,No
+2275,46,>=40,Female,White,Research & Development,Manager,15636,No,24,3,3,3,2,3,5,2,3,13,Yes
+2276,39,<40,Male,Black or African American,Sales,Sales Representative,5980,Yes,11,1,3,2,3,3,9,2,2,18,No
+2277,34,<40,Male,Black or African American,Sales,Manager,12008,No,14,1,1,2,3,3,3,0,4,7,No
+2278,20,<40,Female,White,Human Resources,Manager,12090,No,3,1,4,2,3,4,0,0,2,4,No
+2279,25,<40,Male,Hispanic or Latino,Sales,Sales Representative,5349,No,29,4,4,2,4,3,2,0,8,4,No
+2280,52,>=40,Female,White,Research & Development,Research Scientist,8818,No,21,4,3,2,2,3,7,1,5,9,Yes
+2281,20,<40,Female,White,Research & Development,Research Scientist,4579,No,16,1,4,3,3,4,0,0,2,1,Yes
+2282,29,<40,Female,White,Research & Development,Research Director,12740,No,20,3,3,2,3,3,1,0,4,5,No
+2283,47,>=40,Female,Black or African American,Research & Development,Research Scientist,6914,No,17,1,2,3,1,3,4,0,7,6,No
+2284,38,<40,Female,Hispanic or Latino,Sales,Sales Executive,8217,No,5,4,1,3,3,4,6,1,7,7,No
+2285,45,>=40,Male,White,Research & Development,Research Scientist,7448,No,26,4,3,2,4,3,7,0,5,15,No
+2286,41,>=40,Female,Black or African American,Research & Development,Research Director,10959,No,7,3,3,1,1,4,9,4,4,18,No
+2287,50,>=40,Female,White,Sales,Manager,16127,No,17,4,4,1,1,3,16,7,4,21,No
+2288,39,<40,Female,Asian,Research & Development,Manufacturing Director,10939,Yes,20,4,3,2,2,3,7,1,0,9,No
+2289,42,>=40,Male,White,Sales,Manager,12096,No,22,4,4,3,3,3,2,0,1,8,No
+2290,30,<40,Female,Hispanic or Latino,Sales,Manager,13669,No,11,3,3,3,3,3,3,1,3,11,Yes
+2291,42,>=40,Female,White,Research & Development,Research Scientist,7699,Yes,12,2,3,1,3,3,2,0,5,10,Yes
+2292,33,<40,Female,White,Sales,Manager,11651,Yes,25,2,2,3,3,3,5,1,6,5,Yes
+2293,32,<40,Male,White,Research & Development,Research Director,10488,No,27,2,3,2,4,3,5,2,0,6,No
+2294,45,>=40,Male,Asian,Research & Development,Manufacturing Director,16442,No,24,3,4,3,3,3,5,1,7,12,No
+2295,45,>=40,Male,White,Research & Development,Manager,10546,No,2,2,1,3,4,3,13,4,0,13,Yes
+2296,52,>=40,Female,Asian,Sales,Manager,17668,No,27,2,4,3,4,4,19,8,8,21,No
+2297,51,>=40,Female,White,Sales,Manager,14728,No,19,3,4,2,3,3,17,5,3,23,No
+2298,45,>=40,Male,White,Sales,Sales Executive,9442,No,26,2,3,2,3,3,6,2,6,13,No
+2299,21,<40,Male,White,Research & Development,Manager,10105,Yes,29,3,2,3,4,4,0,0,5,4,No
+2300,53,>=40,Male,Hispanic or Latino,Research & Development,Research Director,13825,No,5,4,2,4,4,3,20,3,8,21,No
+2301,45,>=40,Male,White,Sales,Sales Executive,8248,Yes,11,4,2,4,1,4,6,0,1,8,No
+2302,30,<40,Female,Asian,Research & Development,Healthcare Representative,4981,Yes,23,3,1,1,1,3,4,1,6,12,No
+2303,43,>=40,Female,Asian,Sales,Manager,14229,Yes,19,3,3,3,4,3,2,0,4,11,Yes
+2304,27,<40,Male,Asian,Research & Development,Healthcare Representative,3646,No,28,3,1,3,2,3,0,0,6,6,No
+2305,42,>=40,Male,White,Research & Development,Research Director,12209,Yes,7,2,4,4,4,3,11,3,0,11,No
+2306,25,<40,Male,Black or African American,Research & Development,Research Director,11700,Yes,21,4,3,2,3,4,1,0,8,3,No
+2307,29,<40,Female,Hispanic or Latino,Research & Development,Research Director,14169,No,26,2,2,3,2,3,4,0,0,12,No
+2308,43,>=40,Male,White,Research & Development,Healthcare Representative,6197,No,22,1,3,1,1,3,13,5,4,19,Yes
+2309,46,>=40,Male,Black or African American,Research & Development,Research Director,15642,No,6,4,4,3,2,3,4,1,7,5,Yes
+2310,39,<40,Male,White,Research & Development,Research Scientist,6725,No,11,2,3,3,2,3,4,1,0,9,No
+2311,34,<40,Female,White,Sales,Sales Executive,9171,No,27,3,3,3,3,3,7,1,6,15,No
+2312,18,<40,Female,White,Research & Development,Laboratory Technician,5111,Yes,14,1,4,4,3,3,0,0,1,3,No
+2313,35,<40,Female,White,Research & Development,Healthcare Representative,5820,Yes,28,1,4,3,4,4,6,1,6,15,Yes
+2314,41,>=40,Male,White,Research & Development,Laboratory Technician,5976,No,4,2,4,3,3,3,7,2,6,8,No
+2315,34,<40,Male,White,Research & Development,Research Director,13619,Yes,28,1,2,2,3,3,1,0,8,3,Yes
+2316,36,<40,Male,Black or African American,Research & Development,Research Scientist,6570,No,8,3,4,3,3,3,3,1,5,9,No
+2317,35,<40,Female,White,Research & Development,Manufacturing Director,9124,Yes,9,4,2,3,3,3,5,2,3,8,No
+2318,34,<40,Male,White,Research & Development,Manager,11790,No,2,3,4,2,3,3,7,2,6,13,No
+2319,37,<40,Male,White,Sales,Manager,14159,No,25,4,2,4,1,3,7,3,6,11,No
+2320,34,<40,Female,Black or African American,Sales,Sales Representative,6230,No,11,2,4,2,1,3,5,2,3,12,No
+2321,49,>=40,Female,Black or African American,Sales,Sales Executive,7609,No,28,2,4,3,1,3,10,1,1,17,No
+2322,18,<40,Male,Black or African American,Sales,Manager,11362,No,20,2,1,4,2,4,0,0,8,4,No
+2323,32,<40,Male,Hispanic or Latino,Research & Development,Research Scientist,6726,No,22,3,4,4,3,3,1,0,7,7,No
+2324,29,<40,Male,White,Sales,Manager,9969,No,7,3,1,3,2,3,2,0,4,7,No
+2325,38,<40,Female,Hispanic or Latino,Human Resources,Manager,12992,No,4,3,2,2,4,3,1,0,4,8,No
+2326,37,<40,Female,White,Research & Development,Laboratory Technician,6229,Yes,24,4,3,3,4,3,3,0,0,11,No
+2327,51,>=40,Male,White,Sales,Sales Representative,8129,Yes,29,3,4,2,4,3,10,3,8,14,No
+2328,54,>=40,Male,Black or African American,Research & Development,Laboratory Technician,8112,No,14,3,3,4,4,3,11,2,7,17,No
+2329,30,<40,Female,White,Research & Development,Healthcare Representative,5071,Yes,26,4,3,3,2,3,1,0,4,1,Yes
+2330,37,<40,Female,Black or African American,Research & Development,Manager,14269,No,24,2,3,3,3,3,6,2,5,13,No
+2331,38,<40,Male,Black or African American,Research & Development,Research Scientist,6724,Yes,1,3,4,1,2,4,6,2,7,8,No
+2332,29,<40,Male,White,Research & Development,Healthcare Representative,4565,No,24,4,4,3,4,3,1,0,5,1,No
+2333,42,>=40,Male,White,Sales,Sales Representative,6988,Yes,26,3,2,3,4,3,13,4,3,18,No
+2334,34,<40,Male,White,Human Resources,Human Resources,6921,No,12,2,2,4,4,3,1,0,2,8,No
+2335,27,<40,Female,Asian,Human Resources,Human Resources,5532,Yes,19,3,1,1,3,4,3,0,6,5,No
+2336,34,<40,Female,Black or African American,Research & Development,Healthcare Representative,5785,Yes,5,3,3,4,3,4,1,0,1,1,No
+2337,28,<40,Female,White,Sales,Sales Executive,8359,Yes,26,3,2,1,1,3,3,0,6,5,No
+2338,46,>=40,Male,White,Research & Development,Research Scientist,5771,No,8,2,2,3,1,3,2,0,0,6,Yes
+2339,54,>=40,Female,Black or African American,Sales,Sales Representative,7317,Yes,11,4,4,3,3,3,17,8,4,24,Yes
+2340,39,<40,Male,Hispanic or Latino,Sales,Manager,10200,No,22,4,2,2,3,3,5,0,8,13,No
+2341,38,<40,Male,White,Sales,Manager,13519,Yes,4,3,3,1,4,3,8,0,0,16,No
+2342,38,<40,Male,White,Research & Development,Research Scientist,5729,Yes,15,3,3,3,1,3,5,0,7,8,Yes
+2343,47,>=40,Male,Asian,Research & Development,Laboratory Technician,8271,No,20,4,1,3,4,3,3,1,8,10,No
+2344,47,>=40,Female,White,Research & Development,Research Director,11970,No,12,1,3,2,3,3,14,2,8,18,No
+2345,35,<40,Male,White,Research & Development,Research Scientist,6126,No,20,2,3,3,4,4,1,0,7,3,No
+2346,39,<40,Male,Two or More Races,Research & Development,Laboratory Technician,8162,No,22,3,4,3,4,3,11,0,3,15,No
+2347,42,>=40,Male,Black or African American,Research & Development,Laboratory Technician,7891,No,23,4,2,3,4,3,2,0,6,3,No
+2348,26,<40,Male,White,Research & Development,Manufacturing Director,12796,No,29,1,3,2,2,3,1,0,0,6,No
+2349,47,>=40,Male,White,Human Resources,Human Resources,7433,No,21,4,4,1,4,3,13,3,6,13,No
+2350,52,>=40,Male,White,Sales,Sales Executive,9992,No,10,3,4,3,2,3,10,0,5,15,No
+2351,47,>=40,Female,White,Research & Development,Laboratory Technician,7562,No,24,3,4,3,1,3,5,1,4,9,Yes
+2352,25,<40,Male,Asian,Research & Development,Manager,13271,No,16,2,4,3,3,4,1,0,0,9,No
+2353,19,<40,Male,White,Research & Development,Laboratory Technician,3527,No,23,2,4,3,4,3,0,0,7,6,Yes
+2354,43,>=40,Male,Hispanic or Latino,Research & Development,Manufacturing Director,15826,Yes,8,4,3,3,3,3,13,2,0,18,No
+2355,30,<40,Female,Asian,Research & Development,Manager,13679,Yes,20,4,4,2,4,3,2,0,0,8,No
+2356,39,<40,Male,White,Research & Development,Research Scientist,7968,No,8,3,3,4,3,3,6,0,2,15,No
+2357,50,>=40,Male,White,Research & Development,Research Scientist,8234,No,29,4,2,3,2,4,8,2,7,12,Yes
+2358,31,<40,Male,White,Research & Development,Healthcare Representative,5600,No,6,4,2,3,4,3,2,0,7,2,No
+2359,33,<40,Male,Asian,Sales,Manager,14799,Yes,3,3,2,4,1,3,6,1,6,14,No
+2360,39,<40,Male,Hispanic or Latino,Research & Development,Healthcare Representative,7984,No,29,3,1,4,4,3,5,1,4,9,Yes
+2361,25,<40,Female,White,Research & Development,Manager,11519,Yes,8,3,2,3,2,3,1,0,7,4,Yes
+2362,30,<40,Female,Black or African American,Sales,Manager,12482,No,29,3,1,2,3,4,2,0,1,7,No
+2363,37,<40,Male,Black or African American,Research & Development,Research Director,13340,Yes,23,1,4,4,3,3,7,0,7,11,No
+2364,34,<40,Female,Asian,Research & Development,Laboratory Technician,6071,No,10,3,4,3,2,3,7,2,1,7,No
+2365,42,>=40,Female,White,Research & Development,Research Director,11619,No,5,1,3,3,3,3,10,0,4,11,No
+2366,61,>=40,Male,White,Sales,Sales Representative,9065,Yes,11,4,4,3,2,3,14,4,3,17,No
+2367,37,<40,Male,Asian,Research & Development,Manufacturing Director,14117,No,4,4,2,3,2,3,8,1,0,15,No
+2368,29,<40,Male,White,Research & Development,Manager,11151,No,17,2,4,4,2,3,3,0,4,7,Yes
+2369,49,>=40,Male,White,Sales,Sales Representative,6525,Yes,26,2,3,3,3,3,3,1,6,9,No
+2370,22,<40,Female,White,Sales,Sales Executive,7970,No,3,3,1,3,3,3,0,0,0,1,No
+2371,24,<40,Female,White,Human Resources,Human Resources,5016,No,18,3,1,3,3,3,0,0,1,7,No
+2372,31,<40,Female,White,Sales,Sales Representative,5504,No,8,2,2,3,4,3,3,0,8,7,No
+2373,34,<40,Female,Asian,Research & Development,Healthcare Representative,6082,Yes,24,3,1,3,3,3,7,1,4,10,No
+2374,31,<40,Male,White,Research & Development,Manufacturing Director,11266,No,12,2,2,4,3,3,2,0,6,10,No
+2375,36,<40,Male,White,Sales,Manager,10750,No,21,1,1,3,3,3,4,1,1,9,No
+2376,39,<40,Female,Black or African American,Research & Development,Research Scientist,6204,No,16,1,2,2,3,4,10,4,6,13,No
+2377,46,>=40,Male,White,Research & Development,Research Director,11843,No,14,1,2,3,3,3,14,0,6,21,No
+2378,37,<40,Female,White,Research & Development,Laboratory Technician,5291,No,21,4,4,3,1,4,7,1,6,9,Yes
+2379,31,<40,Female,Hispanic or Latino,Research & Development,Research Director,14556,Yes,16,4,2,2,4,3,2,0,4,11,No
+2380,46,>=40,Female,Asian,Research & Development,Research Director,13331,Yes,27,3,2,2,3,3,4,1,8,5,No
+2381,29,<40,Female,Black or African American,Sales,Sales Representative,5156,No,4,3,3,2,2,3,0,0,1,6,No
+2382,22,<40,Male,Black or African American,Research & Development,Research Scientist,5633,No,1,1,4,3,3,4,0,0,3,3,No
+2383,47,>=40,Female,White,Human Resources,Human Resources,8799,Yes,1,3,3,3,1,3,6,1,1,9,No
+2384,47,>=40,Female,Asian,Sales,Manager,15034,Yes,29,1,4,2,2,3,10,3,7,19,Yes
+2385,29,<40,Male,White,Research & Development,Research Scientist,4916,No,22,3,2,3,1,4,0,0,0,8,No
+2386,33,<40,Female,Hispanic or Latino,Research & Development,Research Scientist,7218,No,15,4,2,2,3,4,1,0,8,2,No
+2387,28,<40,Male,White,Research & Development,Manager,11839,Yes,20,2,2,3,3,3,1,0,4,1,No
+2388,39,<40,Female,Asian,Sales,Sales Executive,7902,Yes,20,4,3,3,4,4,8,0,2,14,Yes
+2389,52,>=40,Male,Hispanic or Latino,Human Resources,Manager,16557,No,3,1,3,3,1,3,14,2,3,21,No
+2390,43,>=40,Male,Hispanic or Latino,Research & Development,Manufacturing Director,14526,No,14,3,3,3,3,3,9,3,0,11,No
+2391,46,>=40,Male,White,Sales,Sales Representative,7645,No,9,1,2,2,3,3,6,2,2,7,No
+2392,44,>=40,Female,White,Sales,Manager,13931,No,19,3,4,3,2,3,7,0,7,10,No
+2393,36,<40,Male,Black or African American,Sales,Sales Executive,7780,No,8,2,2,1,3,3,2,0,1,3,No
+2394,46,>=40,Male,Hispanic or Latino,Research & Development,Research Scientist,7559,No,2,3,3,4,1,3,5,0,1,6,Yes
+2395,43,>=40,Male,White,Research & Development,Research Director,11545,No,4,3,3,3,2,3,13,1,8,17,No
+2396,49,>=40,Female,Two or More Races,Research & Development,Manager,15190,Yes,1,2,3,3,3,3,18,4,4,27,No
+2397,32,<40,Male,Asian,Research & Development,Laboratory Technician,4179,No,11,3,2,3,3,4,4,1,4,8,No
+2398,21,<40,Male,White,Sales,Sales Representative,4467,No,5,4,4,2,2,3,0,0,0,7,No
+2399,46,>=40,Female,Hispanic or Latino,Research & Development,Healthcare Representative,7241,No,2,3,4,3,2,4,11,4,5,19,No
+2400,40,>=40,Male,White,Research & Development,Healthcare Representative,6052,No,27,2,2,4,2,4,2,0,7,3,Yes
+2401,34,<40,Female,White,Sales,Sales Representative,5267,No,13,2,4,2,2,4,8,3,5,8,No
+2402,34,<40,Male,White,Sales,Manager,12899,No,17,4,3,3,2,3,1,0,6,3,No
+2403,59,>=40,Female,Black or African American,Sales,Manager,15037,Yes,17,3,3,3,3,3,18,5,3,23,No
+2404,31,<40,Male,Hispanic or Latino,Research & Development,Healthcare Representative,6381,No,18,3,2,3,3,3,2,0,1,6,Yes
+2405,29,<40,Male,White,Research & Development,Healthcare Representative,4486,No,21,1,3,2,3,3,2,0,0,9,No
+2406,37,<40,Female,Black or African American,Research & Development,Research Scientist,5542,No,28,3,2,3,3,3,7,1,5,14,No
+2407,47,>=40,Male,Black or African American,Research & Development,Manufacturing Director,11436,No,9,2,3,4,3,3,9,3,8,10,No
+2408,57,>=40,Female,Hispanic or Latino,Research & Development,Laboratory Technician,9519,No,6,4,3,2,2,3,8,0,4,16,No
+2409,42,>=40,Male,White,Research & Development,Manufacturing Director,10969,No,28,4,4,3,1,4,6,2,1,9,No
+2410,25,<40,Male,Asian,Research & Development,Research Scientist,3507,Yes,20,1,2,3,4,4,0,0,0,1,No
+2411,54,>=40,Male,White,Sales,Sales Representative,8077,Yes,3,3,4,3,1,3,21,7,2,22,Yes
+2412,36,<40,Female,White,Sales,Sales Executive,8204,No,8,2,2,3,2,3,8,3,3,13,No
+2413,29,<40,Male,White,Sales,Manager,10581,No,3,3,3,3,1,3,2,0,6,6,No
+2414,27,<40,Male,White,Sales,Sales Representative,6216,No,1,4,4,1,3,4,1,0,8,7,Yes
+2415,44,>=40,Male,Asian,Research & Development,Healthcare Representative,7517,No,20,3,3,4,3,3,12,2,7,20,No
+2416,39,<40,Male,White,Research & Development,Research Director,11552,No,27,2,2,3,4,3,3,1,8,8,No
+2417,40,>=40,Male,Hispanic or Latino,Sales,Manager,12381,No,13,2,3,2,4,3,4,0,6,9,No
+2418,48,>=40,Female,White,Sales,Sales Executive,10706,Yes,21,4,2,3,3,3,8,1,7,9,No
+2419,29,<40,Male,White,Research & Development,Research Scientist,6051,No,5,3,3,3,3,4,4,1,7,10,No
+2420,49,>=40,Female,Two or More Races,Research & Development,Research Scientist,7571,No,16,3,2,4,2,3,4,0,0,5,No
+2421,32,<40,Male,Hispanic or Latino,Research & Development,Healthcare Representative,5166,No,21,2,4,4,2,3,1,0,8,7,No
+2422,56,>=40,Female,White,Research & Development,Manufacturing Director,15336,Yes,24,2,3,4,2,4,13,3,1,20,Yes
+2423,42,>=40,Female,White,Sales,Sales Executive,7556,Yes,16,4,1,2,2,4,5,2,6,5,No
+2424,28,<40,Male,White,Sales,Sales Representative,4394,No,24,3,2,4,2,4,2,0,4,10,Yes
+2425,18,<40,Female,White,Human Resources,Manager,13110,No,12,3,2,4,2,3,0,0,3,7,No
+2426,44,>=40,Male,Hispanic or Latino,Human Resources,Manager,15149,No,13,3,3,3,2,3,7,0,0,15,No
+2427,33,<40,Female,Hispanic or Latino,Sales,Manager,13804,Yes,4,4,3,3,4,3,1,0,0,5,No
+2428,35,<40,Female,White,Human Resources,Human Resources,6473,No,9,2,3,3,3,3,2,0,2,5,No
+2429,43,>=40,Male,Asian,Research & Development,Manufacturing Director,16624,No,16,2,4,3,4,3,12,4,0,12,No
+2430,46,>=40,Male,Black or African American,Research & Development,Manager,17347,No,1,3,2,2,3,3,15,0,7,23,Yes
+2431,48,>=40,Male,White,Research & Development,Manufacturing Director,13754,No,5,3,4,1,3,3,6,0,2,9,No
+2432,26,<40,Male,White,Research & Development,Research Scientist,3726,Yes,21,4,2,2,2,4,0,0,1,3,No
+2433,49,>=40,Male,Black or African American,Research & Development,Research Scientist,6862,No,5,4,2,3,2,3,3,0,5,6,No
+2434,31,<40,Male,Black or African American,Research & Development,Manager,14037,No,24,3,3,2,2,4,4,0,3,5,No
+2435,18,<40,Male,White,Sales,Sales Executive,4623,No,25,1,4,3,4,3,0,0,3,3,No
+2436,26,<40,Female,White,Sales,Sales Representative,4838,No,19,4,3,2,4,3,1,0,1,2,Yes
+2437,38,<40,Male,White,Research & Development,Healthcare Representative,6200,No,9,3,4,4,1,3,8,2,1,15,No
+2438,28,<40,Male,Hispanic or Latino,Research & Development,Healthcare Representative,5355,Yes,29,3,4,4,2,3,3,0,5,9,No
+2439,36,<40,Female,White,Sales,Sales Representative,6645,No,27,3,4,4,3,3,9,1,4,18,No
+2440,40,>=40,Male,White,Research & Development,Research Scientist,7669,No,8,3,1,3,2,4,2,0,8,3,Yes
+2441,35,<40,Male,Hispanic or Latino,Human Resources,Human Resources,6017,No,19,2,4,2,3,3,2,0,3,3,Yes
+2442,32,<40,Male,Asian,Sales,Sales Executive,8325,Yes,18,4,4,3,2,4,1,0,4,2,No
+2443,25,<40,Female,Asian,Research & Development,Research Director,12479,No,15,4,3,2,3,3,1,0,0,1,No
+2444,37,<40,Female,White,Research & Development,Laboratory Technician,6338,Yes,4,3,4,4,2,4,8,0,1,13,Yes
+2445,18,<40,Male,White,Research & Development,Research Director,11764,Yes,15,3,4,2,3,3,0,0,2,5,No
+2446,30,<40,Female,White,Sales,Sales Representative,6310,No,13,1,3,3,1,3,1,0,4,1,No
+2447,28,<40,Male,White,Research & Development,Manufacturing Director,12762,No,28,1,1,3,3,3,1,0,4,1,No
+2448,34,<40,Female,Asian,Research & Development,Manufacturing Director,13365,No,18,2,3,4,4,3,3,1,3,8,No
+2449,35,<40,Female,White,Research & Development,Manufacturing Director,10074,No,20,2,1,3,2,4,5,2,2,10,Yes
+2450,45,>=40,Female,White,Research & Development,Research Director,11695,No,5,4,2,3,4,3,5,1,8,8,No
+2451,51,>=40,Male,White,Research & Development,Healthcare Representative,8082,No,18,4,3,3,4,3,4,1,0,6,Yes
+2452,26,<40,Male,White,Research & Development,Laboratory Technician,5110,No,28,3,2,3,4,3,2,0,5,10,No
+2453,54,>=40,Male,Hispanic or Latino,Research & Development,Manufacturing Director,14133,Yes,8,3,3,1,3,3,8,2,6,13,No
+2454,29,<40,Female,White,Research & Development,Manager,13962,No,1,2,4,4,3,3,2,0,3,2,No
+2455,38,<40,Male,White,Sales,Sales Representative,5582,No,19,4,3,3,4,3,2,0,2,4,No
+2456,41,>=40,Female,White,Research & Development,Manufacturing Director,10601,No,23,3,4,1,1,3,11,4,7,11,No
+2457,59,>=40,Female,White,Research & Development,Manufacturing Director,12643,No,26,1,1,4,3,3,16,0,8,18,Yes
+2458,32,<40,Male,White,Research & Development,Laboratory Technician,6256,Yes,17,3,4,3,4,3,6,0,0,7,No
+2459,20,<40,Female,Black or African American,Sales,Manager,9197,No,29,4,4,4,3,3,0,0,8,4,No
+2460,50,>=40,Female,Black or African American,Research & Development,Laboratory Technician,6788,Yes,27,4,2,4,4,4,18,0,6,20,No
+2461,29,<40,Female,Hispanic or Latino,Research & Development,Manager,10896,No,2,1,2,3,3,4,4,0,0,10,No
+2462,33,<40,Female,Asian,Research & Development,Manufacturing Director,13693,Yes,19,4,2,1,4,3,4,1,6,11,Yes
+2463,26,<40,Female,Asian,Sales,Sales Executive,6095,No,16,2,4,2,3,3,2,0,4,8,Yes
+2464,33,<40,Male,Asian,Research & Development,Research Director,9417,No,18,1,4,4,3,3,3,1,6,4,Yes
+2465,29,<40,Female,White,Human Resources,Manager,10004,No,2,4,2,4,3,3,2,0,8,11,No
+2466,43,>=40,Male,White,Sales,Sales Representative,7566,No,28,4,3,3,4,3,2,0,7,11,Yes
+2467,37,<40,Female,White,Human Resources,Human Resources,7504,No,27,3,1,3,4,4,6,2,5,12,No
+2468,30,<40,Female,Asian,Research & Development,Laboratory Technician,6589,No,6,3,3,2,4,3,4,0,1,13,No
+2469,45,>=40,Male,Two or More Races,Research & Development,Research Director,14129,No,7,4,4,4,3,3,12,3,7,14,No
+2470,39,<40,Female,Asian,Research & Development,Research Director,15657,No,6,4,2,2,2,3,3,1,3,9,No
