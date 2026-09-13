@@ -1,0 +1,16 @@
+source,category,demographic_group,acceptable_pct,unacceptable_pct,fairer_than_humans_pct,less_fair_pct,equal_fairness_pct
+Pew Research Center,AI in Hiring Decisions,Total US Adults,28,71,27,47,26
+Pew Research Center,AI in Hiring Decisions,Men,35,64,32,43,25
+Pew Research Center,AI in Hiring Decisions,Women,22,77,22,51,27
+Pew Research Center,AI in Hiring Decisions,White,28,71,26,49,25
+Pew Research Center,AI in Hiring Decisions,Black,27,72,28,44,28
+Pew Research Center,AI in Hiring Decisions,Hispanic,33,66,31,40,29
+Pew Research Center,AI in Hiring Decisions,Asian,39,60,38,35,27
+Pew Research Center,AI in Hiring Decisions,Ages 18-29,34,65,33,42,25
+Pew Research Center,AI in Hiring Decisions,Ages 30-49,30,69,29,46,25
+Pew Research Center,AI in Hiring Decisions,Ages 50-64,26,73,24,48,28
+Pew Research Center,AI in Hiring Decisions,Ages 65+,22,77,21,52,27
+Pew Research Center,Automated Resume Screening,Total US Adults,32,67,30,43,27
+Pew Research Center,AI Video / Facial Interview Analysis,Total US Adults,19,79,15,60,25
+Pew Research Center,AI Workplace Productivity Surveillance,Total US Adults,29,70,24,51,25
+Pew Research Center,AI Determining Job Promotions,Total US Adults,22,77,20,53,27

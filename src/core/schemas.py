@@ -1,10 +1,61 @@
 """
 Core data contracts and schemas for WorkforceGuard.
-Shared across analytics, modeling, bias auditing, and the executive dashboard.
+Includes schemas for real BLS/O*NET AI exposure, Pew/Stanford AI adoption & governance surveys,
+EEOC federal workforce benchmarks, and regulatory algorithmic bias audits (NYC LL144 & EU AI Act).
 """
 
 from dataclasses import dataclass, field
 from typing import List, Dict, Any, Optional
+
+@dataclass
+class IndustryAIExposureRecord:
+    naics_code: str
+    title: str
+    industry_type: str
+    covered_employment_2024: int
+    weighted_exposure: float
+    risk_tier: str
+
+@dataclass
+class OccupationAIExposureRecord:
+    title: str
+    category: str
+    median_pay_annual: float
+    num_jobs_2024: int
+    projected_employment_2034: int
+    outlook_pct: float
+    exposure_tier: str
+
+@dataclass
+class PewAISurveyRecord:
+    source: str
+    category: str
+    demographic_group: str
+    acceptable_pct: float
+    unacceptable_pct: float
+    fairer_than_humans_pct: float
+    less_fair_pct: float
+    equal_fairness_pct: float
+
+@dataclass
+class EnterpriseAIGovernanceRecord:
+    function: str
+    adoption_rate_pct: float
+    risk_recognized_pct: float
+    risk_mitigated_pct: float
+    governance_gap_pct: float
+
+@dataclass
+class EEOCBenchmarkRecord:
+    job_category: str
+    total_count: int
+    female_pct: float
+    male_pct: float
+    white_pct: float
+    black_pct: float
+    hispanic_pct: float
+    asian_pct: float
+    other_pct: float
 
 @dataclass
 class EmployeeRecord:

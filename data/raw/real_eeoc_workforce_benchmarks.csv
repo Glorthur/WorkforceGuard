@@ -1,0 +1,11 @@
+job_category,total_count,female_pct,male_pct,white_pct,black_pct,hispanic_pct,asian_pct,other_pct
+Executive / Senior Officials,1980000,34.2,65.8,81.5,6.8,5.4,4.9,1.4
+First / Mid-Level Managers,4850000,41.5,58.5,74.3,9.2,8.9,6.1,1.5
+Professionals,12100000,53.4,46.6,66.8,8.4,7.3,15.6,1.9
+Technicians,3200000,49.1,50.9,63.2,14.1,12.8,7.8,2.1
+Sales Workers,6400000,58.6,41.4,59.4,15.2,18.9,4.6,1.9
+Administrative Support,7100000,72.3,27.7,57.1,17.8,18.3,4.8,2.0
+Craft Workers (Skilled),3800000,9.8,90.2,65.4,10.1,20.7,2.6,1.2
+Operatives (Semi-Skilled),6900000,32.4,67.6,49.5,20.3,24.8,3.8,1.6
+Laborers & Helpers,4200000,27.9,72.1,43.8,21.4,29.8,3.2,1.8
+Service Workers,5900000,62.1,37.9,42.1,23.9,27.2,4.7,2.1

@@ -1,3 +1,7 @@
 .kilocode/worktrees/
 .agents/worktrees/
-coord
+coord/
+coord-views/
+__pycache__/
+*.pyc
+*.pyo
