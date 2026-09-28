@@ -15,3 +15,4 @@ data/W*_*.zip
 data/processed/
 # Local study guides, not published
 project_guide/
+CLAUDE_DESIGN_BRIEF.md
