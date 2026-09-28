@@ -1,68 +1,52 @@
 """
 WorkforceGuard: AI, HR Analytics & Algorithmic Governance Cockpit.
-Entry point for the Streamlit multi-tab executive application.
+Two-Dataset Edition: U.S. BLS Industry Employment & AI Exposure + Pew Research Center Workplace AI Survey.
+Completely free of machine learning training or predictive regressions.
 """
 import streamlit as st
+import streamlit.components.v1 as components
+from src.ui.editorial_renderer import build_editorial_html
 
 st.set_page_config(
-    page_title="WorkforceGuard | AI & Algorithmic Governance Engine",
+    page_title="WorkforceGuard · AI Workforce Governance",
     page_icon="🛡️",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="collapsed",
 )
 
-from src.ui.tab_overview import render_overview_tab
-from src.ui.tab_predictive import render_predictive_tab
-from src.ui.tab_bias_audit import render_bias_audit_tab
-from src.ui.tab_compliance import render_compliance_tab
+# Eliminate Streamlit chrome & padding for responsive full-bleed bespoke interface
+st.markdown(
+    """
+    <style>
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    header[data-testid="stHeader"] {visibility: hidden; height: 0px;}
+    [data-testid="stSidebar"] {display: none;}
+    .block-container {
+        padding-top: 0rem !important;
+        padding-bottom: 0rem !important;
+        padding-left: 0rem !important;
+        padding-right: 0rem !important;
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+    .stApp {
+        background-color: #0d1322 !important;
+    }
+    iframe {
+        border: none !important;
+        width: 100% !important;
+        min-height: 98vh !important;
+        background-color: #0d1322 !important;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
 
 def main():
-    # Sidebar
-    with st.sidebar:
-        st.title("🛡️ WorkforceGuard")
-        st.markdown("**AI & Algorithmic Governance Engine**")
-        st.caption("Version 2.4 | Enterprise Compliance Edition")
-        st.markdown("---")
-        
-        st.markdown("### 🏛️ Regulatory Standards")
-        st.markdown("- **EEOC 4/5ths Rule** (29 C.F.R. § 1607)")
-        st.markdown("- **NYC Local Law 144** (AEDT Audit)")
-        st.markdown("- **EU AI Act** (Annex III High-Risk AI)")
-        st.markdown("- **Title VII EEO-1** (Federal Benchmarks)")
-        st.markdown("---")
-        
-        st.markdown("### 📊 Empirical Data Sources")
-        st.markdown("- **U.S. Bureau of Labor Statistics** (355 Industries)")
-        st.markdown("- **O*NET** (342 Detailed Occupations)")
-        st.markdown("- **Pew Research Center** (ATP Wave 119)")
-        st.markdown("- **Stanford HAI AI Index** (Enterprise Survey)")
-        st.markdown("- **EEOC EEO-1 National Aggregate** (56M Workers)")
-        st.markdown("---")
-        st.info("System Status: **Operational & Audited**")
-
-    # Main Header
-    st.title("WorkforceGuard: AI Workforce Analytics & Algorithmic Governance")
-    st.markdown(
-        "A unified compliance and intelligence engine auditing **AI workplace adoption**, "
-        "**occupational exposure**, and **employment algorithmic decision systems** against U.S. and European legal standards."
-    )
-    
-    # Navigation Tabs
-    tab1, tab2, tab3, tab4 = st.tabs([
-        "🌐 Real AI Exposure & Adoption",
-        "🔮 Predictive AI & Proxy Detection",
-        "⚖️ EEOC Bias Audit & 4/5ths Rule",
-        "📜 NYC LL144 & EU AI Act Compliance"
-    ])
-    
-    with tab1:
-        render_overview_tab()
-    with tab2:
-        render_predictive_tab()
-    with tab3:
-        render_bias_audit_tab()
-    with tab4:
-        render_compliance_tab()
+    html_content = build_editorial_html()
+    components.html(html_content, height=1350, scrolling=True)
 
 if __name__ == "__main__":
     main()

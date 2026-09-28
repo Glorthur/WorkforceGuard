@@ -5,3 +5,11 @@ coord-views/
 __pycache__/
 *.pyc
 *.pyo
+*.db
+.venv/
+.pytest_cache/
+
+# Pew microdata: redistribution restricted by Pew terms; the derived CSVs in data/raw/ are committed instead
+data/W*_*.zip
+# Rebuilt from data/raw/ on every ingest
+data/processed/
