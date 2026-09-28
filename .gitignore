@@ -13,3 +13,5 @@ __pycache__/
 data/W*_*.zip
 # Rebuilt from data/raw/ on every ingest
 data/processed/
+# Local study guides, not published
+project_guide/
