@@ -162,10 +162,13 @@ def build_editorial_html() -> str:
         names = single_industry[0] if len(single_industry) == 1 else ", ".join(single_industry[:-1]) + " and " + single_industry[-1]
         exposure_notes.append(f"{names} each map to one counted industry, so their weighted and unweighted scores match.")
     exposure_notes.append(
-        "Totals count each worker once, using the broadest industry row present in each NAICS branch. "
-        "The source file does not cover every industry, so the total is below overall U.S. employment. "
-        "Exposure scores are Gemini Flash ratings of 342 BLS occupations (Karpathy, 2026), averaged per industry with "
-        "BLS National Employment Matrix weights. They are rough LLM estimates, not measurements."
+        "About the score: a language model rated each of 342 BLS occupations from 0 to 10 using a fixed rubric "
+        "(Karpathy, 2026). Industry scores average those ratings by employment. They are best read as relative "
+        "rankings, not precise measurements."
+    )
+    exposure_notes.append(
+        f"Coverage: the {total_emp / 1e6:.1f}M workers are the jobs in those rated occupations, each counted once, "
+        "so the total sits below overall U.S. employment."
     )
 
     # 2. Pew Data (ATP W119 microdata)
@@ -869,7 +872,7 @@ footer {{
         <div class="eyebrow">01 · Macroeconomic AI exposure intelligence</div>
         <h1 class="hero-title">Finance, information and professional services carry the most AI exposure; <em>the largest employers carry the least</em>.</h1>
       </div>
-      <p class="hero-desc"><em>Exposure</em> (0–10) averages LLM-rated AI exposure scores for the occupations in each industry (Karpathy, 2026), weighted by 2024 BLS employment and counting each worker once. Read scores as rough estimates.</p>
+      <p class="hero-desc"><em>Exposure</em> (0–10) estimates how much of an industry&rsquo;s work today&rsquo;s AI could perform or speed up, based on AI ratings of 342 occupations weighted by 2024 employment.</p>
     </section>
 
     <section class="kpi-strip">
@@ -1400,7 +1403,7 @@ footer {{
 
   <!-- Footnote -->
   <footer>
-    <span id="foot-source">BLS National Employment Matrix, 2024 · occupation AI-exposure scores: Karpathy (2026), LLM-rated</span>
+    <span id="foot-source">Employment: BLS National Employment Matrix, 2024 · Exposure ratings: Karpathy (2026), github.com/karpathy/jobs</span>
     <span>MySQL 8.0 · descriptive SQL, no models · 23 Sep 2026</span>
   </footer>
 </div>
@@ -1915,7 +1918,7 @@ function showTab(idx) {{
   const foot = document.getElementById('foot-source');
   if (foot) {{
     if (idx === 0) {{
-      foot.textContent = 'BLS National Employment Matrix, 2024 · occupation AI-exposure scores: Karpathy (2026), LLM-rated';
+      foot.textContent = 'Employment: BLS National Employment Matrix, 2024 · Exposure ratings: Karpathy (2026), github.com/karpathy/jobs';
     }} else if (idx === 1) {{
       foot.textContent = 'Pew Research Center, American Trends Panel Wave 119 · N = 11,004 U.S. adults · weighted estimates from microdata';
     }} else if (idx === 2) {{
