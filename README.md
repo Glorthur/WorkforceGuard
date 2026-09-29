@@ -59,7 +59,12 @@ python -m pytest
   - Summing every row gives 180.5M workers.
   - WorkforceGuard counts only rows with no parent in the file (`counts_in_total = 1`), which gives **104.1M**.
   - That is the workforce this file covers, not total U.S. employment.
-- ⚠️ **The 0–10 exposure score's source is not yet documented.** BLS and O\*NET do not publish an AI exposure score, so treat industry scores as provisional until the method is cited.
+- **Where the 0–10 exposure score comes from.**
+  - Each of the 342 occupations in the BLS *Occupational Outlook Handbook* was scored for AI exposure by an LLM (Gemini Flash), using a fixed rubric, in Andrej Karpathy's [`karpathy/jobs`](https://github.com/karpathy/jobs) (March 2026).
+  - An industry's score is the employment-weighted average of its occupations' scores. The weights are 2024 employment from the BLS National Employment Matrix. `covered_employment` counts jobs in those 342 occupations only.
+- ⚠️ **Treat the scores as rough estimates.** They are an LLM's judgement, not a measurement, and Karpathy himself describes them as rough estimates, not an economic publication.
+- **How this was checked.** The script that built this file isn't in the repo, so the method was confirmed by recomputing four industries from Karpathy's scores and the BLS matrix. Occupation counts and employment matched within about 5%. Scores matched within 0.11 in three industries and within 0.45 in the fourth; the gap reflects BLS's switch to 2025 figures.
+- **Licensing.** `karpathy/jobs` has no license. Scores are used here with attribution; BLS data is public domain.
 
 ### 2. Public opinion: Pew Research Center, American Trends Panel Wave 119
 - **Survey.** Fieldwork Dec 12–18, 2022; N = 11,004 U.S. adults.

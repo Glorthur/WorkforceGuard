@@ -12,7 +12,12 @@
 ### Scope & Constraints
 1. **Exactly two datasets**
    - **Dataset 1 (labour)**: `data/raw/real_bls_industry_ai_exposure.csv`. It has 355 rows: 18 sector-total rows plus 337 industry rows at NAICS levels 3–6, with 2024 covered employment. The row structure ("Summary" / "Line Item") follows the BLS National Employment Matrix.
-     - ⚠️ **The 0–10 `weighted_exposure` score has no documented source.** BLS and O\*NET do not publish an AI exposure score, and it is not Felten et al.'s AIOE (which is not on a 0–10 scale). Its construction must be cited before publication. The dashboard states this caveat on tab 01.
+     - **Source of the 0–10 `weighted_exposure` score (resolved 29 Sep 2026).**
+       - *Occupation scores:* Karpathy, A. (2026), [`karpathy/jobs`](https://github.com/karpathy/jobs). Gemini Flash rated each of the 342 BLS *Occupational Outlook Handbook* occupations from 0 to 10 against a fixed rubric (`prompt.md`).
+       - *Industry score:* the employment-weighted average of those scores across an industry's occupations, weighted by 2024 BLS National Employment Matrix employment. `occupation_count` is the number of scored occupations in the industry; `covered_employment_2024` is their total employment.
+       - *Evidence:* `real_bls_occupations_ai_exposure.csv` is Karpathy's `occupations.csv`, all 342 rows, with a matrix link added per occupation.
+       - *Caveat:* these are LLM judgements. Karpathy calls them rough estimates. It is not O\*NET-based and not Felten et al.'s AIOE.
+       - *License:* `karpathy/jobs` has no license; used with attribution.
    - **Dataset 2 (public opinion)**: official **Pew Research Center American Trends Panel Wave 119 microdata** (`data/W119_Dec22.zip`). Fieldwork Dec 12–18, 2022, **N = 11,004** U.S. adults, weight `WEIGHT_W119`.
      - `python -m src.data_pipeline.build_pew_w119` converts it into `data/raw/pew_w119_workplace_ai.csv` and `data/raw/pew_w119_hiring_ai_vs_humans.csv`. This build step needs `pyreadstat`; the app does not.
      - `data/W152_Aug24.zip` (ATP Wave 152, Aug 2024, N = 5,410) is in the repo but **not used**.
@@ -260,7 +265,18 @@ python -m pytest        # pytest.ini: testpaths = tests
 
 ## 7. Open Items
 
-1. **Exposure score provenance.** Document how `weighted_exposure` was built (source, method, scale) and cite it.
+1. **Exposure score provenance: resolved (29 Sep 2026), with one residual gap.** The source is Karpathy's LLM-rated occupation scores, aggregated with BLS National Employment Matrix weights (see §1).
+   - **The gap:** the script that built the industry file isn't in the repo, and BLS has since replaced the 2024 matrix with 2025 figures. So the values were checked by recomputing four industries from the current sources, not by an exact rebuild:
+
+   | NAICS | Industry | File: n / employment / score | Recomputed (2025 matrix): n / employment / score |
+   |---|---|---|---|
+   | 533000 | Lessors of nonfinancial intangible assets | 38 / 12,800 / 7.742 | 39 / 12,600 / 7.786 |
+   | 481000 | Air transportation | 61 / 298,600 / 4.610 | 63 / 304,400 / 4.626 |
+   | 524000 | Insurance carriers | 126 / 2,342,900 / 7.722 | 126 / 2,384,800 / 7.611 |
+   | 621100 | Offices of physicians | 132 / 2,513,300 / 5.989 | 138 / 2,548,000 / 5.537 |
+
+   - **Result:** counts and employment agree within about 5%, and scores within 0.11 in three industries; the physicians gap (0.45) is unexplained beyond the change in data vintage.
+   - **To close it fully:** rebuild the industry file from the archived 2024–34 matrix and commit the build script.
 2. **Credentials.** No password is in code or git history; `src/database/` has never been committed. The local MySQL root password was, however, written in plaintext in earlier docs. It is now removed from them; rotate it if those docs were ever shared.
 3. **Concurrent agents.** A Codex agent edited `editorial_renderer.py` (the `SECTOR_NAME_MAP` short names) during the audit. Confirm no agent is still writing to the repo, then commit.
 4. **Unused data.** Either use `W152_Aug24.zip` (it adds 2024 items such as AI vs humans at "making a hiring decision") or remove it.
@@ -296,7 +312,7 @@ python -m pytest        # pytest.ini: testpaths = tests
 
 ## 9. Questions for the Next Audit
 1. Is the `counts_in_total` rule (the broadest row present in each NAICS branch) the right unit of aggregation, or should exposure be computed at leaf level and re-weighted?
-2. Once its provenance is documented, is the exposure score appropriate for industry-level comparison?
+2. Is an LLM-rated occupation score (Karpathy, 2026) appropriate for industry-level comparison? How sensitive are sector rankings to the model and prompt used?
 3. Are Kish-deff margins of error sufficient, or should the dashboard use Pew's published design effect or replicate weights?
 4. Should the Art. 5(1)(f) classification carry a caveat for facial analysis that does *not* infer emotions (for example, identity verification)?
 5. Is the diverging chart's sign convention (negative = trust in AI) intuitive for executive readers?

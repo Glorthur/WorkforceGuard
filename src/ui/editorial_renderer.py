@@ -164,7 +164,8 @@ def build_editorial_html() -> str:
     exposure_notes.append(
         "Totals count each worker once, using the broadest industry row present in each NAICS branch. "
         "The source file does not cover every industry, so the total is below overall U.S. employment. "
-        "The 0-10 exposure score is not a BLS or O*NET publication; cite how it was constructed."
+        "Exposure scores are Gemini Flash ratings of 342 BLS occupations (Karpathy, 2026), averaged per industry with "
+        "BLS National Employment Matrix weights. They are rough LLM estimates, not measurements."
     )
 
     # 2. Pew Data (ATP W119 microdata)
@@ -868,7 +869,7 @@ footer {{
         <div class="eyebrow">01 · Macroeconomic AI exposure intelligence</div>
         <h1 class="hero-title">Finance, information and professional services carry the most AI exposure; <em>the largest employers carry the least</em>.</h1>
       </div>
-      <p class="hero-desc"><em>Exposure</em> (0–10) is an AI task-exposure score for each industry. Sector scores are weighted by 2024 BLS covered employment, counting each worker once.</p>
+      <p class="hero-desc"><em>Exposure</em> (0–10) averages LLM-rated AI exposure scores for the occupations in each industry (Karpathy, 2026), weighted by 2024 BLS employment and counting each worker once. Read scores as rough estimates.</p>
     </section>
 
     <section class="kpi-strip">
@@ -1399,7 +1400,7 @@ footer {{
 
   <!-- Footnote -->
   <footer>
-    <span id="foot-source">U.S. Bureau of Labor Statistics, 2024 covered employment · exposure score source to be documented</span>
+    <span id="foot-source">BLS National Employment Matrix, 2024 · occupation AI-exposure scores: Karpathy (2026), LLM-rated</span>
     <span>MySQL 8.0 · descriptive SQL, no models · 23 Sep 2026</span>
   </footer>
 </div>
@@ -1914,7 +1915,7 @@ function showTab(idx) {{
   const foot = document.getElementById('foot-source');
   if (foot) {{
     if (idx === 0) {{
-      foot.textContent = 'U.S. Bureau of Labor Statistics, 2024 covered employment · exposure score source to be documented';
+      foot.textContent = 'BLS National Employment Matrix, 2024 · occupation AI-exposure scores: Karpathy (2026), LLM-rated';
     }} else if (idx === 1) {{
       foot.textContent = 'Pew Research Center, American Trends Panel Wave 119 · N = 11,004 U.S. adults · weighted estimates from microdata';
     }} else if (idx === 2) {{
